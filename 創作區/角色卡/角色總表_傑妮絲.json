@@ -354,7 +354,7 @@
       },
       "conflicts": "公主把她當成想殺自己的刺客。",
       "unspoken": "她希望公主有一天能不再害怕，就算到時候公主還是不知道是誰在守著她。",
-      "visibility": "known_by: [傑妮絲]",
+      "visibility": "private",
       "as_of": "露的迷宮開始時"
     },
     {
