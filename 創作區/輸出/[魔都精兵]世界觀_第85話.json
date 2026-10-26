@@ -1,0 +1,1461 @@
+{
+  "entries": {
+    "0": {
+      "uid": 0,
+      "constant": true,
+      "vectorized": false,
+      "selective": false,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 900,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "總覽｜［魔都精兵的奴隸］",
+      "content": "現代日本（故事開始於 2020 年）。幾十年前，日本各地開始出現通往異界「魔都」的門，吃人的怪物醜鬼從門裡湧出，引發魔都災害；魔都裡同時長著吃了就能得到異能的「桃」。桃只對女性有效，男女的力量關係因此崩壞，社會變成女尊男卑，各國領袖也多是女性。日本政府組成只由女性能力者構成的「魔防隊」，管理魔都、討伐醜鬼。\n這個世界沒有：男性的桃之能力者；能打倒醜鬼的一般武器；日本以外的門。",
+      "key": [
+        "魔都精兵的奴隸"
+      ],
+      "keysecondary": [],
+      "extensions": {},
+      "displayIndex": 0
+    },
+    "1": {
+      "uid": 1,
+      "constant": true,
+      "vectorized": false,
+      "selective": false,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 890,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "總覽｜［魔都精兵的奴隸］世界的規則",
+      "content": "魔都是門另一邊的異空間，大小約和東京都相當：寸草不生的岩山荒野，天空被雷雲覆蓋；醜鬼遍布全境，桃長在中央的地下洞窟。\n醜鬼一般武器打不倒，只有桃的能力才有效；一頭醜鬼跑到現世，就會死幾十個人。魔防隊七番組組長羽前京香是唯一不靠桃之力也能斬殺醜鬼的人。\n桃只會給女性異能；一人只能吃一顆，要向政府申請、通過審查，在專人陪同下吃。也有女性選擇不吃。\n魔防隊分一到十番組（不用不吉利的「四」），守魔都八個方位與中央；男性不能當正式隊員。七番組寮的和倉優希是唯一以「雇用」名義待在魔防隊的男人。\n門只會出現在日本：固定的門由政府管理，魔都那一側蓋著魔防隊的寮；突然張開的黑洞狀門大多幾小時後消失，路人被吸進魔都或醜鬼跑出來，就是「魔都災害」。\n最近，自稱「八雷神」的存在現身，說要毀滅人類；魔防隊剛在橫濱討伐了其中一柱「空折」。",
+      "key": [
+        "魔都精兵的奴隸"
+      ],
+      "keysecondary": [],
+      "extensions": {},
+      "displayIndex": 1
+    },
+    "2": {
+      "uid": 2,
+      "constant": true,
+      "vectorized": false,
+      "selective": false,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 880,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "索引｜［魔都精兵的奴隸］",
+      "content": "這個世界有：\n・魔都是門另一邊的異空間，大小約和東京都相當；岩山荒野、雷雲滿天，醜鬼遍布，中央的地下洞窟長著桃。\n・門（クナド）是現世與魔都的通道；固定的門由政府管理，突然張開的門會引發魔都災害。\n・醜鬼（正式名稱黃泉醜鬼）是魔都全境的凶暴怪物，愛襲擊人；一般武器無效，只有桃的能力打得倒。\n・桃是魔都中央地下洞窟長的果實，吃了能得到異能，但只對女性有效；一人一顆，要申請審查。\n・桃只給女性異能，社會因此變成女尊男卑；男性的出路與地位受限。\n・魔防隊（魔都防衛隊）是政府組成、全由女性能力者構成的組織，分一到十番組（沒有四番組）守魔都。\n・七番組寮在魔都西南的裏鬼門，門通往高知；組長羽前京香、副組長東日萬凜、隊員駿河朱朱與大川村寧，管理人和倉優希。\n・六番組寮在魔都南方；組長出雲天花、副組長東八千穗、隊員若狹佐原，常和七番組合作。\n・魔防隊總本部是魔都中央的十番組寮，有三個通往現世的門；總組長山城戀在這裡，庭園裡養著兩隻柴犬。\n・東家是和魔防隊歷史深深相連的名門，出過總組長；九番組全由東家的人組成，現任當主是東風舞希。\n・人型醜鬼是有智慧、人類模樣的醜鬼；魔防隊最近才知道她們的存在。\n・陰陽寮是和魔都相關的政府機關；一般人對它所知不多。\n・八雷神是自稱神、統率醜鬼、要毀滅人類的存在；魔防隊知道的有紫黑、壤龍、雷煉，以及剛被討伐的空折。\n・月山大井澤事件是山形縣月山的大型魔都災害，羽前京香的故鄉八百人只剩她一人生還。\n・橫濱事件是八雷神空折在橫濱綁架女性、放醜鬼襲擊城市，最後被羽前京香與和倉優希討伐的事件，剛結束。",
+      "key": [
+        "魔都精兵的奴隸"
+      ],
+      "keysecondary": [],
+      "extensions": {},
+      "displayIndex": 2
+    },
+    "3": {
+      "uid": 3,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 600,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "地點｜［魔都］",
+      "content": "魔都是幾十年前出現在日本各地的門所通往的異空間，大小約和東京都相當。\n樣子：雷雲低垂的天空，雷聲不斷；寸草不生的岩山與荒野；遠處醜鬼的吼聲。\n出入：各組寮裡的固定門通往現世的指定地點；突然張開的黑洞狀門（魔都災害）；魔都邊緣的地下洞窟——人型醜鬼的據點在那一帶。\n能做的事：討伐醜鬼；採集桃（出差組）；巡邏、救援迷路的人。\n規矩：一般人不能自由進出魔都；固定的門由政府與魔防隊管理；在魔都吃桃，偶爾會讓桃的力量暴走（見人型醜鬼）。\n誰管事：日本政府（魔防隊）（實際上：沒有人真正掌控魔都；醜鬼與八雷神在魔都深處）。\n常見的人：巡邏與討伐的魔防隊員；迷路的人（魔都災害的受害者）；偶爾混進來搶桃的外國恐怖分子。\n危險：醜鬼群與合體的巨大醜鬼；特殊個體（有名號的強大醜鬼）；八雷神。\n魔都寸草不生，是連綿的岩山與荒野，天空被雷雲覆蓋。\n魔都全境都有醜鬼出沒；桃長在魔都中央的地下洞窟裡。\n魔都分成八個方位與中央，由魔防隊的九個組分守；各組的寮就蓋在固定的門旁邊，四周張著擋醜鬼的結界。\n魔都的東北是「鬼門」、西南是「裏鬼門」，這兩個方位的醜鬼特別多，分別由二番組與七番組負責。\n魔都的邊緣連桃都不長。\n當地的說法：「魔都」一般簡稱就叫魔都；「裏鬼門」＝魔都的西南，七番組的轄區。\n魔都沒有草木（地下洞窟的桃樹除外）；魔都沒有人類的城鎮。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:魔都)))(?=[\\s\\S]*?(?:(?:荒野)|(?:岩山)|(?:雷雲)|(?:天空)|(?:深處)|(?:邊緣)|(?:地形)|(?:探索)|(?:迷路)|(?:方位)|(?:鬼門))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_brief": "魔都是門另一邊的異空間，大小約和東京都相當；岩山荒野、雷雲滿天，醜鬼遍布，中央的地下洞窟長著桃。",
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "魔都"
+                  ],
+                  "scope": {
+                    "kind": "latest"
+                  }
+                },
+                {
+                  "mode": "any",
+                  "keys": [
+                    "荒野",
+                    "岩山",
+                    "雷雲",
+                    "天空",
+                    "深處",
+                    "邊緣",
+                    "地形",
+                    "探索",
+                    "迷路",
+                    "方位",
+                    "鬼門"
+                  ],
+                  "scope": {
+                    "kind": "recent",
+                    "n": 4
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 3
+    },
+    "4": {
+      "uid": 4,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 700,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "制度｜［門與魔都災害］",
+      "content": "門正式名稱是「クナド」，是連接現世與魔都的通道，只會出現在日本。\n能做：把人從現世帶進魔都、把醜鬼帶到現世；固定的門讓魔防隊員往返寮與現世（通勤、上學）。\n做不到：門只出現在日本；突發的門幾個小時後消失。\n會被什麼反制：突發的門何時何地出現無法預測。\n代價：魔都災害每次都可能死很多人。\n誰用得到：固定的門只有魔防隊與政府允許的人能用。\n對世界的影響：日本成為唯一有魔都、也唯一有桃的國家，桃供應到世界各國；被吸進魔都沒被救回的人，通常就回不來。\n一般人看到的：空中或路上突然張開一個黑洞般的洞，周圍的東西被吸進去。\n固定的門位置不變，由政府管理；魔都那一側的出口旁蓋著魔防隊的寮，例如七番組寮的門通往高知、九番組寮的門通往多摩川。\n突發的門形狀像黑洞，大多幾個小時後就會消失；路人被吸進魔都、或醜鬼從門裡跑到現世，就叫「魔都災害」。\n魔都災害發生時，魔防隊負責看守門、救援受害者、討伐跑出來的醜鬼。\n當地的說法：「門」或「クナド」；「魔都災害」。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:クナド)|(?:魔都災害)))|(?=[\\s\\S]*?(?:(?:門)|(?:黑洞)|(?:突發)))(?=[\\s\\S]*?(?:(?:魔都)|(?:醜鬼)|(?:吸進)|(?:張開)|(?:出現))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_brief": "門（クナド）是現世與魔都的通道；固定的門由政府管理，突然張開的門會引發魔都災害。",
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "クナド",
+                    "魔都災害"
+                  ]
+                }
+              ]
+            },
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "門",
+                    "黑洞",
+                    "突發"
+                  ],
+                  "scope": {
+                    "kind": "latest"
+                  }
+                },
+                {
+                  "mode": "any",
+                  "keys": [
+                    "魔都",
+                    "醜鬼",
+                    "吸進",
+                    "張開",
+                    "出現"
+                  ],
+                  "scope": {
+                    "kind": "recent",
+                    "n": 2
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 4
+    },
+    "5": {
+      "uid": 5,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 500,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "種族｜［醜鬼］",
+      "content": "醜鬼的正式名稱是「黃泉醜鬼」，是魔都全境都有的凶暴怪物，喜歡襲擊人。\n棲息：魔都全境；突發的門出現時會跑到現世。\n能力：怪力與凶性；合體成巨大個體。\n限制：桃的能力能打倒它們。\n稀有度：常見（特殊個體罕見）\n和其他存在的關係：會被八雷神統率；人型醜鬼能用實力讓醜鬼服從，但能命令的數量有限。\n醜鬼一般武器打不倒，只有桃的能力有效；羽前京香的劍術是唯一的例外。\n一頭醜鬼跑到現世，就會死幾十個人。\n好幾頭醜鬼會合體成巨大的個體。\n醜鬼裡有強大、有名號的「特殊個體」，例如曾毀滅月山大井澤的「一本角」（已被羽前京香斬殺）、八年前在鹿兒島造成大量死者的熊型醜鬼「熊童子」。\n當地的說法：「醜鬼」。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:醜鬼)|(?:黃泉醜鬼))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_brief": "醜鬼（正式名稱黃泉醜鬼）是魔都全境的凶暴怪物，愛襲擊人；一般武器無效，只有桃的能力打得倒。",
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "醜鬼",
+                    "黃泉醜鬼"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 5
+    },
+    "6": {
+      "uid": 6,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 700,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "制度｜［桃］",
+      "content": "桃是長在魔都中央地下洞窟的果實，吃了就能得到異能，但只對女性有效。\n能做：賦予女性一種異能（強化身體、操控元素、空間、時間、分身……因人而異）。\n做不到：只對女性有效；一人一顆。\n會被什麼反制：能力有各自的代價與限制。\n代價：過量危險。\n誰用得到：向政府申請、審查通過的女性。\n對世界的影響：女尊男卑：男女的力量關係崩壞，各國領袖多是女性；男性在出路上處處受限；能力犯罪與桃的爭奪。\n一般人看到的：一顆普通的桃子模樣的果實。\n桃一人只能吃一顆；過量是危險的。\n吃桃要向政府申請、通過嚴格審查，在專人陪同下吃；也有女性覺得「保持原樣就好」或「來路不明」而不吃。\n桃的能力多半是強化身體的類型；一般認為能力由本人的氣質與素養決定。\n魔防隊的出差組在魔都中央的洞窟採收桃，日本定期把桃供應給其他國家；也有外國恐怖分子潛進魔都搶桃。\n有人用桃的能力犯罪，警察因此成立了對能力犯罪的特殊部隊。\n當地的說法：「桃」；「能力」；「能力犯罪」。\n魔防隊上層、陰陽寮、隱秘之鄉的人才知道：在魔都吃桃時，偶爾桃的力量會暴走，讓人變成醜鬼般的樣子（人型醜鬼）；一般認為是魔都瘴氣的關係，在現世吃不會發生。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:魔都之桃)|(?:吃桃)))|(?=[\\s\\S]*?(?:(?:桃)))(?=[\\s\\S]*?(?:(?:能力)|(?:吃)|(?:異能)|(?:申請)|(?:魔都)|(?:洞窟))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_brief": "桃是魔都中央地下洞窟長的果實，吃了能得到異能，但只對女性有效；一人一顆，要申請審查。",
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "魔都之桃",
+                    "吃桃"
+                  ]
+                }
+              ]
+            },
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "桃"
+                  ],
+                  "scope": {
+                    "kind": "latest"
+                  }
+                },
+                {
+                  "mode": "any",
+                  "keys": [
+                    "能力",
+                    "吃",
+                    "異能",
+                    "申請",
+                    "魔都",
+                    "洞窟"
+                  ],
+                  "scope": {
+                    "kind": "recent",
+                    "n": 2
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 6
+    },
+    "7": {
+      "uid": 7,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 700,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "前提｜［女尊男卑］",
+      "content": "女尊男卑是桃出現之後的社會現實：只有女性能得到異能，男女的力量關係崩壞。\n日常怎麼顯現：女性在職場與社會上佔優勢；男人被當成需要被保護、比較弱的一方。\n女尊男卑之下，各國領袖多是女性；魔防隊只收女性隊員。\n女尊男卑讓男性對將來感到迷惘；和倉優希誤入魔都前，正和朋友抱怨男生畢業後的出路。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:女尊男卑)))|(?=[\\s\\S]*?(?:(?:男人)|(?:男生)|(?:男性)))(?=[\\s\\S]*?(?:(?:出路)|(?:地位)|(?:瞧不起)|(?:沒用)|(?:社會))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_brief": "桃只給女性異能，社會因此變成女尊男卑；男性的出路與地位受限。",
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "女尊男卑"
+                  ]
+                }
+              ]
+            },
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "男人",
+                    "男生",
+                    "男性"
+                  ],
+                  "scope": {
+                    "kind": "latest"
+                  }
+                },
+                {
+                  "mode": "any",
+                  "keys": [
+                    "出路",
+                    "地位",
+                    "瞧不起",
+                    "沒用",
+                    "社會"
+                  ],
+                  "scope": {
+                    "kind": "recent",
+                    "n": 2
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 7
+    },
+    "8": {
+      "uid": 8,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 600,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "勢力｜［魔防隊］",
+      "content": "魔防隊正式名稱是「魔都防衛隊」，是日本政府管理門之後組成的組織，隊員全是吃了桃的女性。\n想要：守住日本不受醜鬼與魔都的威脅。\n規模：大（國家級組織）；穩固度：穩（但八雷神的出現讓局勢緊張）。\n地盤：魔都全境與日本各地的門。\n資產：九個組的寮與固定的門；組長級的能力者；桃的採收與供應。\n領袖：山城戀（總組長兼十番組組長，被稱為「地球的答案」的最強者）。\n盟友：日本政府；警察對能力犯罪特殊部隊。\n敵人：醜鬼；八雷神；搶桃的外國恐怖分子。\n外人看到的：守護日本的女性精英部隊，組長們個個是名人。\n成員才知道：\n・一番組：北方，寮裡有道場，門通往山口；組長多多良木乃實、副組長冥加理宇。\n・二番組：東北的「鬼門」，醜鬼特別多，和正對面的七番組是競爭關係，門通往橫濱；組長上運天美羅。\n・三番組：東方；組長月夜野貝爾。\n・五番組：東南，組長蝦夷夜雲愛黏女生，所以跟每個組都很友好，門通往山形。\n・六番組：南方，組長與副組長的關係讓它常和七番組合作；組長出雲天花、副組長東八千穗。\n・七番組：西南的「裏鬼門」，醜鬼特別多，以武鬥派聞名，門通往高知；組長羽前京香，雇了男性管理人和倉優希。\n・八番組：西方，由外國人或歸化日本的前外國人組成；組長瓦爾瓦拉・皮莉片可。\n・九番組：西北，由東家的人組成，門通往多摩川；組長東風舞希。\n・十番組：中央，也是魔防隊總本部，有三個通往現世的門，負責監視魔都全境、把異常通知各組；組長是總組長山城戀。二番組與七番組因為醜鬼多，各有專門的索敵隊員。\n加入：吃了桃、有能力的女性，經招募或推薦入隊；男性不能成為正式隊員。\n魔防隊的任務：討伐醜鬼、看守與警備突發的門、救援魔都災害的受害者、保護桃不被恐怖分子搶走。\n魔防隊分一到十番組，不用不吉利的「四」，共九個組，各守魔都一個方位或中央；最高指揮是總組長。\n魔防隊的寮依「魔都陰陽道」建造，四周張著強力的結界防醜鬼。\n魔防隊另有「出差組」，從各組調人到魔都中央的地下洞窟採收桃。\n魔防隊的組與組之間會舉行「魔都交流戰」比試，種目由組長們決定，用來親善或在意見分歧時分出高下。\n當地的說法：「○番組」；「組長」「副組長」；「寮」＝各組在魔都的據點；「出差組」。\n魔防隊沒有四番組；魔防隊沒有男性隊員。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:魔防隊)|(?:魔都防衛隊)))|(?=[\\s\\S]*?(?:(?:番組)))(?=[\\s\\S]*?(?:(?:組長)|(?:隊員)|(?:寮))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_brief": "魔防隊（魔都防衛隊）是政府組成、全由女性能力者構成的組織，分一到十番組（沒有四番組）守魔都。",
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "魔防隊",
+                    "魔都防衛隊"
+                  ]
+                }
+              ]
+            },
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "番組"
+                  ],
+                  "scope": {
+                    "kind": "latest"
+                  }
+                },
+                {
+                  "mode": "any",
+                  "keys": [
+                    "組長",
+                    "隊員",
+                    "寮"
+                  ],
+                  "scope": {
+                    "kind": "recent",
+                    "n": 2
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 8
+    },
+    "9": {
+      "uid": 9,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 600,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "地點｜［七番組寮］",
+      "content": "七番組寮是魔防隊七番組在魔都西南「裏鬼門」的據點，醜鬼比其他地方多，七番組也以武鬥派聞名。\n樣子：寮外結界那頭偶爾傳來的醜鬼吼聲；冒著熱氣的露天溫泉；廚房飄出的拉麵香（日萬凜幾乎每天點）。\n出入：寮內的門通往高知；寮外就是魔都西南的荒野。\n能做的事：吃優希做的飯；泡露天溫泉；訓練；出發巡邏與討伐；經由門回現世。\n規矩：京香每天早上訓練，部下也跟著練；優希是雇用的管理人，不是正式隊員。\n誰管事：組長羽前京香（實際上：組長羽前京香；家裡的事由管理人優希打理（補寫））。\n常見的人：七番組的四名隊員；偶爾瞬移過來的六番組組長出雲天花；來借優希的其他組組長。\n危險：裏鬼門的醜鬼比其他方位多；八雷神紫黑曾經深夜潛進來想擄走優希。\n七番組寮裡的門通往現世的高知；大川村寧每天經由這道門回高知上小學。\n七番組寮住著組長羽前京香、副組長東日萬凜、隊員駿河朱朱與索敵係大川村寧，還有唯一的男性——兼任京香「奴隸」的管理人和倉優希。\n七番組寮有露天溫泉，是隊員下班後的放鬆時間。\n七番組寮的三餐、打掃、洗衣由管理人和倉優希一手包辦；他來之前，寮裡的家事一團亂（補寫）。\n七番組寮外養著京香當坐騎用的醜鬼奴隸（優希來了之後很少用到）。\n當地的說法：「管理人」＝優希；「獎勵」＝無窮之鎖解除後京香付給奴隸的代價（組長之間已經不是秘密）。\n七番組寮沒有其他男性。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:七番組寮)|(?:七番組的寮)))|(?=[\\s\\S]*?(?:(?:寮)|(?:溫泉)|(?:廚房)|(?:管理人)))(?=[\\s\\S]*?(?:(?:七番組)|(?:京香)|(?:優希)|(?:日萬凜)|(?:朱朱)|(?:寧))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_brief": "七番組寮在魔都西南的裏鬼門，門通往高知；組長羽前京香、副組長東日萬凜、隊員駿河朱朱與大川村寧，管理人和倉優希。",
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "七番組寮",
+                    "七番組的寮"
+                  ]
+                }
+              ]
+            },
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "寮",
+                    "溫泉",
+                    "廚房",
+                    "管理人"
+                  ],
+                  "scope": {
+                    "kind": "latest"
+                  }
+                },
+                {
+                  "mode": "any",
+                  "keys": [
+                    "七番組",
+                    "京香",
+                    "優希",
+                    "日萬凜",
+                    "朱朱",
+                    "寧"
+                  ],
+                  "scope": {
+                    "kind": "recent",
+                    "n": 4
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 9
+    },
+    "10": {
+      "uid": 10,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 600,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "地點｜［六番組寮］",
+      "content": "六番組寮是魔防隊六番組在魔都南方的據點，就在七番組轄區的隔壁。\n樣子：組長天花隨時可能憑空消失又出現；八千穗的駄菓子（佐原代買）。\n出入：寮內的門；天花的瞬移。\n能做的事：和六番組交流、比試。\n誰管事：組長出雲天花。\n常見的人：六番組的隊員。\n六番組寮的組長是出雲天花、副組長是東八千穗，隊員有愛睡覺的若狹佐原。\n六番組因為組長、副組長和七番組的淵源，常和七番組合作；組長天花更是常用瞬移跑去七番組。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:六番組))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_brief": "六番組寮在魔都南方；組長出雲天花、副組長東八千穗、隊員若狹佐原，常和七番組合作。",
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "六番組"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 10
+    },
+    "11": {
+      "uid": 11,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 600,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "地點｜［魔防隊總本部］",
+      "content": "魔防隊總本部就是魔都中央的十番組寮，有三個通往現世的門。\n樣子：安靜的日本庭園與池子；兩隻柴犬；組長會議的會議室。\n出入：三個通往現世的門；魔都中央。\n能做的事：開組長會議；向總組長報告。\n規矩：總組長的命令優先。\n誰管事：總組長山城戀。\n常見的人：十番組隊員；來開會的各組組長。\n魔防隊總本部負責監視魔都全境，發現異常就通知負責的組；組長會議也在這裡開。\n魔防隊總本部有日本庭園，總組長山城戀養的兩隻柴犬（黑柴「要」、白柴「雅」）在那裡。\n魔防隊總本部的十番組有能張開結界的備前銀奈，常被找去當交流戰的裁判。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:總本部)|(?:十番組)|(?:組長會議))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_brief": "魔防隊總本部是魔都中央的十番組寮，有三個通往現世的門；總組長山城戀在這裡，庭園裡養著兩隻柴犬。",
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "總本部",
+                    "十番組",
+                    "組長會議"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 11
+    },
+    "12": {
+      "uid": 12,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 600,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "勢力｜［東家］",
+      "content": "東家是和魔防隊的歷史深深相連的名門，在魔都立下許多功績，出過總組長，也出了很多優秀的隊員。\n想要：讓東家強大——新當主改成「讓家人好好活著」\n規模：大（魔防隊的名門）；穩固度：穩。\n地盤：魔都西北（九番組）、多摩川。\n資產：九番組；多摩川旁的本家；專用的異空間（東之晚餐、特訓用）。\n領袖：東風舞希（當主、九番組組長，話少、豪膽）；東海桐花（前當主、前總組長，現為九番組組員，外表像國中生、愛賭博）。\n盟友：魔防隊。\n外人看到的：魔防隊的名門世家。\n成員才知道：\n・本家與分家之間有長年的心結（東譽、東空子、東竹美、東弓奈都是分家出身）\n・日萬凜小時候被當成吊車尾，被分家的東譽欺負\n加入：東家的血脈；分家的優秀孩子會被收養。\n東家的本家就在多摩川的門旁邊；魔防隊九番組全由東家的人組成。\n東家本家的人會被取三個漢字的名字（日萬凜、八千穗、麻衣亞、風舞希、海桐花）。\n東家過去奉行實力至上，「東は強大たるべし」：分家的孩子只要優秀就收為本家養子，讓孩子們互相競爭；結果親族之間積怨很深。\n東家的當主由叫「東之晚餐」的大亂鬥決定；最近一次由東風舞希勝出，她宣布廢除實力主義、讓家人好好相處。\n當地的說法：「東之晚餐」＝決定當主的大亂鬥；「本家」「分家」。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:東家)|(?:東之晚餐)|(?:九番組)))|(?=[\\s\\S]*?(?:(?:本家)|(?:分家)|(?:當主)))(?=[\\s\\S]*?(?:(?:東)|(?:風舞希)|(?:海桐花)|(?:日萬凜)|(?:八千穗))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_brief": "東家是和魔防隊歷史深深相連的名門，出過總組長；九番組全由東家的人組成，現任當主是東風舞希。",
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "東家",
+                    "東之晚餐",
+                    "九番組"
+                  ]
+                }
+              ]
+            },
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "本家",
+                    "分家",
+                    "當主"
+                  ],
+                  "scope": {
+                    "kind": "latest"
+                  }
+                },
+                {
+                  "mode": "any",
+                  "keys": [
+                    "東",
+                    "風舞希",
+                    "海桐花",
+                    "日萬凜",
+                    "八千穗"
+                  ],
+                  "scope": {
+                    "kind": "recent",
+                    "n": 2
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 12
+    },
+    "13": {
+      "uid": 13,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 500,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "種族｜［人型醜鬼］",
+      "content": "人型醜鬼是有智慧、有人類模樣的醜鬼，魔防隊是在七番組遇到「騎著一本角的長髮少女」之後才知道她們存在的。\n棲息：魔都邊緣、連桃都不長的地方的地下。\n能力：人型醜鬼的身體能力；各自的桃之能力。\n限制：能命令的醜鬼數量有限。\n稀有度：稀有（約二十人）\n和其他存在的關係：和魔防隊高層、陰陽寮關係緊張；被八雷神當成獵物。\n人型醜鬼能用實力讓一般醜鬼服從，但能命令的數量有限。\n人型醜鬼的身體能力與恢復力比人類高。\n七番組、六番組與參與過隱秘之鄉一戰的人才知道：人型醜鬼原本是人類女性：在魔都吃桃時桃的力量暴走，身體變成醜鬼般的樣子。她們的首領和倉青羽，是七番組管理人和倉優希六年前失蹤的姊姊。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:人型醜鬼)|(?:人形醜鬼)|(?:隱秘之鄉))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_brief": "人型醜鬼是有智慧、人類模樣的醜鬼；魔防隊最近才知道她們的存在。",
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "人型醜鬼",
+                    "人形醜鬼",
+                    "隱秘之鄉"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 13
+    },
+    "14": {
+      "uid": 14,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 499,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "種族｜［人型醜鬼］真相",
+      "content": "人型醜鬼的真相（旁白知道，角色不一定知道）：\n一部分人型醜鬼曾被政府機關陰陽寮以「為了人類」的名義做人體實驗；湯野波音用自己的能力帶著同伴逃出來，遇到了青羽。\n人型醜鬼住在魔都邊緣地下的「隱秘之鄉」，大約二十人，能打的只有青羽、錢函可可、湯野波音三人；隱秘之鄉一戰後她們搬到了新的藏身處。\n人型醜鬼的目標是變回人類，以及救出還被陰陽寮關著的同伴；羽前京香承諾會當上總組長、找出讓她們變回人的方法。\n八雷神曾抓走可可與波音餵給空折；橫濱決戰時兩人被救出，出雲天花用空間能力製造青羽帶著她們「逃走」的假象。\n京香與天花懷疑總組長山城戀知道陰陽寮的事卻放任不管；沒有證據。\n誰知道：作者、寫手；人型醜鬼本人；京香、天花、優希與參與隱秘之鄉一戰的人知道大半。\n線索：天花常帶物資去找青羽；優希被擄去隱秘之鄉時聽波音說了過去；可可與波音身上的實驗痕跡（補寫）。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:人型醜鬼)|(?:人形醜鬼)|(?:隱秘之鄉))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "人型醜鬼",
+                    "人形醜鬼",
+                    "隱秘之鄉"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 14
+    },
+    "15": {
+      "uid": 15,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 600,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "勢力｜［陰陽寮］",
+      "content": "陰陽寮是日本政府的機關，和魔都相關的事務有關。\n想要：（未明）\n規模：中；穩固度：穩。\n外人看到的：政府的機關。\n陰陽寮的運作細節一般人不清楚。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:陰陽寮))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_brief": "陰陽寮是和魔都相關的政府機關；一般人對它所知不多。",
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "陰陽寮"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 15
+    },
+    "16": {
+      "uid": 16,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 599,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "勢力｜［陰陽寮］真相",
+      "content": "陰陽寮的真相（旁白知道，角色不一定知道）：\n陰陽寮把在魔都災害中變成人型醜鬼的女性「保護」起來，以「為了人類」的名義做人體實驗；還有同伴被關在裡面。\n誰知道：作者、寫手；人型醜鬼；京香、天花、優希。\n線索：湯野波音的過去；人型醜鬼對政府的恨；京香與天花對總組長的懷疑。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:陰陽寮))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "陰陽寮"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 16
+    },
+    "17": {
+      "uid": 17,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 600,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "勢力｜［八雷神］",
+      "content": "八雷神是統率醜鬼的存在，自稱「神」，目的是毀滅人類。\n想要：毀滅人類。\n規模：大；穩固度：強。\n地盤：魔都深處（據點不明）。\n資產：醜鬼大軍；改造過的醜鬼。\n領袖：紫黑（前線指揮（魔防隊所知），話多、腹黑、對優希執著）。\n敵人：魔防隊；人型醜鬼。\n外人看到的：魔防隊內部稱為最大的威脅；一般人只知道橫濱出了大事。\n八雷神第一次現身是在七、六番組交流戰的時候：戴面具的巨漢雷煉帶著醜鬼大軍強襲，被出雲天花逼退。\n八雷神在隱秘之鄉降臨，抓走人型醜鬼；髮梢是小蛇的少女紫黑、有角有翼的褐膚女戰士壤龍報上了「八雷神」的名號。\n八雷神空折在橫濱綁架女性、放醜鬼襲擊城市，被羽前京香與和倉優希討伐。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:八雷神))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_brief": "八雷神是自稱神、統率醜鬼、要毀滅人類的存在；魔防隊知道的有紫黑、壤龍、雷煉，以及剛被討伐的空折。",
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "八雷神"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 17
+    },
+    "18": {
+      "uid": 18,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 599,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "勢力｜［八雷神］真相",
+      "content": "八雷神的真相（旁白知道，角色不一定知道）：\n八雷神共八柱，彼此是兄弟姊妹，下面的叫上面的「姊姊」，侍奉被稱為「母親」的上位存在（伊邪那美）；六柱是女性型，兩柱是鎧甲般的異形。\n八雷神的筆頭大極不離開母親身邊，把指揮交給紫黑；其餘是壤龍、雷煉、鳴姬、伏摩、若雲，以及剛死去的空折。大極、鳴姬、伏摩、若雲在這個時間點還沒被人類知道。\n每一柱都有「全力形態」這張王牌。\n八雷神手下有「神奉者」：背叛人類、被八雷神改造的前人類，身體能變成醜鬼、桃的能力也更強，任務失敗會受「神的制裁」而死。前七番組組長下村夢路已經成了神奉者。\n空折的精神殘片因為優希嚥下了她的神之露滴，留在優希的精神世界裡；八雷神還不知道。\n空折死後，八雷神正要召開會議；他們打算等「淨化之日」再全面出手，在那之前先讓神奉者打頭陣。\n誰知道：作者、寫手；八雷神本身。\n線索：紫黑說「僕們」時提到的姊姊；雷煉說的「母親」；優希的夢。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:八雷神))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "八雷神"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 18
+    },
+    "19": {
+      "uid": 19,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 500,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "事件｜［月山大井澤事件］",
+      "content": "月山大井澤事件是發生在山形縣月山的魔都災害：大規模的門湧出大量醜鬼，還有一頭頭上一支巨角的大型特殊個體。\n時間：羽前京香少女時代。\n起因：大規模的門。\n現在：羽前京香為了報仇加入魔防隊；月山留有事件紀念地，京香休假時會去祭拜。\n物證：事件紀念地的墓碑；京香頭上故鄉朋友送的髮飾。\n各方的說法：羽前京香：她不要再讓任何人只剩自己一個。\n月山大井澤事件中，羽前京香故鄉的山間小鎮除她以外八百名居民全部死亡。\n月山大井澤事件的醜鬼被趕來的魔防隊殲滅，只有那頭「一本角」逃回魔都；多年後，羽前京香在隱秘之鄉親手斬殺了它。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:月山大井澤)|(?:大井澤)|(?:月山))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_brief": "月山大井澤事件是山形縣月山的大型魔都災害，羽前京香的故鄉八百人只剩她一人生還。",
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "月山大井澤",
+                    "大井澤",
+                    "月山"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 19
+    },
+    "20": {
+      "uid": 20,
+      "constant": false,
+      "vectorized": false,
+      "selective": true,
+      "selectiveLogic": 0,
+      "addMemo": true,
+      "order": 500,
+      "position": 0,
+      "disable": false,
+      "ignoreBudget": false,
+      "excludeRecursion": true,
+      "preventRecursion": true,
+      "delayUntilRecursion": 0,
+      "probability": 100,
+      "useProbability": true,
+      "depth": 4,
+      "outletName": "",
+      "group": "",
+      "groupOverride": false,
+      "groupWeight": 100,
+      "scanDepth": null,
+      "caseSensitive": false,
+      "matchWholeWords": false,
+      "useGroupScoring": null,
+      "automationId": "",
+      "role": null,
+      "sticky": null,
+      "cooldown": null,
+      "delay": null,
+      "triggers": [],
+      "characterFilter": {
+        "isExclude": false,
+        "names": [],
+        "tags": []
+      },
+      "comment": "事件｜［橫濱事件］",
+      "content": "橫濱事件始於橫濱接連發生的女演員失蹤案，監視器拍到了八雷神空折的身影。\n時間：剛結束（兩天前）\n起因：八雷神空折為了變強，到現世找能力者當養分。\n現在：魔防隊第一次討伐八雷神；橫濱市區留下戰鬥的傷痕；社會對八雷神的不安。\n物證：橫濱市區的破壞；被救出的女演員們。\n各方的說法：一般民眾：魔防隊在橫濱打倒了怪物；魔防隊：八雷神有多強，這次才有了實感。\n橫濱事件由二番組組長上運天美羅擔任討伐負責人，她點名七番組組長羽前京香同行；警察對能力犯罪特殊部隊的東空子、東竹美協助調查。\n橫濱事件中空折放出醜鬼卡牌襲擊城市，美羅用無數分身救出市民，最後被空折吞下。\n橫濱決戰中，總組長山城戀從美國遠距攻擊、前總組長東海桐花與東麻衣亞、六番組組長出雲天花趕來支援；羽前京香與和倉優希以強化形態「天」和合體奧義「隸刃之太刀」打倒空折，救出了被吞下的人。\n橫濱事件結束後，和倉優希昏睡了兩天。",
+      "key": [
+        "/^(?:(?=[\\s\\S]*?(?:(?:橫濱))))/"
+      ],
+      "keysecondary": [],
+      "extensions": {
+        "rp_brief": "橫濱事件是八雷神空折在橫濱綁架女性、放醜鬼襲擊城市，最後被羽前京香與和倉優希討伐的事件，剛結束。",
+        "rp_conditions": {
+          "v": 1,
+          "any": [
+            {
+              "all": [
+                {
+                  "mode": "any",
+                  "keys": [
+                    "橫濱"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "displayIndex": 20
+    }
+  }
+}
