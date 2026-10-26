@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "world": "世界的名字",
+    "canon": "出自哪個作品；原創寫「原創」",
+    "scope": "這份總表涵蓋的範圍（一個大陸、一座城、一個時代）",
+    "sources": [
+      { "what": "原作第 N 卷／wiki／自己的設定文件", "covers": "這份來源涵蓋的部分" }
+    ],
+    "divergence": "和原作不同的地方；原創的部分寫「原創：…」；沒有就寫「照原作」",
+    "story_time": "這份總表描述的是故事裡哪個時間點",
+    "version": "1",
+    "updated": "YYYY-MM-DD",
+    "notes": "給自己的備忘"
+  },
+
+  "overview": {
+    "one_line": "一句：這是什麼樣的世界（導出名片與索引用）",
+    "basic": "一段 ≤ 150 字的基本世界觀：時代、地理、誰掌權、日常靠什麼、最大的不尋常。常駐送出",
+    "truths": [
+      "六句真相：讓這個世界不一樣的事，角色進場前就知道；每句直述、含名字；常駐送出（3～6 句）"
+    ],
+    "tone": "基調與沉浸程度：寫實還是誇張？喜劇還是悲劇？解釋多還是少（高沉浸＝少解釋，靠脈絡）？",
+    "speculative": "唯一的推測性元素是什麼（魔法／奇怪的科學／另一個智慧種族，最多一個）",
+    "absent": ["整個世界沒有的東西（火器、人族的教會…）；送模型"],
+    "undefined": ["還沒決定、留給之後的（不送模型）"],
+    "calendar": "紀年、季節、一天怎麼分（有自己曆法才寫；沒有就刪）"
+  },
+
+  "entities": [
+    {
+      "id": "place.巴斯庫拉",
+      "type": "place",
+      "name": "全名",
+      "aliases": ["別稱", "通稱（這類地方怎麼叫）", "簡體寫法（給酒館用）"],
+      "tags": ["地區", "分類"],
+      "parent": "上一層地點的 id（沒有就刪）",
+      "brief": "短版 ≤ 60 字：名字、一句定位、最容易認出的特徵。導出到 rp_brief 與索引",
+      "common": [
+        "常識：大家都知道的事。3～8 句，每句含名字、每句獨立成立、直述句"
+      ],
+      "features": ["三個最容易認出的特徵（看得到、聽得到、聞得到的）"],
+      "access": ["出入口與鄰接：至少兩個；一個不明顯的連接"],
+      "can_do": ["在這裡能做的事"],
+      "rules": ["規矩、價格、禁忌（數值寫這裡，不散在描述裡）"],
+      "rulers": { "apparent": "名義上誰管", "real": "實際上誰管" },
+      "people": ["常見的人：寫類型與狀態，不寫個體；≤ 3 群"],
+      "dangers": ["危險"],
+      "lexicon": ["當地的說法：東西的叫法、方位的叫法、俚語、問候、咒罵；各一兩個"],
+      "local": {
+        "known_by": "在地人／某個族群／某個角色的名單",
+        "facts": ["在地人才知道的；可以用世界內來源的口吻、帶「據說」，標誰說的"]
+      },
+      "secret": {
+        "known_by": "作者、寫手、劇情推演；或加上知道的角色名單",
+        "facts": ["真相：直述句"],
+        "clues": ["哪三處能摸到這個真相（條目 id、人、物）"]
+      },
+      "absent": ["這裡沒有的（送模型）"],
+      "undefined": ["還沒定的（不送模型）"],
+      "links": ["往外指的鉤子：其他實體的 id，2～3 個；每個都要有條目或列入 undefined"],
+      "history": [
+        { "when": "相對時間", "event": "發生什麼", "now": "現在還看得到的後果或物證", "witnesses": "誰在場／誰知道" }
+      ],
+      "now": {
+        "as_of": "時間點",
+        "situation": "現況兩三句（會變；不進條目，給劇情推演）",
+        "portents": ["若無人介入會依序看到的 3～5 步"],
+        "doom": "終局",
+        "stakes": "賭注問題：解決之後什麼再也不一樣"
+      },
+      "keys": {
+        "primary": ["錨點：名字、別稱（少而具體）"],
+        "secondary": ["限定詞（通稱才需要；邏輯「且含任一」）"],
+        "conditions": "需要進階條件時用文字寫算式，例如 (歪角亭) | ((旅店|客棧) & (巴斯庫拉|峽谷城)［最近 4 則］)"
+      },
+      "export": {
+        "book": "public（公開書）；有 secret 的另外產生真相書那一條",
+        "constant": false,
+        "position": "before_char",
+        "recursion": "長條目設「不觸發其他條目」；子地點靠上層帶出",
+        "brief_mode": "照掃描設定／一律全文／一律短版"
+      },
+      "source": "這筆的出處（原作卷數、自己的文件）",
+      "as_of": "這筆描述的時間點（和 meta.story_time 不同時才寫）"
+    },
+
+    {
+      "id": "faction.勢力名",
+      "type": "faction",
+      "name": "", "aliases": [], "tags": [],
+      "brief": "",
+      "common": [],
+      "impulse": "一句：這個勢力想要什麼",
+      "tier": "規模與影響力（小／中／大，或 0～5）",
+      "hold": "穩固度（弱／穩／強）",
+      "assets": ["資產：人、錢、地、物"],
+      "turf": "地盤",
+      "leaders": [ { "name": "", "role": "", "trait": "一個特徵" } ],
+      "allies": [], "enemies": [],
+      "public_face": "外人看到的樣子",
+      "inside": ["成員才知道的（＝這個勢力的 local 層）"],
+      "membership": "怎麼加入、成員怎麼互認",
+      "lexicon": [],
+      "secret": { "known_by": "", "facts": [], "clues": [] },
+      "absent": [], "undefined": [], "links": [],
+      "history": [],
+      "now": { "as_of": "", "situation": "", "goals": [ { "goal": "", "clock": "2/6" } ], "portents": [], "doom": "", "stakes": "" },
+      "keys": { "primary": [], "secondary": [] },
+      "export": { "book": "public", "constant": false, "position": "before_char" },
+      "source": ""
+    },
+
+    {
+      "id": "system.制度名",
+      "type": "system",
+      "name": "", "aliases": [], "tags": ["魔法／科技／法律／經濟／曆法／宇宙觀"],
+      "brief": "",
+      "common": [],
+      "hardness": "硬（規則清楚，可以用來解決問題）／軟（只製造驚奇，故事裡不拿來解決問題）",
+      "can": ["能做什麼"],
+      "limits": ["做不到什麼"],
+      "weaknesses": ["會被什麼反制"],
+      "costs": ["用了要付什麼"],
+      "access": "誰學得到、怎麼學、多稀有",
+      "consequences": ["對社會、經濟、戰爭、日常的後果"],
+      "perceived": "一般人看到的樣子（感官，不是機制）",
+      "lexicon": ["等級名、術語、動詞"],
+      "local": { "known_by": "", "facts": [] },
+      "secret": { "known_by": "", "facts": [], "clues": [] },
+      "absent": [], "undefined": [], "links": [],
+      "keys": { "primary": [], "secondary": [] },
+      "export": { "book": "public", "constant": false, "position": "before_char" },
+      "source": ""
+    },
+
+    {
+      "id": "culture.族群名",
+      "type": "culture",
+      "name": "", "aliases": [], "tags": ["族群／宗教／階級"],
+      "brief": "",
+      "common": [],
+      "traits": [ { "trait": "特徵", "because": "環境或歷史上的原因" } ],
+      "values": ["價值排序"],
+      "taboos": ["禁忌"],
+      "customs": { "greeting": "", "food": "", "dress": "", "calendar": "", "death": "" },
+      "power": "權力在誰手上、誰沒有",
+      "variation": "內部差異（避免單一文化）",
+      "stereotype": "外人怎麼看他們",
+      "truth": "實情",
+      "lexicon": [],
+      "local": { "known_by": "", "facts": [] },
+      "secret": { "known_by": "", "facts": [], "clues": [] },
+      "absent": [], "undefined": [], "links": [],
+      "keys": { "primary": [], "secondary": [] },
+      "export": { "book": "public", "constant": false, "position": "before_char" },
+      "source": ""
+    },
+
+    {
+      "id": "species.種名",
+      "type": "species",
+      "name": "", "aliases": ["俗名", "複數", "幼體"], "tags": [],
+      "brief": "",
+      "common": [],
+      "habitat": "棲地與生態（從環境推）",
+      "abilities": [], "limits": [],
+      "rarity": "常見／罕見／稀有／唯一（決定誰認得出、認出後知道多少）",
+      "relations": ["和各族的關係"],
+      "folklore": ["民間的說法"],
+      "fact": ["實情"],
+      "lexicon": [],
+      "secret": { "known_by": "", "facts": [], "clues": [] },
+      "absent": [], "undefined": [], "links": [],
+      "keys": { "primary": [], "secondary": [] },
+      "export": { "book": "public", "constant": false, "position": "before_char" },
+      "source": ""
+    },
+
+    {
+      "id": "event.事件名",
+      "type": "event",
+      "name": "", "aliases": [], "tags": [],
+      "brief": "",
+      "common": [],
+      "when": "相對時間（「拉普拉斯戰役結束後約五百年」）；有曆法才寫絕對年份",
+      "cause": "起因",
+      "consequences_now": ["現在還看得到的後果"],
+      "evidence": ["物證：遺跡、紀錄、傷痕、習俗"],
+      "accounts": [ { "who": "哪一方", "believes": "他們相信的版本" } ],
+      "witnesses": "誰在場、誰知道",
+      "secret": { "known_by": "", "facts": ["真正發生的事"], "clues": [] },
+      "undefined": [], "links": [],
+      "keys": { "primary": [], "secondary": [] },
+      "export": { "book": "public", "constant": false, "position": "before_char" },
+      "source": ""
+    },
+
+    {
+      "id": "item.物名",
+      "type": "item",
+      "name": "", "aliases": [], "tags": [],
+      "brief": "",
+      "common": [],
+      "origin": "來歷（相對時間）",
+      "does": "能做什麼",
+      "cost": "代價與限制",
+      "holder": "誰持有",
+      "wanted_by": ["誰想要"],
+      "problems": ["它製造了什麼新問題"],
+      "appearance": "樣子",
+      "secret": { "known_by": "", "facts": [], "clues": [] },
+      "undefined": [], "links": [],
+      "keys": { "primary": [], "secondary": [] },
+      "export": { "book": "public", "constant": false, "position": "before_char" },
+      "source": ""
+    },
+
+    {
+      "id": "concept.前提名",
+      "type": "concept",
+      "name": "", "aliases": [], "tags": [],
+      "brief": "",
+      "truth": "採用的說法（一句直述）",
+      "excluded": ["排除的替代說法（「這個世界的魔族不是生來邪惡的」）"],
+      "daily": ["日常怎麼顯現"],
+      "tone": "這個前提帶來的基調",
+      "secret": { "known_by": "", "facts": [], "clues": [] },
+      "links": [],
+      "export": { "book": "public", "constant": true, "position": "before_char" },
+      "source": ""
+    }
+  ],
+
+  "review_checks": [
+    "審稿用的常見誤寫；可以用否定句；不導出、不送模型"
+  ]
+}

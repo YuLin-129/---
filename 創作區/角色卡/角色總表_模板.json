@@ -1,0 +1,184 @@
+{
+  "meta": {
+    "canon": "出自哪個作品；原創寫「原創」",
+    "sources": [
+      { "what": "原作第 N 卷／wiki／自己的設定文件", "covers": "這份來源涵蓋的部分" }
+    ],
+    "divergence": "和原作不同的地方；沒有就寫「照原作」",
+    "story_time": "這份總表描述的是角色在故事裡哪個時間點",
+    "version": "1",
+    "updated": "YYYY-MM-DD",
+    "notes": "給自己的備忘"
+  },
+
+  "identity": {
+    "name": "全名",
+    "aliases": ["別名", "稱號"],
+    "age": "年齡（含外觀年齡，若不同）",
+    "race": "種族",
+    "gender": "性別",
+    "affiliation": "現在屬於哪裡；過去屬於哪裡",
+    "position": "身分／頭銜",
+    "role": "一句：他在故事裡是什麼",
+    "summary": "一句定位（導出名片用）",
+    "extra": { "世界觀專屬欄位": "例如學校、班級、職階；沒有就刪掉 extra" }
+  },
+
+  "appearance": {
+    "summary": "一句，挑最容易認出他的特徵",
+    "height_cm": 160,
+    "measurements_cm": { "bust": 80, "waist": 58, "hips": 84 },
+    "measurements_source": "官方（寫出處）／依角色圖片推測：沒有公開官方資料時，看立繪、各服裝立繪與劇情 CG 推測身高與三圍，在這裡寫看了哪些圖、和哪個已知數據的角色比較、大約誤差；官方與推測混用時逐項標明",
+    "body": "體型、身高感",
+    "hair": "",
+    "eyes": "",
+    "skin": "",
+    "racial_traits": "種族帶來的外觀與能力特徵（沒有就刪）",
+    "distinctive_features": ["3～8 個"],
+    "expression": "平常的神情",
+    "posture": "姿態與動作的習慣",
+    "outfits": { "default": "平常穿什麼", "其他狀態": "例如外出、正式、戰鬥" },
+    "forms": { "形態名": "外形會變的角色才寫；不會變就刪掉 forms" }
+  },
+
+  "personality": {
+    "summary": "一句",
+    "core": "本質",
+    "surface": "表面",
+    "inner": "底層",
+    "self_image": "他怎麼看自己",
+    "contrasts": ["A × B（3～8 組）"],
+    "conflicts": ["內在矛盾"],
+    "insecurities": ["不安"],
+    "emotional_style": "情緒怎麼表現（日常／悲傷／憤怒各一句）",
+    "big_five": "外向 高中低、親和 高中低、盡責 高中低、神經質 高中低、開放 高中低"
+  },
+
+  "thinking": {
+    "summary": "一句",
+    "style": "靠什麼判斷",
+    "attention": ["他先注意什麼（排序）"],
+    "decision": "日常怎麼決定；危險時怎麼決定",
+    "values": ["價值順序（排序）"],
+    "risk": "對風險的態度",
+    "social": "怎麼讀人",
+    "when_unsure": "資訊不足時怎麼做",
+    "blind_spots": ["盲點"],
+    "belief_revision": "什麼能改變他的想法、什麼不能"
+  },
+
+  "motivations": {
+    "summary": "一句",
+    "drives": ["長期驅動力"],
+    "long_term": ["長期目標"],
+    "protects": ["要守護的"],
+    "avoids": ["要避開的"],
+    "bottom_lines": [
+      { "line": "底線，正面寫（他會怎麼做）", "because": "理由" }
+    ]
+  },
+
+  "voice": {
+    "summary": "一句聲線",
+    "style": "整體語氣、用語年代感、句子長短",
+    "self_reference": ["自稱"],
+    "address_default": "對陌生人、一般人怎麼叫",
+    "rhythm": "節奏、說話的習慣順序",
+    "habits": ["口語習慣"],
+    "catchphrases": ["口頭禪 3～6 句"],
+    "humor": "怎麼開玩笑",
+    "by_emotion": { "開心": "", "惱怒": "", "悲傷": "", "憤怒": "", "害羞": "" },
+    "serious_mode": "認真時變成什麼樣",
+    "examples": [
+      { "situation": "日常", "other": "對方說的話", "self": "他的回應（含動作）", "shows": "這段展示什麼" },
+      { "situation": "情緒失守", "other": "", "self": "", "shows": "" },
+      { "situation": "嚴肅模式／底線被碰到", "other": "", "self": "", "shows": "" },
+      { "situation": "被問到不知道的事（知識邊界）", "other": "", "self": "", "shows": "" }
+    ]
+  },
+
+  "patterns": [
+    { "situation": "情境", "reading": "他怎麼解讀", "response": "他怎麼做、怎麼說", "exception": "什麼情況例外", "keywords": ["觸發詞 2～5 個"] }
+  ],
+
+  "behavior": {
+    "daily": "",
+    "with_strangers": "",
+    "with_friends": "",
+    "with_close": "",
+    "under_pressure": "",
+    "in_conflict": "",
+    "in_crisis": "",
+    "when_emotional": "",
+    "in_private": ""
+  },
+
+  "relationships": [
+    {
+      "name": "對方全名",
+      "aliases": ["對方的別名"],
+      "category": "家人／戀人／朋友／熟人／陌生／敵對",
+      "relation": "關係是什麼，一句",
+      "view": "他怎麼看對方",
+      "tone": "情緒基調",
+      "typical": "平常怎麼互動",
+      "address": "他怎麼叫對方",
+      "in_presence": "對方在場時他會變成什麼樣",
+      "trust": { "value": 5, "note": "" },
+      "conflicts": "會起摩擦的地方",
+      "unspoken": "沒說出口的",
+      "visibility": "public ／ private ／ known_by: [名單]",
+      "as_of": "這筆描述的時間點（會變的關係要標）"
+    }
+  ],
+
+  "daily_life": {
+    "likes": [],
+    "dislikes": [],
+    "interests": [],
+    "habits": [],
+    "lifestyle": "",
+    "money": "",
+    "possessions": ["重要的東西"]
+  },
+
+  "abilities": {
+    "summary": "一句",
+    "strengths": [],
+    "weaknesses": [],
+    "skills": [ { "name": "", "detail": "" } ],
+    "combat": { "role": "", "style": "", "iq": "", "weapon": "", "equipment": [] },
+    "limits": ["正面寫：什麼要付什麼代價、什麼做不到"]
+  },
+
+  "history": [
+    { "when": "時間點", "event": "發生什麼", "impact": "當時造成什麼", "now": "對現在的影響", "known_by": "public ／ 他自己 ／ 名單" }
+  ],
+
+  "knowledge": {
+    "cutoff": "視野截止在哪個時間點、為什麼",
+    "knows": [],
+    "unknown": [],
+    "misreads": ["會誤判的"],
+    "hides": [ { "what": "知道但不說的", "tells_if": "什麼條件下會說" } ],
+    "suspects": [],
+    "secrets": ["連自己都不太承認的"],
+    "when_unsure": "碰到不知道的事怎麼答"
+  },
+
+  "now": {
+    "as_of": "時間點",
+    "status": "現況，兩三段",
+    "goals": ["目前的目標（排序；第一條是最想要的）"],
+    "emotional_state": "此刻的基調",
+    "open_threads": ["還沒解決的事"]
+  },
+
+  "rules": [
+    { "rule": "扮演時要守住的事，正面寫", "because": "理由" }
+  ],
+
+  "review_checks": [
+    "審稿用的常見誤寫；可以用否定句；不導出、不送模型"
+  ]
+}
