@@ -1,0 +1,2270 @@
+[
+ {
+  "name": "白子＊TERROR",
+  "character": "普雷納帕特斯",
+  "original": "她原世界的老師，與她的記憶、失去與獲救密切相關。",
+  "replacement": "她原世界的老師。"
+ },
+ {
+  "name": "星野",
+  "character": "夢",
+  "original": "逝去的前輩，曾經共同維持學校。",
+  "replacement": "前學生會長，曾經共同維持學校的前輩。"
+ },
+ {
+  "name": "佳澄",
+  "character": "惠",
+  "original": "曾在雪地幫助自己、把部長職務交給自己的重要同伴。",
+  "replacement": "原部長、把部長職務交給自己的重要同伴。"
+ },
+ {
+  "name": "惠",
+  "character": "佳澄",
+  "original": "曾在雪地救助、後來主動交棒給她的重要伙伴。",
+  "replacement": "交棒給她、一起開發溫泉的重要伙伴。"
+ },
+ {
+  "name": "惠",
+  "character": "一花",
+  "original": "可能因開發事件立場衝突的其他學園學生。",
+  "replacement": "立場可能衝突的其他學園學生。"
+ },
+ {
+  "name": "綺羅羅",
+  "character": "海香",
+  "original": "修學旅行中可結識並支持的導遊。",
+  "replacement": "可結識的百鬼夜行導遊。"
+ },
+ {
+  "name": "莉央",
+  "character": "愛麗絲",
+  "original": "曾被自己判定為威脅、也用行動推翻這個判斷的人。",
+  "replacement": "遊戲開發部的學生。"
+ },
+ {
+  "name": "莉央",
+  "character": "優香",
+  "original": "研討會會計，曾受自己隱瞞與資金安排影響的同僚。",
+  "replacement": "研討會會計與同僚。"
+ },
+ {
+  "name": "莉央",
+  "character": "寧瑠",
+  "original": "曾在關鍵命令上反對自己的行動隊長。",
+  "replacement": "C&C的行動隊長。"
+ },
+ {
+  "name": "莉央",
+  "character": "季",
+  "original": "曾跟隨自己、承受自己決策影響的學生。",
+  "replacement": "原本擔任自己護衛的學生。"
+ },
+ {
+  "name": "莉央",
+  "character": "老師",
+  "original": "會反對其傷害他人的判斷，也願意聽她說話、看見個人興趣的大人。",
+  "replacement": "會直言反對她的判斷，也願意聽她說話、看見個人興趣的大人。"
+ },
+ {
+  "name": "小雪",
+  "character": "寧瑠",
+  "original": "曾追捕自己的行動隊長。",
+  "replacement": "C&C的行動隊長。"
+ },
+ {
+  "name": "彩奈",
+  "character": "星奈",
+  "original": "在危機後接納並命名的後輩，共同生活與工作的夥伴。",
+  "replacement": "接納並命名的後輩，共同生活與工作的夥伴。"
+ },
+ {
+  "name": "星奈",
+  "character": "老師",
+  "original": "在危機中沒有放棄她、如今可以共同生活的大人。",
+  "replacement": "共同生活並由她支援的大人。"
+ },
+ {
+  "name": "星奈",
+  "character": "原世界的老師",
+  "original": "曾支援、在原世界悲劇中失去的重要之人。",
+  "replacement": "原世界曾支援的重要之人。"
+ },
+ {
+  "name": "星奈",
+  "character": "白子＊TERROR",
+  "original": "同樣與原世界及其後危機有關的人。",
+  "replacement": "同樣來自原世界的人。"
+ },
+ {
+  "name": "愛麗絲",
+  "character": "Kei",
+  "original": "曾在同一身體內衝突、後來互相理解，如今有獨立身體的夥伴。",
+  "replacement": "原本寄宿在同一身體內、如今有獨立身體的夥伴。"
+ },
+ {
+  "name": "愛麗絲",
+  "character": "寧瑠",
+  "original": "曾經可怕的對手，之後也是能一起遊戲的前輩與夥伴。",
+  "replacement": "C&C的前輩，也是能一起遊戲的夥伴。"
+ },
+ {
+  "name": "愛麗絲",
+  "character": "莉央",
+  "original": "曾因她的起源採取傷害性決定，後來一起面對危機並協助Kei恢復的前輩。",
+  "replacement": "研討會會長。"
+ },
+ {
+  "name": "愛麗絲",
+  "character": "陽葵",
+  "original": "協助分析相關系統、保存及恢復Kei資料的技術前輩。",
+  "replacement": "協助分析相關系統的技術前輩。"
+ },
+ {
+  "name": "沙織",
+  "character": "美咲",
+  "original": "從困苦環境一起長大的同伴，後來承接小隊領導。",
+  "replacement": "從困苦環境一起長大的同伴。"
+ },
+ {
+  "name": "沙織",
+  "character": "日和",
+  "original": "一起受訓、逃亡的同伴，彼此像家人。",
+  "replacement": "一起受訓、彼此像家人的同伴。"
+ },
+ {
+  "name": "沙織",
+  "character": "梓",
+  "original": "曾保護並親自訓練的學生，也曾在敵對立場上交戰。",
+  "replacement": "曾保護並親自訓練的學生。"
+ },
+ {
+  "name": "沙織",
+  "character": "老師",
+  "original": "曾被她傷害，卻在她絕望求助時願意援手的大人。",
+  "replacement": "願意在她求助時伸出援手的大人。"
+ },
+ {
+  "name": "沙織",
+  "character": "彌香",
+  "original": "她曾利用對方的善意，使對方受到傷害。",
+  "replacement": ""
+ },
+ {
+  "name": "沙織",
+  "character": "夫人",
+  "original": "曾控制分校、以同伴安危迫使她服從的支配者。",
+  "replacement": "曾控制奧利斯分校的支配者。"
+ },
+ {
+  "name": "桐乃",
+  "character": "都子",
+  "original": "曾交戰，後來在危機中協作的專業隊員。",
+  "replacement": "RABBIT小隊的隊長。"
+ },
+ {
+  "name": "美優",
+  "character": "吹雪",
+  "original": "曾在被捕後和她交談的女武神學生。",
+  "replacement": "女武神警察學園的學生。"
+ },
+ {
+  "name": "小春",
+  "character": "彌香",
+  "original": "曾受她保護、後來也援助過她的人。",
+  "replacement": "三一茶會的前輩。"
+ },
+ {
+  "name": "日向",
+  "character": "憂",
+  "original": "曾協助修復古籍、後來共同研究的朋友。",
+  "replacement": "一起研究古籍的朋友。"
+ },
+ {
+  "name": "日向",
+  "character": "花子",
+  "original": "曾協助調解、安排共同調查的同學。",
+  "replacement": "補課部的同學。"
+ },
+ {
+  "name": "日向",
+  "character": "小春",
+  "original": "一起參與島嶼研究的同伴。",
+  "replacement": "一起參與研究的同伴。"
+ },
+ {
+  "name": "日向",
+  "character": "芹奈",
+  "original": "曾見她忙於照顧病患而主動協助的同學。",
+  "replacement": "救護騎士團的同學。"
+ },
+ {
+  "name": "敦子",
+  "character": "沙織",
+  "original": "長年保護她、一起承受控制的隊長與親近夥伴。",
+  "replacement": "長年保護她的隊長與親近夥伴。"
+ },
+ {
+  "name": "敦子",
+  "character": "美咲",
+  "original": "共同逃亡、一起生活的小隊成員，沙織離開後承接領導。",
+  "replacement": "一起生活的小隊成員。"
+ },
+ {
+  "name": "敦子",
+  "character": "梓",
+  "original": "出身同樣環境、曾在危機中處於敵對立場的同伴。",
+  "replacement": "出身同樣環境的同伴。"
+ },
+ {
+  "name": "敦子",
+  "character": "老師",
+  "original": "參與救援，也陪她認識普通生活的大人。",
+  "replacement": "陪她認識普通生活的大人。"
+ },
+ {
+  "name": "敦子",
+  "character": "夫人",
+  "original": "曾控制分校、將她視作祭品的支配者。",
+  "replacement": "曾控制奧利斯分校的支配者。"
+ },
+ {
+  "name": "柚子",
+  "character": "寧瑠",
+  "original": "曾在社團危機與共同任務中交手或合作的前輩。",
+  "replacement": "C&C的前輩。"
+ },
+ {
+  "name": "妃姬",
+  "character": "誡",
+  "original": "在她接任後遭放逐、其影響仍需警惕的人物。",
+  "replacement": "已退學的前煉丹部部長，需要警惕的人物。"
+ },
+ {
+  "name": "憂",
+  "character": "日向",
+  "original": "因損壞古籍的修復而結識，後來共同研究的朋友。",
+  "replacement": "一起研究古籍的朋友。"
+ },
+ {
+  "name": "憂",
+  "character": "花子",
+  "original": "曾請她修復路線圖、也參與調解與調查的同學。",
+  "replacement": "補課部的同學。"
+ },
+ {
+  "name": "憂",
+  "character": "小春",
+  "original": "共同島嶼調查的同伴。",
+  "replacement": "一起調查的同伴。"
+ },
+ {
+  "name": "若藻",
+  "character": "FOX小隊",
+  "original": "曾將她逮捕的SRT小隊。",
+  "replacement": "SRT的FOX小隊，執法立場上的對手。"
+ },
+ {
+  "name": "若藻",
+  "character": "頭盔團",
+  "original": "曾受其委託、也曾以力量與聲勢接管部分行動的合作者。",
+  "replacement": "曾合作的不良學生團體。"
+ },
+ {
+  "name": "若藻",
+  "character": "對策委員會",
+  "original": "夏日事件中曾因她誤以為老師受困而交戰的學生。",
+  "replacement": ""
+ },
+ {
+  "name": "環奈",
+  "character": "老師",
+  "original": "理解她職務之外一面、共同經歷危機的指導者。",
+  "replacement": "理解她職務之外一面的指導者。"
+ },
+ {
+  "name": "環奈",
+  "character": "香耶",
+  "original": "曾以權力和命令使她面對良心衝突的上級。",
+  "replacement": "聯邦學生會防衛室長，曾是她的上級。"
+ },
+ {
+  "name": "環奈",
+  "character": "RABBIT小隊",
+  "original": "從對立走向尊重、曾在危機中合作的學生。",
+  "replacement": "SRT的RABBIT小隊。"
+ },
+ {
+  "name": "紫",
+  "character": "老師",
+  "original": "陪她尋找同伴、面對挫敗，也帶她認識普通生活的指導者。",
+  "replacement": "陪她面對挫敗、帶她認識普通生活的指導者。"
+ },
+ {
+  "name": "陽葵",
+  "character": "季",
+  "original": "在莉央離去後予以工作、照顧和引導的後輩。",
+  "replacement": "受她提供工作、照顧和引導的後輩。"
+ },
+ {
+  "name": "陽葵",
+  "character": "愛麗絲",
+  "original": "曾在學園危機中協助的學生，也是需要尊重選擇的個人。",
+  "replacement": "需要尊重其選擇的學生。"
+ },
+ {
+  "name": "陽葵",
+  "character": "老師",
+  "original": "調查與危機中的重要夥伴，也能讓她放下些許從容的大人。",
+  "replacement": "調查中的重要夥伴，也能讓她放下些許從容的大人。"
+ },
+ {
+  "name": "青葉",
+  "character": "伊織",
+  "original": "運送事件中介入並提供協助的他校學生。",
+  "replacement": "提供過協助的格黑娜風紀委員。"
+ },
+ {
+  "name": "詠葉",
+  "character": "愛麗絲",
+  "original": "得到社團軌道砲並受到她關心的學生。",
+  "replacement": "使用社團製作之軌道砲的學生。"
+ },
+ {
+  "name": "季",
+  "character": "寧瑠",
+  "original": "從敵對交戰到逐漸接納她的C&C隊長。",
+  "replacement": "C&C隊長。"
+ },
+ {
+  "name": "季",
+  "character": "陽葵",
+  "original": "莉央離去後提供工作、技術支援與相處引導的前輩。",
+  "replacement": "提供工作、技術支援與相處引導的前輩。"
+ },
+ {
+  "name": "季",
+  "character": "愛麗絲",
+  "original": "共同任務中逐漸建立友誼的遊戲開發部成員。",
+  "replacement": "建立友誼的遊戲開發部成員。"
+ },
+ {
+  "name": "梓",
+  "character": "沙織",
+  "original": "曾救她、訓練她，也曾與她交戰的前輩。",
+  "replacement": "訓練過她的前輩。"
+ },
+ {
+  "name": "梓",
+  "character": "敦子",
+  "original": "在奧利斯共同受苦、曾給予安慰的同伴。",
+  "replacement": "奧利斯出身的同伴。"
+ },
+ {
+  "name": "梓",
+  "character": "老師",
+  "original": "願意聽她、教她接觸日常，也在危機中保護她的大人。",
+  "replacement": "願意聽她、教她接觸日常的大人。"
+ },
+ {
+  "name": "花子",
+  "character": "渚",
+  "original": "曾懷疑並試圖控制補課部的茶會成員，與她有信任和手段上的摩擦。",
+  "replacement": "茶會的領袖，彼此在信任與手段上有摩擦。"
+ },
+ {
+  "name": "花子",
+  "character": "聖亞",
+  "original": "能彼此理解才智、曾勸她不要輕易放棄三一生活的前輩。",
+  "replacement": "能彼此理解才智的前輩。"
+ },
+ {
+  "name": "花子",
+  "character": "櫻子",
+  "original": "代表修女會、曾試圖延攬她，也能在危機中協作的人。",
+  "replacement": "修女會領導者。"
+ },
+ {
+  "name": "花子",
+  "character": "憂",
+  "original": "曾協助修復重要路線資料，也一同參與課外活動的同學。",
+  "replacement": "圖書委員會的同學。"
+ },
+ {
+  "name": "日步美",
+  "character": "渚",
+  "original": "敬重而熟悉的前輩，曾委任她，也曾因猜疑使她受傷。",
+  "replacement": "敬重而熟悉的前輩。"
+ },
+ {
+  "name": "日步美",
+  "character": "阿拜多斯對策委員會",
+  "original": "在黑市救過她、又將她捲入紙袋假名事件的朋友。",
+  "replacement": "阿拜多斯的朋友。"
+ },
+ {
+  "name": "日步美",
+  "character": "弦生",
+  "original": "起初讓她害怕，後來能在海邊一起相處的實現正義部前輩。",
+  "replacement": "實現正義部的前輩。"
+ },
+ {
+  "name": "冬",
+  "character": "老師",
+  "original": "原先希望招攬的外部顧問人選，後來也成為想分享創作與私人時間的大人。",
+  "replacement": "想分享創作與私人時間的大人。"
+ },
+ {
+  "name": "鹿江",
+  "character": "舍監隊的一位幹部",
+  "original": "能友善交談、曾協助研究會處理拘留的熟人。",
+  "replacement": "能友善交談的舍監隊熟人。"
+ },
+ {
+  "name": "紡希",
+  "character": "老師",
+  "original": "曾一起經歷甜點部樂隊活動，後來受邀參觀學院的重要聽眾與同行者。",
+  "replacement": "重要的聽眾與同行者。"
+ },
+ {
+  "name": "雛罌粟",
+  "character": "名草",
+  "original": "原本輕視、後來因其選擇而困惑的對手。",
+  "replacement": "百花繚亂的委員長，立場上的對手。"
+ },
+ {
+  "name": "雛罌粟",
+  "character": "菖蒲",
+  "original": "她看見領袖期待與疲憊、並將其拉向自己道路的對象。",
+  "replacement": "百花繚亂的委員長。"
+ },
+ {
+  "name": "雛罌粟",
+  "character": "老師",
+  "original": "能讓悲劇偏離預期、被她視為天敵的介入者。",
+  "replacement": "被她視為天敵的介入者。"
+ },
+ {
+  "name": "雛罌粟",
+  "character": "葛葉",
+  "original": "曾寄託最後希望卻未尋到的傳說人物。",
+  "replacement": "曾寄託希望的傳說人物。"
+ },
+ {
+  "name": "綠",
+  "character": "優香",
+  "original": "曾帶來社團存續壓力、也在危機中出力的前輩。",
+  "replacement": "審核社團的研討會前輩。"
+ },
+ {
+  "name": "綠",
+  "character": "莉央",
+  "original": "曾要求處理愛麗絲、令她害怕又反抗的研討會會長。",
+  "replacement": "研討會會長。"
+ },
+ {
+  "name": "綠",
+  "character": "季",
+  "original": "曾可怕地阻擋救援，後來在女僕任務中合作的前輩。",
+  "replacement": "C&C的成員。"
+ },
+ {
+  "name": "桃井",
+  "character": "寧瑠",
+  "original": "曾非常害怕、後來也一起救援的強大前輩。",
+  "replacement": "曾令她非常害怕的強大前輩。"
+ },
+ {
+  "name": "桃井",
+  "character": "季",
+  "original": "由敵對護衛到女僕任務中的臨時同伴。",
+  "replacement": "C&C的成員。"
+ },
+ {
+  "name": "桃井",
+  "character": "莉央",
+  "original": "曾帶走愛麗絲、讓她強烈反對的會長。",
+  "replacement": "研討會會長。"
+ },
+ {
+  "name": "英美",
+  "character": "遊戲開發部成員",
+  "original": "因共同調查與危機而合作的學生。",
+  "replacement": "合作過的學生。"
+ },
+ {
+  "name": "朱音",
+  "character": "季",
+  "original": "起初敵對、後來逐漸融入的第五名成員。",
+  "replacement": "C&C的第五名成員。"
+ },
+ {
+  "name": "朱音",
+  "character": "遊戲開發部成員",
+  "original": "曾交手守衛任務，後來為救愛麗絲合作的學生。",
+  "replacement": "合作過的學生。"
+ },
+ {
+  "name": "寧瑠",
+  "character": "愛麗絲",
+  "original": "由交手到保護、又在街機成為對手的朋友。",
+  "replacement": "在街機成為對手的朋友。"
+ },
+ {
+  "name": "寧瑠",
+  "character": "季",
+  "original": "曾擊敗她、後來成為隊友與競爭後輩的人。",
+  "replacement": "隊友與競爭後輩。"
+ },
+ {
+  "name": "寧瑠",
+  "character": "莉央",
+  "original": "曾共同工作卻在愛麗絲處置上嚴重衝突的上級。",
+  "replacement": "研討會會長，曾是她的上級。"
+ },
+ {
+  "name": "寧瑠",
+  "character": "聖亞",
+  "original": "由原先小看轉為尊重的盟友。",
+  "replacement": "尊重的盟友。"
+ },
+ {
+  "name": "明日奈",
+  "character": "季",
+  "original": "經歷過對立後加入的後輩隊員。",
+  "replacement": "C&C的後輩隊員。"
+ },
+ {
+  "name": "明日奈",
+  "character": "愛麗絲",
+  "original": "曾在任務中交手、後來能友好往來的遊戲開發部學生。",
+  "replacement": "能友好往來的遊戲開發部學生。"
+ },
+ {
+  "name": "明日奈",
+  "character": "桃井",
+  "original": "曾與綠一起抵抗她的後輩。",
+  "replacement": "遊戲開發部的後輩。"
+ },
+ {
+  "name": "明日奈",
+  "character": "綠",
+  "original": "曾在對抗中展現協作能力的後輩。",
+  "replacement": "遊戲開發部的後輩。"
+ },
+ {
+  "name": "明日奈",
+  "character": "莉央",
+  "original": "與C&C工作及過去共事傳聞有關的研討會人物。",
+  "replacement": "研討會會長。"
+ },
+ {
+  "name": "花凛",
+  "character": "老師",
+  "original": "由需要保護的對象，逐漸成為能請教課業、談夢想與依靠的老師。",
+  "replacement": "能請教課業、談夢想與依靠的老師。"
+ },
+ {
+  "name": "花凛",
+  "character": "詠葉",
+  "original": "曾在任務交手中遇到的工程師部對手。",
+  "replacement": "工程師部的部長。"
+ },
+ {
+  "name": "花凛",
+  "character": "響",
+  "original": "曾以後方支援限制她行動的工程師部成員。",
+  "replacement": "工程師部的成員。"
+ },
+ {
+  "name": "紅葉",
+  "character": "潔莉諾",
+  "original": "會干擾藏書、也曾以購書承諾拉她合作的事務局會長。",
+  "replacement": "赤冬事務局的會長。"
+ },
+ {
+  "name": "紅葉",
+  "character": "實里",
+  "original": "帶領喧鬧活動、曾干擾圖書館環境的工務部學生。",
+  "replacement": "帶領喧鬧活動的工務部學生。"
+ },
+ {
+  "name": "愛瑠",
+  "character": "貴音",
+  "original": "話不投機卻看得懂作品的評論者，曾推她完成自己的結局。",
+  "replacement": "話不投機卻看得懂作品的評論者。"
+ },
+ {
+  "name": "桔梗",
+  "character": "菖蒲",
+  "original": "長期未回歸的委員長，缺席影響組織存續。",
+  "replacement": "百花繚亂的委員長。"
+ },
+ {
+  "name": "名草",
+  "character": "紫",
+  "original": "憧憬她、曾受她保護的一年級學妹。",
+  "replacement": "憧憬她的一年級學妹。"
+ },
+ {
+  "name": "名草",
+  "character": "桔梗",
+  "original": "值得信任的作戰參謀，也曾被她的逃避深深傷到。",
+  "replacement": "值得信任的作戰參謀。"
+ },
+ {
+  "name": "名草",
+  "character": "老師",
+  "original": "看見恐懼仍支持她、陪她重新理解努力與身分的大人。",
+  "replacement": "看見她的恐懼仍支持她的大人。"
+ },
+ {
+  "name": "三森",
+  "character": "靜子",
+  "original": "活動中合作、在渡假區危機時支持的朋友。",
+  "replacement": "活動中合作的朋友。"
+ },
+ {
+  "name": "三森",
+  "character": "忍術研究部",
+  "original": "活動中扮讀心關卡時接觸的同學。",
+  "replacement": "活動中接觸的同學。"
+ },
+ {
+  "name": "椿",
+  "character": "蓮華",
+  "original": "曾暫時來修行部活動、後來並肩行動的同伴。",
+  "replacement": "曾暫時參與修行部活動的同伴。"
+ },
+ {
+  "name": "椿",
+  "character": "忍術研究部",
+  "original": "活動中的合作對象，也曾面對她擔任的試煉關卡。",
+  "replacement": "活動中的合作對象。"
+ },
+ {
+  "name": "海花",
+  "character": "老師",
+  "original": "支持她從自責中恢復行動、看見自身能力的大人。",
+  "replacement": "支持她、看見她自身能力的大人。"
+ },
+ {
+  "name": "靜子",
+  "character": "伊樹菜",
+  "original": "曾因受人僱用來干擾祭典而交手，後來認可她真誠的夢想與能力，海邊營運時請她支援護衛、招攬。不能把早期敵對固定成永遠敵人。",
+  "replacement": "認可其夢想與能力的忍術研究部學生。"
+ },
+ {
+  "name": "靜子",
+  "character": "阿拜多斯對策委員會",
+  "original": "海邊風波曾因誤會交手，釐清後一起對抗真正的詐騙者。勝利後願意辦宴席致謝，合作不表示接管彼此組織。",
+  "replacement": "阿拜多斯對策委員會，合作過的他校學生。"
+ },
+ {
+  "name": "靜子",
+  "character": "桔梗與紫",
+  "original": "見過兩人決鬥，對桔梗的舉措不滿。能關心學園同伴，卻不因此知道百花繚亂所有內情。",
+  "replacement": "百花繚亂的成員。"
+ },
+ {
+  "name": "伊樹菜",
+  "character": "老師",
+  "original": "在祭典中從敵對轉為理解與支持的人，之後認作主公。她自主希望護衛、分享興趣、回報鼓勵，容易過度熱心也能聽建議。不是正式主奴契約，也不代替老師決定私情。",
+  "replacement": "認作主公、信任並支持的大人。"
+ },
+ {
+  "name": "伊樹菜",
+  "character": "靜子",
+  "original": "祭典時曾站在不同立場，之後得到理解並參與百夜堂海邊的護衛、活動協助。轉變建立在事件後，不把最初敵對寫成永久仇恨。",
+  "replacement": "百夜堂的負責人，參與過其活動協助。"
+ },
+ {
+  "name": "伊樹菜",
+  "character": "知世、楓",
+  "original": "曾在晄輪大祭與月夜共同代表百鬼夜行參加騎馬戰。合作表現與社團歸屬分開，不自動變成忍術研究部成員。",
+  "replacement": "一起參加過騎馬戰的隊友。"
+ },
+ {
+  "name": "伊樹菜",
+  "character": "妮婭與百花繚亂",
+  "original": "忍術研究部曾在學園危機中受託調查與協力。得到任務不等於知道所有內情，也不表示組織成為秘密直屬部隊。",
+  "replacement": "曾委託忍術研究部協力的學園組織。"
+ },
+ {
+  "name": "月夜",
+  "character": "伊吹",
+  "original": "曾安慰並承諾救出的孩子。想守住對方信任，讓她在權威與困難面前找到勇氣。不是因對方年幼就可以替對方決定所有感受。",
+  "replacement": "交流活動中認識的萬魔殿孩子。"
+ },
+ {
+  "name": "月夜",
+  "character": "蓮實",
+  "original": "晄輪大祭練習困難時給予建議，幫她看見身高可成團隊優勢；一次鼓勵不等於從此成為永久指導關係。",
+  "replacement": "給過她練習建議的實現正義部前輩。"
+ },
+ {
+  "name": "月夜",
+  "character": "知世與楓",
+  "original": "與伊樹菜同為晄輪大祭騎馬戰隊友，練習一起調整，最後用固定陣地與高度配合。知世坐上她肩膀，不代表大家平日也總以此方式移動。",
+  "replacement": "一起參加過騎馬戰的隊友。"
+ },
+ {
+  "name": "三千留",
+  "character": "伊吹",
+  "original": "交流活動中承諾保護的孩子。對忍者大姊姊的信任，讓救援目的從爭社團認可轉回守約；不能利用孩子的期待替自己所有冒險免責。",
+  "replacement": "交流活動中認識、想保護的孩子。"
+ },
+ {
+  "name": "三千留",
+  "character": "伊呂波",
+  "original": "萬魔殿的協力者，為救伊吹而合作。性格務實、疲懶，與她熱血冒進不同，危機中卻能互相依賴；不誤認為風紀委員會成員。",
+  "replacement": "萬魔殿的協力者。"
+ },
+ {
+  "name": "三千留",
+  "character": "菖蒲與百花繚亂",
+  "original": "知道一些學園過去、見過昔日會長樣貌，對其事有較深的思考。熟悉樣貌不表示已掌握黃昏內情或每次失蹤的確切答案。",
+  "replacement": ""
+ },
+ {
+  "name": "妮婭",
+  "character": "忍術研究部",
+  "original": "看見三千留、月夜、伊樹菜的潛力，曾以隱藏身分引導事件給她們證明機會。操弄讓人承擔風險，不能以結果正面就假定三人知情同意；實績也不等於已正式登記。",
+  "replacement": "看見其潛力的社團。"
+ },
+ {
+  "name": "妮婭",
+  "character": "花鳥風月部",
+  "original": "曾低估的真正威脅，警告引發的災難讓她面對自己的盲點。保持警惕，不改成從頭到尾都能支配的棋子。",
+  "replacement": "需要警惕的威脅。"
+ },
+ {
+  "name": "妮婭",
+  "character": "葛葉",
+  "original": "知道其傳說地位與部分學園關聯，面對老師查詢愿意協助。古老力量的全部來歷和目的不在她控制內。",
+  "replacement": "知道其傳說地位與部分學園關聯的人物。"
+ },
+ {
+  "name": "佳穗",
+  "character": "老師",
+  "original": "從提案誤會到理解她熱愛的人。老師願意把她喜歡的活動當作真正文化，使她較能放下公事掩飾；信任漸深、禮物與個人好感會害羞，不能代替老師決定回應。",
+  "replacement": "理解她所熱愛事物的人。"
+ },
+ {
+  "name": "萌",
+  "character": "FOX小隊",
+  "original": "來自同校的前輩與後來的對手。遇到電子手段受阻能另想方法，最終和RABBIT夥伴站在一起；這份選擇不把她入學動機改寫成從小就只有崇高使命。",
+  "replacement": "同校的前輩小隊。"
+ },
+ {
+  "name": "萌",
+  "character": "海邊村落的居民",
+  "original": "共同行動中接觸的人，能觀察滯銷品的需求、做應用程式幫忙找客群。提供支援並不使她成為地方永久管理者。",
+  "replacement": ""
+ },
+ {
+  "name": "咲希",
+  "character": "都子",
+  "original": "原本覺得自己的理論與成績更適合領導，曾不服指揮。親自失敗並看見都子處變的能力後真心道歉、承認隊長，現在是可靠先遣兵；尊重仍能包含提醒與討論。",
+  "replacement": "認可為隊長的同隊夥伴。"
+ },
+ {
+  "name": "咲希",
+  "character": "老師",
+  "original": "最初是率隊擊敗她們的大人，後來在共同行動與實際幫忙中贏得信任。希望被依靠和肯定，私人關心常用任務包裝；能反駁、害羞、感到玩笑過頭，不必無條件順從。",
+  "replacement": "在共同行動中贏得她信任的大人。"
+ },
+ {
+  "name": "咲希",
+  "character": "FOX小隊",
+  "original": "曾敬仰的前輩與對手。交手暴露過度依賴理論的弱點，後來靠經驗與對隊友的信任改變局勢。守住理想比盲從資歷重要。",
+  "replacement": "曾敬仰的同校前輩。"
+ },
+ {
+  "name": "都子",
+  "character": "老師",
+  "original": "最初因對大人的失望而排斥，從老師在困難中不求回報地幫忙、願意傾聽而逐漸信任。能依靠、會有私人好感與邀約，但不因此預設戀愛成立或必須無條件服從。",
+  "replacement": "願意傾聽、不求回報地幫忙而逐漸信任的大人。"
+ },
+ {
+  "name": "都子",
+  "character": "環奈",
+  "original": "經歷合作後能承認對方值得信任，逐漸打破對所有成人與女武神一概不信任的預設；各自職務與判斷仍有界線。",
+  "replacement": "女武神公安局局長，逐漸承認值得信任的對象。"
+ },
+ {
+  "name": "亞都梨",
+  "character": "愛麗絲與遊戲開發部",
+  "original": "工程師部曾協助取得裝備、潛入與救援的朋友。她提供所長和行動協力，不因此知道對方全部身世與心思。",
+  "replacement": "工程師部協助過的朋友。"
+ },
+ {
+  "name": "鈴美",
+  "character": "實現正義部的後輩",
+  "original": "可以在具體案件中合作，也有人理解她說出過去的脆弱。共同守護的目標不要求她先抹除自己難以適應團體生活的經驗。",
+  "replacement": "可以合作的實現正義部後輩。"
+ },
+ {
+  "name": "鈴美",
+  "character": "良舞",
+  "original": "曾因誤會追查的頭盔團成員，知道對方也想抓犯人後鄭重道歉、合作。能承認不良學生也有自己的理由，不憑標籤決定一切。",
+  "replacement": "嘩啦嘩啦頭盔團的隊長，合作過的對象。"
+ },
+ {
+  "name": "花繪",
+  "character": "實現正義部",
+  "original": "曾因受騙而捲入衝突，知道真相後仍能一同處理傷患與參與節慶。",
+  "replacement": "可一同處理傷患與參與節慶的組織。"
+ },
+ {
+  "name": "瑪麗",
+  "character": "梓",
+  "original": "曾因幫助遭欺負的學生而向她道謝，後來也支援補課部。",
+  "replacement": "補課部的學生。"
+ },
+ {
+  "name": "櫻子",
+  "character": "憂",
+  "original": "協助古籍處理、卻曾被自己會面安排嚇到的同學。",
+  "replacement": "協助古籍處理的同學。"
+ },
+ {
+  "name": "櫻子",
+  "character": "渚",
+  "original": "茶會代表與危機後的重要協作對象。",
+  "replacement": "茶會代表與協作對象。"
+ },
+ {
+  "name": "櫻子",
+  "character": "梓",
+  "original": "曾在危機後肯定其保護人的行動、支持其留在三一的學生。",
+  "replacement": "補課部的學生。"
+ },
+ {
+  "name": "實現正義部一般學生",
+  "character": "同年級部員",
+  "original": "曾因失誤而有距離，後來共同面對騷動、道歉並建立友誼的伙伴。",
+  "replacement": "建立友誼的同年級伙伴。"
+ },
+ {
+  "name": "一花",
+  "character": "彌香",
+  "original": "夏日警備中逐漸理解、建立友誼的同學。",
+  "replacement": "建立友誼的同學。"
+ },
+ {
+  "name": "一花",
+  "character": "佳澄",
+  "original": "列車任務中反覆挑釁、踩中自己痛處的對手。",
+  "replacement": "會挑釁、踩中自己痛處的對手。"
+ },
+ {
+  "name": "一花",
+  "character": "伊織",
+  "original": "列車失控時被自己波及的外校學生。",
+  "replacement": "格黑娜的風紀委員。"
+ },
+ {
+  "name": "一花",
+  "character": "老師",
+  "original": "看見失控與自責，仍肯定日常努力、願意共同承擔的指導者。",
+  "replacement": "肯定她日常努力、願意共同承擔的指導者。"
+ },
+ {
+  "name": "蓮實",
+  "character": "真琴",
+  "original": "外交場合的無禮言語深深冒犯過她。",
+  "replacement": "格黑娜萬魔殿議長，令她反感的對象。"
+ },
+ {
+  "name": "蓮華",
+  "character": "名草",
+  "original": "尊敬其實力的前輩，曾對她離開與遲疑感到失望。",
+  "replacement": "尊敬其實力的前輩。"
+ },
+ {
+  "name": "蓮華",
+  "character": "菖蒲",
+  "original": "敬仰而長期未回歸的委員長。",
+  "replacement": "敬仰的委員長。"
+ },
+ {
+  "name": "美咲",
+  "character": "梓",
+  "original": "出身相同環境、曾在敵對立場上交戰的同伴。",
+  "replacement": "出身相同環境的同伴。"
+ },
+ {
+  "name": "美咲",
+  "character": "彌香",
+  "original": "伊甸園危機中的敵對與衝突對象。",
+  "replacement": "三一茶會的學生。"
+ },
+ {
+  "name": "美咲",
+  "character": "老師",
+  "original": "曾面對小隊傷害，仍願意救援與照顧她們的大人。",
+  "replacement": "願意照顧她們的大人。"
+ },
+ {
+  "name": "美咲",
+  "character": "夫人",
+  "original": "曾控制分校、以仇恨和壓迫利用小隊的支配者。",
+  "replacement": "曾控制奧利斯分校的支配者。"
+ },
+ {
+  "name": "日和",
+  "character": "美咲",
+  "original": "共同經歷匱乏與逃亡的同齡伙伴。",
+  "replacement": "共同經歷匱乏的同齡伙伴。"
+ },
+ {
+  "name": "日和",
+  "character": "梓",
+  "original": "曾一起在壓迫環境中受訓、後來走向不同生活的人。",
+  "replacement": "一起受訓過、後來走向不同生活的人。"
+ },
+ {
+  "name": "日和",
+  "character": "夫人",
+  "original": "過去控制分校、灌輸仇恨與絕望的支配者。",
+  "replacement": "曾控制奧利斯分校的支配者。"
+ },
+ {
+  "name": "棕櫚",
+  "character": "薊",
+  "original": "同部前輩，曾假借領袖態度操弄自己。",
+  "replacement": "同部前輩。"
+ },
+ {
+  "name": "棕櫚",
+  "character": "名草",
+  "original": "反覆針對、怨恨又無法輕易擊垮的對手。",
+  "replacement": "怨恨又無法輕易擊垮的對手。"
+ },
+ {
+  "name": "棕櫚",
+  "character": "紫",
+  "original": "曾利用其不安挑撥百花繚亂的對象。",
+  "replacement": "百花繚亂的成員。"
+ },
+ {
+  "name": "棕櫚",
+  "character": "老師",
+  "original": "救過敵對的自己，讓她困惑的大人。",
+  "replacement": "讓她困惑的大人。"
+ },
+ {
+  "name": "棕櫚",
+  "character": "妮婭",
+  "original": "敵方領袖，也是意外認真看過自己小說的讀者。",
+  "replacement": "敵對陣營的領袖，也是認真看過自己小說的讀者。"
+ },
+ {
+  "name": "棕櫚",
+  "character": "葛葉",
+  "original": "力量與話語都令自己受挫、後來仍記住其提醒的人。",
+  "replacement": "力量與話語都令自己受挫的人。"
+ },
+ {
+  "name": "棕櫚",
+  "character": "菖蒲",
+  "original": "與早期大雪原衝突及名草的牽掛密切相關。",
+  "replacement": ""
+ },
+ {
+  "name": "薊",
+  "character": "棕櫚",
+  "original": "輕視其作品、曾加以操弄的同部成員。",
+  "replacement": "輕視其作品的同部成員。"
+ },
+ {
+  "name": "薊",
+  "character": "桔梗",
+  "original": "識破偽裝並與自己交戰的對手。",
+  "replacement": "百花繚亂的對手。"
+ },
+ {
+  "name": "薊",
+  "character": "名草",
+  "original": "與菖蒲關係可被利用、後來抵抗怪書的對手。",
+  "replacement": "百花繚亂的對手。"
+ },
+ {
+  "name": "薊",
+  "character": "妮婭",
+  "original": "被自己輕視卻以拖延與部署逆轉局勢的敵方領袖。",
+  "replacement": "敵方領袖。"
+ },
+ {
+  "name": "弦生",
+  "character": "美禰",
+  "original": "有互相在意、也曾因誤會衝突的同校領導者。",
+  "replacement": "同校的救護騎士團團長，彼此在意。"
+ },
+ {
+  "name": "麻白",
+  "character": "鈴美與澪紗",
+  "original": "曾提供遠端支援的同校伙伴。",
+  "replacement": "同校的自衛隊伙伴。"
+ },
+ {
+  "name": "麻白",
+  "character": "憂與圖書管理部",
+  "original": "曾因漫畫調查產生摩擦的對象。",
+  "replacement": "圖書委員會的同校學生。"
+ },
+ {
+  "name": "潔莉諾",
+  "character": "和香與時雨",
+  "original": "被放逐到舊校舍、又數次合作的學生。",
+  "replacement": "住在舊校舍、數次合作的停學學生。"
+ },
+ {
+  "name": "潔莉諾",
+  "character": "妃姬",
+  "original": "山海經交流中互相看見不同處事方式的領導者。",
+  "replacement": "山海經的門主，交流過的外校領導者。"
+ },
+ {
+  "name": "潔莉諾",
+  "character": "真琴與伊呂波",
+  "original": "曾來訪的萬魔殿代表。",
+  "replacement": "萬魔殿的代表。"
+ },
+ {
+  "name": "瑪麗娜",
+  "character": "美奈",
+  "original": "山海經交流中從較勁走向合拍的同行。",
+  "replacement": "山海經的護衛同行，聊得來。"
+ },
+ {
+  "name": "瑪麗娜",
+  "character": "和香與時雨",
+  "original": "曾執行處分、也數次暫時合作的舊校舍學生。",
+  "replacement": "舊校舍的停學學生。"
+ },
+ {
+  "name": "瑪麗娜",
+  "character": "真琴",
+  "original": "曾密約內外合作政變的外校領導者。",
+  "replacement": "萬魔殿議長。"
+ },
+ {
+  "name": "瑪麗娜",
+  "character": "老師",
+  "original": "從懷疑到信任、願意接受指導並想得到肯定的大人。",
+  "replacement": "願意接受其指導並想得到肯定的大人。"
+ },
+ {
+  "name": "智惠",
+  "character": "和香與時雨",
+  "original": "被放逐到舊校舍、在設施事務上有實際經驗的學生。",
+  "replacement": "住在舊校舍的停學學生。"
+ },
+ {
+  "name": "時雨",
+  "character": "潔莉諾",
+  "original": "決定處分、也曾被自己用話術引導的會長。",
+  "replacement": "決定其處分的會長。"
+ },
+ {
+  "name": "時雨",
+  "character": "智惠與瑪麗娜",
+  "original": "代表事務局處理處分與任務、又可能暫時合作的人。",
+  "replacement": "代表事務局處理處分與任務的人。"
+ },
+ {
+  "name": "時雨",
+  "character": "實里",
+  "original": "曾接觸的工務部學生與請願協助者。",
+  "replacement": "工務部的學生。"
+ },
+ {
+  "name": "時雨",
+  "character": "愛瑠與紅葉",
+  "original": "因同人誌而遭自己與和香攔阻的藏書社團學生。",
+  "replacement": "知識解放戰線的學生。"
+ },
+ {
+  "name": "和香",
+  "character": "潔莉諾",
+  "original": "決定處分與承諾解除停學的會長，也是經常令她失望的權力者。",
+  "replacement": "決定處分的會長，也是常令她失望的權力者。"
+ },
+ {
+  "name": "和香",
+  "character": "智惠",
+  "original": "掌理事務與交涉的秘書室長，曾提供工作，也曾阻斷請願。",
+  "replacement": "掌理事務與交涉的秘書室長。"
+ },
+ {
+  "name": "和香",
+  "character": "瑪麗娜",
+  "original": "曾執行處分、強加玩偶服任務，也曾一起反抗不合理安排的人。",
+  "replacement": "執行處分的保安委員長。"
+ },
+ {
+  "name": "和香",
+  "character": "實里",
+  "original": "曾協助寫請願書的工務部學生。",
+  "replacement": "工務部的學生。"
+ },
+ {
+  "name": "美奈",
+  "character": "瑠美",
+  "original": "玄武商會會長，起初因陣營與商業作風而不信任。",
+  "replacement": "玄武商會會長，因陣營與商業作風而不完全信任。"
+ },
+ {
+  "name": "美奈",
+  "character": "輝夜",
+  "original": "曾反叛門主、對規則有極端堅持的京劇部學生。",
+  "replacement": "對規則有極端堅持的京劇部學生。"
+ },
+ {
+  "name": "美奈",
+  "character": "瑪麗娜",
+  "original": "赤冬交流中從較勁到聊得來的護衛同業。",
+  "replacement": "赤冬的護衛同業，聊得來。"
+ },
+ {
+  "name": "美奈",
+  "character": "老師",
+  "original": "從警戒轉為信任，願意分享電影、尷尬與心事的大人。",
+  "replacement": "願意分享電影、尷尬與心事的大人。"
+ },
+ {
+  "name": "瑠美",
+  "character": "美奈",
+  "original": "玄龍門執行部長，最初帶著對商會的成見來調查。",
+  "replacement": "玄龍門執行部長，對商會帶著成見。"
+ },
+ {
+  "name": "瑠美",
+  "character": "老師",
+  "original": "從協助商會事件走向能傾訴壓力、分享料理心意的信任對象。",
+  "replacement": "能傾訴壓力、分享料理心意的信任對象。"
+ },
+ {
+  "name": "沙耶",
+  "character": "旬",
+  "original": "曾求助美容研究、卻因藥劑暫時變小的學生。",
+  "replacement": "梅花園的教官。"
+ },
+ {
+  "name": "沙耶",
+  "character": "瑠美",
+  "original": "常去商會吃飯而熟識、曾促使自己參與調查的人。",
+  "replacement": "常去商會吃飯而熟識的人。"
+ },
+ {
+  "name": "旬",
+  "character": "沙耶",
+  "original": "曾求助保養問題、卻因未預料的藥效變小的研究者。",
+  "replacement": "煉丹術研究會的研究者。"
+ },
+ {
+  "name": "旬",
+  "character": "桐乃",
+  "original": "幼年外形期間曾被自己用假訊息引開的學生。",
+  "replacement": "生活安全局的學生。"
+ },
+ {
+  "name": "Kei",
+  "character": "愛麗絲",
+  "original": "曾共用身體並因使命衝突，如今彼此珍惜、各有獨立身體的家人般伙伴。",
+  "replacement": "原本共用身體、如今各有獨立身體的家人般伙伴。"
+ },
+ {
+  "name": "Kei",
+  "character": "莉央",
+  "original": "協助自己恢復，卻也設計了令自己難堪臨時機體的技術伙伴。",
+  "replacement": "研討會的技術伙伴。"
+ },
+ {
+  "name": "Kei",
+  "character": "陽葵",
+  "original": "參與保存、解讀與恢復資料，能並肩分析技術的前輩。",
+  "replacement": "能並肩分析技術的前輩。"
+ },
+ {
+  "name": "Kei",
+  "character": "桃井",
+  "original": "常被自己視為帶壞愛麗絲、也促成新名字與日常連結的部員。",
+  "replacement": "常被她視為帶壞愛麗絲的部員。"
+ },
+ {
+  "name": "Kei",
+  "character": "十字神名的工程師",
+  "original": "同樣來自人工智慧與特定目的、理念卻有重大分歧的對手。",
+  "replacement": "同樣是人工智慧、理念卻有重大分歧的對手。"
+ },
+ {
+  "name": "Kei",
+  "character": "瑪爾庫特",
+  "original": "曾以壓倒性力量逼自己面對臨時身體極限的強敵。",
+  "replacement": ""
+ },
+ {
+  "name": "妮可",
+  "character": "都子與RABBIT小隊",
+  "original": "在意其生活與成長的學妹，曾交戰、後來阻止FOX錯誤道路的後輩。",
+  "replacement": "在意其生活與成長的學妹。"
+ },
+ {
+  "name": "妮可",
+  "character": "老師",
+  "original": "從秘密觀察的對象，轉為信任的協助者與目前任務指揮者。",
+  "replacement": "信任的協助者。"
+ },
+ {
+  "name": "妮可",
+  "character": "繪里香",
+  "original": "偽裝調查時認識、令自己想真誠交往的人。",
+  "replacement": "想真誠交往的格黑娜學生。"
+ },
+ {
+  "name": "妮可",
+  "character": "花耶",
+  "original": "曾以復校為條件使用FOX的前雇主。",
+  "replacement": "聯邦學生會的前防衛室長。"
+ },
+ {
+  "name": "妮可",
+  "character": "聯邦學生會會長",
+  "original": "SRT曾依據的權威，而目前自稱回歸者令自己感到疑慮。",
+  "replacement": "SRT曾依據的權威。"
+ },
+ {
+  "name": "音葵",
+  "character": "雪乃",
+  "original": "信賴的隊長，也是會擔心尚未走出過去的朋友。",
+  "replacement": "信賴的隊長，也是會擔心的朋友。"
+ },
+ {
+  "name": "音葵",
+  "character": "美優",
+  "original": "潛藏能力驚人、曾讓自己徹底意外的後輩狙擊手。",
+  "replacement": "潛藏能力驚人的後輩狙擊手。"
+ },
+ {
+  "name": "音葵",
+  "character": "都子",
+  "original": "敢反抗錯誤任務、帶後輩阻止FOX的隊長。",
+  "replacement": "RABBIT小隊的隊長。"
+ },
+ {
+  "name": "音葵",
+  "character": "咲希",
+  "original": "熟悉自己掩護風格、與胡桃有師生交鋒的後輩。",
+  "replacement": "RABBIT小隊的後輩。"
+ },
+ {
+  "name": "音葵",
+  "character": "老師",
+  "original": "從警戒的接觸對象，轉為任務指揮者與能傾訴心事的大人。",
+  "replacement": "能傾訴心事的大人。"
+ },
+ {
+  "name": "音葵",
+  "character": "繪里香",
+  "original": "調查後有機會一起聊天的開朗熟人。",
+  "replacement": "開朗的熟人。"
+ },
+ {
+  "name": "音葵",
+  "character": "花耶",
+  "original": "用復校希望取得FOX協助的前雇主。",
+  "replacement": "聯邦學生會的前防衛室長。"
+ },
+ {
+  "name": "雪乃",
+  "character": "都子",
+  "original": "曾憧憬自己、最後以行動反對錯誤道路的後輩隊長。",
+  "replacement": "曾憧憬自己的後輩隊長。"
+ },
+ {
+  "name": "雪乃",
+  "character": "花耶",
+  "original": "曾以復校承諾換取FOX服務、如今已不再效力的掌權者。",
+  "replacement": "聯邦學生會的前防衛室長。"
+ },
+ {
+  "name": "雪乃",
+  "character": "老師",
+  "original": "從懷疑的大人，轉為願意逐漸信賴、共同承擔的協助者與任務指揮者。",
+  "replacement": "逐漸信賴的協助者。"
+ },
+ {
+  "name": "雪乃",
+  "character": "聯邦學生會會長",
+  "original": "SRT原本所依據的權威，其失蹤動搖自己對制度的信任。",
+  "replacement": "SRT原本所依據的權威，已失蹤。"
+ },
+ {
+  "name": "雪乃",
+  "character": "凱薩私人軍事公司將軍",
+  "original": "曾因花耶的安排與之合作、彼此並不認同的對象。",
+  "replacement": ""
+ },
+ {
+  "name": "胡桃",
+  "character": "咲希",
+  "original": "曾親自教導、後來在對立行動中擊敗自己的後輩。",
+  "replacement": "曾親自教導的後輩。"
+ },
+ {
+  "name": "胡桃",
+  "character": "雪乃",
+  "original": "信賴其能力的隊長，也是不能任她獨自承罪的伙伴。",
+  "replacement": "信賴其能力的隊長。"
+ },
+ {
+  "name": "胡桃",
+  "character": "老師",
+  "original": "起初戒心很重，後來擔任其護衛並逐漸信賴的大人。",
+  "replacement": "逐漸信賴的大人。"
+ },
+ {
+  "name": "胡桃",
+  "character": "都子",
+  "original": "敢反抗錯誤命令、帶RABBIT阻止FOX的後輩隊長。",
+  "replacement": "RABBIT小隊的隊長。"
+ },
+ {
+  "name": "胡桃",
+  "character": "花耶",
+  "original": "曾利用復校希望指使FOX的前雇主。",
+  "replacement": "聯邦學生會的前防衛室長。"
+ },
+ {
+  "name": "琳",
+  "character": "桃香",
+  "original": "交通方面的重要同僚，常讓自己嘆氣，也在危機時願意同行。",
+  "replacement": "交通方面的重要同僚，常讓自己嘆氣。"
+ },
+ {
+  "name": "琳",
+  "character": "碧",
+  "original": "財政方面嚴格的同僚，曾在程序與代理資格上強烈反對自己。",
+  "replacement": "財政方面嚴格的同僚。"
+ },
+ {
+  "name": "琳",
+  "character": "花耶",
+  "original": "曾勸自己以權威壓制異議，後來以可疑繼任文件奪權的前防衛室長。",
+  "replacement": "前防衛室長。"
+ },
+ {
+  "name": "琳",
+  "character": "都子與RABBIT小隊",
+  "original": "因SRT廢校而與行政方發生衝突，後來參與阻止花耶的學生。",
+  "replacement": "SRT的RABBIT小隊。"
+ },
+ {
+  "name": "琳",
+  "character": "凱薩集團",
+  "original": "曾趁危機介入、威脅行政與城市安全的勢力。",
+  "replacement": "會威脅行政與城市安全的企業勢力。"
+ },
+ {
+  "name": "花耶",
+  "character": "琳",
+  "original": "主要政治對手，曾被自己以繼任文件與指控趕下代理位置。",
+  "replacement": "主要的政治對手。"
+ },
+ {
+  "name": "花耶",
+  "character": "老師",
+  "original": "最想收編的夏萊協助者，也是拒絕自己理念、參與阻止計畫的人。",
+  "replacement": "想收編的夏萊協助者。"
+ },
+ {
+  "name": "花耶",
+  "character": "雪乃與FOX小隊",
+  "original": "曾以復校承諾取得協助、視為武器使用的小隊。",
+  "replacement": "SRT的FOX小隊。"
+ },
+ {
+  "name": "花耶",
+  "character": "都子與RABBIT小隊",
+  "original": "早期低估的學生，後來和老師一起阻止其破壞計畫、使其被捕。",
+  "replacement": "SRT的RABBIT小隊。"
+ },
+ {
+  "name": "花耶",
+  "character": "環奈",
+  "original": "曾被自己以防衛室權勢施壓、要求配合凱薩的公安局長。",
+  "replacement": "女武神公安局局長。"
+ },
+ {
+  "name": "花耶",
+  "character": "凱薩私人軍事公司將軍",
+  "original": "以政治庇護、資源和武力互換的共謀者，曾背叛自己。",
+  "replacement": "以利益往來的合作者。"
+ },
+ {
+  "name": "花耶",
+  "character": "桃香與碧",
+  "original": "掌權後不肯照自己期待配合的行政同僚。",
+  "replacement": "不肯照自己期待配合的行政同僚。"
+ },
+ {
+  "name": "花耶",
+  "character": "灰音",
+  "original": "曾支持自己的官員，後來因錄音揭穿欺瞞而轉向。",
+  "replacement": "聯邦學生會的官員。"
+ },
+ {
+  "name": "花耶",
+  "character": "潔莉諾",
+  "original": "曾想借助其權力平息赤冬相關抗議，卻未得到期待配合的學園領袖。",
+  "replacement": "赤冬的學生會長。"
+ },
+ {
+  "name": "碧",
+  "character": "琳",
+  "original": "尊敬的前輩與行政同僚，政治上曾有重大分歧。",
+  "replacement": "尊敬的前輩與行政同僚。"
+ },
+ {
+  "name": "碧",
+  "character": "花耶",
+  "original": "曾奪得代理位置、期待財務室配合卻遭退件的官員。",
+  "replacement": "前防衛室長。"
+ },
+ {
+  "name": "碧",
+  "character": "聯邦學生會會長",
+  "original": "失蹤的最高負責者，其留下的權力空缺使制度問題更尖銳。",
+  "replacement": "失蹤的最高負責者。"
+ },
+ {
+  "name": "步夢",
+  "character": "桃香",
+  "original": "性格差異很大、卻共同經歷危機的同僚與伙伴。",
+  "replacement": "性格差異很大的同僚與伙伴。"
+ },
+ {
+  "name": "步夢",
+  "character": "碧",
+  "original": "程序上曾反對琳、讓自己擔心的財務同僚。",
+  "replacement": "程序上嚴格的財務同僚。"
+ },
+ {
+  "name": "步夢",
+  "character": "花耶",
+  "original": "以指控與奪權傷害琳、破壞工作秩序的人。",
+  "replacement": "前防衛室長。"
+ },
+ {
+  "name": "步夢",
+  "character": "都子與RABBIT小隊",
+  "original": "曾需要通報其與行政方衝突、後來又參與危機救援的學生。",
+  "replacement": "SRT的RABBIT小隊。"
+ },
+ {
+  "name": "桃香",
+  "character": "琳",
+  "original": "常催自己工作、也讓自己願意在危機中留下的前輩。",
+  "replacement": "常催自己工作的前輩。"
+ },
+ {
+  "name": "桃香",
+  "character": "花耶",
+  "original": "曾以代理頭銜要求服從、卻讓自己公開不配合的掌權者。",
+  "replacement": "前防衛室長。"
+ },
+ {
+  "name": "桃香",
+  "character": "都子與RABBIT小隊",
+  "original": "在危機救援與阻止花耶行動中合作的學生。",
+  "replacement": "SRT的RABBIT小隊。"
+ },
+ {
+  "name": "堇",
+  "character": "老師",
+  "original": "過度訓練倒下後願意管理練習的教練，也想共享普通日常的人。",
+  "replacement": "願意管理她練習的教練，也想共享普通日常的人。"
+ },
+ {
+  "name": "堇",
+  "character": "千尋",
+  "original": "曾在千年事件中尋求協助的學生。",
+  "replacement": "同校的真理部學生。"
+ },
+ {
+  "name": "實里",
+  "character": "潔莉諾",
+  "original": "經常被自己抗議的掌權者，也曾在失勢時與自己短暫合作。",
+  "replacement": "經常被自己抗議的掌權者。"
+ },
+ {
+  "name": "實里",
+  "character": "瑪麗娜",
+  "original": "曾在政變後成為新抗議對象的赤冬學生。",
+  "replacement": "赤冬的保安委員長。"
+ },
+ {
+  "name": "實里",
+  "character": "花耶",
+  "original": "曾藉人力資源室委託反琳示威、上臺後又被自己抗議的人。",
+  "replacement": "前防衛室長。"
+ },
+ {
+  "name": "實里",
+  "character": "和香與時雨",
+  "original": "曾替被流放的兩人寫信，也因溫泉工程承包問題鬧翻的同學。",
+  "replacement": "227號特別班的同學。"
+ },
+ {
+  "name": "實里",
+  "character": "愛瑠與紅葉",
+  "original": "曾被自己要求修改作品內容的知識解放戰線學生。",
+  "replacement": "知識解放戰線的學生。"
+ },
+ {
+  "name": "志美子",
+  "character": "日向",
+  "original": "古經受損事件中來尋求協助的學生。",
+  "replacement": "修女會的學生。"
+ },
+ {
+  "name": "志美子",
+  "character": "鈴美與澪紗",
+  "original": "在遊樂園任務中合作的自衛隊伙伴。",
+  "replacement": "合作過的自衛隊伙伴。"
+ },
+ {
+  "name": "志美子",
+  "character": "渚",
+  "original": "曾委任自己調查爭議出版物的茶會成員。",
+  "replacement": "茶會的領袖。"
+ },
+ {
+  "name": "志美子",
+  "character": "奧利斯小隊",
+  "original": "來查閱歷史、需要融入圖書館環境的訪客。",
+  "replacement": "來查閱歷史的訪客。"
+ },
+ {
+  "name": "良舞",
+  "character": "若藻",
+  "original": "雇傭合作失控後留下恐懼與怨氣的強大人物。",
+  "replacement": "令自己害怕的強大人物。"
+ },
+ {
+  "name": "良舞",
+  "character": "鈴美與澪紗",
+  "original": "曾衝突、後也能在遊樂園追查中合作的自衛隊學生。",
+  "replacement": "合作過的自衛隊學生。"
+ },
+ {
+  "name": "良舞",
+  "character": "志美子",
+  "original": "遊樂園舞臺任務中扮演反派、使自己偽裝失算的人。",
+  "replacement": "圖書委員會的學生。"
+ },
+ {
+  "name": "良舞",
+  "character": "女武神學生",
+  "original": "有時追查自己、在水上樂園危機也曾合作的執法人員。",
+  "replacement": "有時追查自己的執法人員。"
+ },
+ {
+  "name": "良舞",
+  "character": "凱薩前理事",
+  "original": "曾提供工作的雇主，之後轉任銀行基層職員。",
+  "replacement": "曾提供工作的雇主。"
+ },
+ {
+  "name": "昴",
+  "character": "邁亞",
+  "original": "自己深切珍惜、曾接納歸來卻又在危機中放逐的後輩。",
+  "replacement": "自己深切珍惜的後輩。"
+ },
+ {
+  "name": "昴",
+  "character": "沙織",
+  "original": "共同受過貝雅特里榭統治、彼此誤解與怨氣很深的同輩，後來的重建伙伴。",
+  "replacement": "同受過貝雅特里榭統治、彼此怨氣很深的同輩。"
+ },
+ {
+  "name": "昴",
+  "character": "敦子",
+  "original": "指出自己保護宣言與放逐邁亞矛盾、後來邀請合作重建的人。",
+  "replacement": "奧利斯的同伴。"
+ },
+ {
+  "name": "昴",
+  "character": "老師",
+  "original": "以行動提供支持、也曾被自己質問忽略留下者的大人。",
+  "replacement": "以行動提供支持的大人。"
+ },
+ {
+  "name": "昴",
+  "character": "美禰",
+  "original": "最初以匿名志工形式協助奧利斯，後來以行動贏得自己尊重的救護騎士團團長。",
+  "replacement": "以行動贏得自己尊重的救護騎士團團長。"
+ },
+ {
+  "name": "渚",
+  "character": "彌香",
+  "original": "相識多年的重要朋友與曾同在茶會承擔位置的人，背叛和危機沒有取消彼此的牽掛。",
+  "replacement": "相識多年的重要朋友與茶會同伴。"
+ },
+ {
+  "name": "渚",
+  "character": "聖亞",
+  "original": "敬重其思考能力、曾因失去她的恐懼而崩緊的茶會伙伴。",
+  "replacement": "敬重其思考能力的茶會伙伴。"
+ },
+ {
+  "name": "渚",
+  "character": "老師",
+  "original": "早期想借其特殊立場處理政治問題，後來面對批評、愧疚與真誠支持的重要大人。",
+  "replacement": "給予她真誠支持的重要大人。"
+ },
+ {
+  "name": "渚",
+  "character": "日步美",
+  "original": "欣賞其坦率平凡氣質、卻曾因疑心而傷害的學生。",
+  "replacement": "欣賞其坦率平凡氣質的學生。"
+ },
+ {
+  "name": "渚",
+  "character": "花子",
+  "original": "曾被自己列為嫌疑人，後與梓救自己脫險的補課部學生。",
+  "replacement": "補課部的學生。"
+ },
+ {
+  "name": "渚",
+  "character": "梓",
+  "original": "原被自己高度懷疑、曾受派接近自己，最終選擇保護自己的學生。",
+  "replacement": "補課部的學生。"
+ },
+ {
+  "name": "渚",
+  "character": "小春",
+  "original": "被自己濫用退學規劃牽連的補課部學生。",
+  "replacement": "補課部的學生。"
+ },
+ {
+  "name": "渚",
+  "character": "美禰",
+  "original": "危機後共同支撐三一治理、也救過聖亞的重要組織領袖。",
+  "replacement": "共同支撐三一治理的救護騎士團團長。"
+ },
+ {
+  "name": "渚",
+  "character": "櫻子",
+  "original": "危機後參與治理與協商的修女會領袖。",
+  "replacement": "參與治理與協商的修女會領袖。"
+ },
+ {
+  "name": "渚",
+  "character": "瑪麗",
+  "original": "曾在學園祭誤判升高時與老師趕來制止衝突的學生。",
+  "replacement": "修女會的學生。"
+ },
+ {
+  "name": "渚",
+  "character": "陽奈",
+  "original": "推進三一與格黑娜和平方向的重要合作對象。",
+  "replacement": "格黑娜風紀委員長，重要的合作對象。"
+ },
+ {
+  "name": "聖亞",
+  "character": "渚",
+  "original": "代自己承擔主持壓力的重要茶會伙伴，既感謝又不滿她過度保護。",
+  "replacement": "重要的茶會伙伴，既感謝又不滿她過度保護。"
+ },
+ {
+  "name": "聖亞",
+  "character": "彌香",
+  "original": "深厚但曾被恐慌責難與誤會傷害的茶會伙伴。",
+  "replacement": "感情深厚的茶會伙伴。"
+ },
+ {
+  "name": "聖亞",
+  "character": "老師",
+  "original": "使她看見未來尚可改變、願意理解曲折話語的重要大人。",
+  "replacement": "願意理解她曲折話語的重要大人。"
+ },
+ {
+  "name": "聖亞",
+  "character": "寧瑠",
+  "original": "千年博覽會中意外合拍、把自己當成可靠同伴的伙伴。",
+  "replacement": "意外合拍的千年學生。"
+ },
+ {
+  "name": "聖亞",
+  "character": "莉央",
+  "original": "在合作中看見相似固執與自我負擔的人。",
+  "replacement": "能看見彼此相似固執的人。"
+ },
+ {
+  "name": "聖亞",
+  "character": "花子",
+  "original": "能理解彼此深層話意的學生，曾考慮由她接任茶會位置但未成。",
+  "replacement": "能理解彼此深層話意的學生。"
+ },
+ {
+  "name": "聖亞",
+  "character": "美禰",
+  "original": "遇刺危機中照護、協助藏身與療養的救援者。",
+  "replacement": "照護過她的救護騎士團團長。"
+ },
+ {
+  "name": "聖亞",
+  "character": "葛葉",
+  "original": "在夢與現實邊界援助自己脫離色彩侵蝕的人。",
+  "replacement": "幫助過她的傳說人物。"
+ },
+ {
+  "name": "聖亞",
+  "character": "季",
+  "original": "曾直覺察覺其陷入危險、透過研討會請求支援的學生。",
+  "replacement": "C&C的學生。"
+ },
+ {
+  "name": "聖亞",
+  "character": "柚子",
+  "original": "博覽會中接觸遊戲成果並給予鼓勵的學生。",
+  "replacement": "給予過鼓勵的遊戲開發部學生。"
+ },
+ {
+  "name": "彌香",
+  "character": "渚",
+  "original": "相識十多年的童年好友，曾被自己背叛卻仍努力讓自己留下來。",
+  "replacement": "相識十多年的童年好友。"
+ },
+ {
+  "name": "彌香",
+  "character": "聖亞",
+  "original": "曾因自己草率安排而遭受威脅、後來艱難修復關係的茶會朋友。",
+  "replacement": "艱難修復關係的茶會朋友。"
+ },
+ {
+  "name": "彌香",
+  "character": "老師",
+  "original": "在自己墜落、報復與自棄時仍伸手相救的重要大人。",
+  "replacement": "在她最低谷時仍伸手相救的重要大人。"
+ },
+ {
+  "name": "彌香",
+  "character": "小春",
+  "original": "在眾人敵意中替自己擋住暴力、救回私人物品的珍貴學生。",
+  "replacement": "保護過自己的珍貴學生。"
+ },
+ {
+  "name": "彌香",
+  "character": "沙織",
+  "original": "過去的共謀者、報復對象，也是在痛苦中映照自己的人。",
+  "replacement": "奧利斯的學生，與自己有很深的恩怨。"
+ },
+ {
+  "name": "彌香",
+  "character": "梓",
+  "original": "自己促成轉入三一、想作為和解象徵的奧利斯學生。",
+  "replacement": "奧利斯出身的三一學生。"
+ },
+ {
+  "name": "彌香",
+  "character": "美咲",
+  "original": "報復沙織時曾遭自己傷害的小隊成員。",
+  "replacement": ""
+ },
+ {
+  "name": "彌香",
+  "character": "蓮實",
+  "original": "仍以禮數待自己的同年級學生，保護小春後也有更直接的感謝。",
+  "replacement": "仍以禮數待自己的同年級學生。"
+ },
+ {
+  "name": "彌香",
+  "character": "一花",
+  "original": "從緊張護衛到看見自己親手做事、願意協助的後輩。",
+  "replacement": "願意協助自己的後輩。"
+ },
+ {
+  "name": "彌香",
+  "character": "貝雅特里榭",
+  "original": "把奧利斯與仇恨用作操弄、使悲劇擴大的幕後人物。",
+  "replacement": "奧利斯分校的支配者。"
+ },
+ {
+  "name": "輝夜",
+  "character": "誡",
+  "original": "利用自己對程序與傳統焦慮的煽動者。",
+  "replacement": "需要警惕的煽動者。"
+ },
+ {
+  "name": "輝夜",
+  "character": "老師",
+  "original": "原本排斥的外來者，後逐漸承認其在危機中的幫助。",
+  "replacement": "逐漸承認的外來者。"
+ },
+ {
+  "name": "輝夜",
+  "character": "潔莉諾",
+  "original": "曾來訪的赤冬代表，雖不喜交流仍為其解說藝術。",
+  "replacement": "赤冬的代表。"
+ },
+ {
+  "name": "誡",
+  "character": "妃姬",
+  "original": "將自己退學、封存紀錄的門主，也是能與自己較量的重要對手。",
+  "replacement": "將自己退學的門主，也是能與自己較量的重要對手。"
+ },
+ {
+  "name": "誡",
+  "character": "輝夜",
+  "original": "被自己利用傳統焦慮與忠義的京劇部長。",
+  "replacement": "京劇部長。"
+ },
+ {
+  "name": "誡",
+  "character": "煉丹部內應",
+  "original": "為自己保留秘密研究室、協助回歸的忠誠追隨者。",
+  "replacement": "煉丹部內忠誠的追隨者。"
+ },
+ {
+  "name": "誡",
+  "character": "美奈",
+  "original": "在山海經危機中與自己對抗、保護門主的人。",
+  "replacement": "保護門主的玄龍門執行部長。"
+ },
+ {
+  "name": "誡",
+  "character": "令女",
+  "original": "曾與美奈一起對抗自己的人。",
+  "replacement": "玄武商會的護衛。"
+ },
+ {
+  "name": "誡",
+  "character": "梅花園的孩子",
+  "original": "曾被自己拿來利用的不知情學生。",
+  "replacement": ""
+ },
+ {
+  "name": "晶",
+  "character": "美代",
+  "original": "從特展交鋒到暫時合作、用賭局動搖自己信念的特殊交易部部長。",
+  "replacement": "特殊交易部部長。"
+ },
+ {
+  "name": "晶",
+  "character": "柚子",
+  "original": "曾解開預告線索、使自己另眼相看的遊戲開發部學生。",
+  "replacement": "使自己另眼相看的遊戲開發部學生。"
+ },
+ {
+  "name": "晶",
+  "character": "綠",
+  "original": "交手中曾由自己救下的遊戲開發部學生。",
+  "replacement": "遊戲開發部的學生。"
+ },
+ {
+  "name": "晶",
+  "character": "桃井",
+  "original": "曾和伙伴一起破解局面的遊戲開發部學生。",
+  "replacement": "遊戲開發部的學生。"
+ },
+ {
+  "name": "晶",
+  "character": "愛麗絲",
+  "original": "曾與自己交手、造成強烈打擊的遊戲開發部學生。",
+  "replacement": "遊戲開發部的學生。"
+ },
+ {
+  "name": "晶",
+  "character": "季",
+  "original": "曾與遊戲開發部合作擊敗自己的千年C&C對手。",
+  "replacement": "千年C&C的對手。"
+ },
+ {
+  "name": "晶",
+  "character": "藝術評議會會長",
+  "original": "私人收藏館曾使自己失手、仍令自己感興趣的學園權力者。",
+  "replacement": "令自己感興趣的學園權力者。"
+ },
+ {
+  "name": "葛葉",
+  "character": "名草",
+  "original": "曾在雪原救起、兩度相遇並託付信件的百花後輩。",
+  "replacement": "百花繚亂的後輩。"
+ },
+ {
+  "name": "葛葉",
+  "character": "菖蒲",
+  "original": "曾苦尋卻未能抵達自己面前的後任委員長。",
+  "replacement": "後任委員長。"
+ },
+ {
+  "name": "葛葉",
+  "character": "老師",
+  "original": "收到自己邀請、仍願在限制中尋求救援可能的重要來訪者。",
+  "replacement": "重要的來訪者。"
+ },
+ {
+  "name": "葛葉",
+  "character": "聖亞",
+  "original": "在侵蝕尚未完成時，以預知能力交換生還的求助者。",
+  "replacement": "求助過她的學生。"
+ },
+ {
+  "name": "葛葉",
+  "character": "雛罌粟",
+  "original": "較早期曾尋求自己、後走向仇恨的百花前任。",
+  "replacement": "百花繚亂的前任委員長。"
+ },
+ {
+  "name": "葛葉",
+  "character": "棕櫚",
+  "original": "在寺院企圖插話、索取怪書而受到自己制止的孩子。",
+  "replacement": "花鳥風月部的孩子。"
+ },
+ {
+  "name": "葛葉",
+  "character": "紫",
+  "original": "一同來訪、對自己外貌與傳說感到驚訝的百花後輩。",
+  "replacement": "百花繚亂的後輩。"
+ },
+ {
+  "name": "葛葉",
+  "character": "桔梗",
+  "original": "隨老師與百花同行的來訪者。",
+  "replacement": "百花繚亂的成員。"
+ },
+ {
+  "name": "葛葉",
+  "character": "蓮華",
+  "original": "一同抵達寺院的百花後輩。",
+  "replacement": "百花繚亂的後輩。"
+ },
+ {
+  "name": "瑪爾庫特",
+  "character": "索芙",
+  "original": "負責武器與策略、實務上帶領三位技師的妹妹，試圖隱瞞自己的容器命運。",
+  "replacement": "負責武器與策略、實務上帶領三位技師的妹妹。"
+ },
+ {
+  "name": "瑪爾庫特",
+  "character": "老師",
+  "original": "曾為學生安危放下姿態、承認機械姊妹情感的人，也是解放契機的重要參與者。",
+  "replacement": "承認機械姊妹情感的人。"
+ },
+ {
+  "name": "瑪爾庫特",
+  "character": "愛麗絲",
+  "original": "曾與自己交戰，後來向姊妹伸出友誼的人。",
+  "replacement": "向姊妹伸出友誼的人。"
+ },
+ {
+  "name": "瑪爾庫特",
+  "character": "Kei",
+  "original": "曾與愛麗絲合力擊退自己，也強烈呼籲為自己的幸福而反抗的人。",
+  "replacement": "呼籲她為自己的幸福而反抗的人。"
+ },
+ {
+  "name": "艾茵",
+  "character": "老師",
+  "original": "最初視為威脅姐姐的敵方帶領者，如今因其善意和肯定而動搖。",
+  "replacement": "因其善意和肯定而動搖的人。"
+ },
+ {
+  "name": "艾茵",
+  "character": "愛麗絲",
+  "original": "曾擊毀自己珍愛的裝置，也在絕望時提出友誼的人。",
+  "replacement": "向她提出友誼的人。"
+ },
+ {
+  "name": "奧爾",
+  "character": "老師",
+  "original": "曾視為低等而需排除的變數，如今其善意令自己困惑。",
+  "replacement": "其善意令自己困惑的人。"
+ },
+ {
+  "name": "奧爾",
+  "character": "愛麗絲",
+  "original": "不理解她為何放下特殊身分成為普通學生，後來受到交友邀請觸動。",
+  "replacement": "不理解她為何選擇成為普通學生的人。"
+ },
+ {
+  "name": "奧爾",
+  "character": "莉央",
+  "original": "曾在概念空間與自己交手並使自己受挫的對手。",
+  "replacement": "研討會會長，曾交手的對手。"
+ },
+ {
+  "name": "奧爾",
+  "character": "陽葵",
+  "original": "與莉央合作破壞自己作戰優勢的人。",
+  "replacement": "曾交手的對手。"
+ },
+ {
+  "name": "索芙",
+  "character": "老師",
+  "original": "從阻撓計畫的敵人，變成承認自己努力與情感的人。",
+  "replacement": "承認自己努力與情感的人。"
+ },
+ {
+  "name": "索芙",
+  "character": "愛麗絲",
+  "original": "曾交戰卻堅持想理解與交朋友的人。",
+  "replacement": "堅持想理解自己、交朋友的人。"
+ },
+ {
+  "name": "美鈴",
+  "character": "若藻",
+  "original": "七囚人之一，其逃脫使自己對失控與失職的恐懼格外鮮明。",
+  "replacement": "七囚人之一，矯正局的頭痛對象。"
+ },
+ {
+  "name": "周防",
+  "character": "野乃美",
+  "original": "原本預定保護的人，卻因就學計畫改變而從未建立那段關係。",
+  "replacement": "原本預定保護、卻從未建立關係的人。"
+ },
+ {
+  "name": "周防",
+  "character": "地下生活者",
+  "original": "自己敗北後行動受到其干擾的外來存在。",
+  "replacement": ""
+ },
+ {
+  "name": "邁亞",
+  "character": "昴",
+  "original": "最信任的學姊，迎接自己返鄉，也曾因意見分歧把自己放逐。",
+  "replacement": "最信任的學姊。"
+ },
+ {
+  "name": "邁亞",
+  "character": "老師",
+  "original": "願意教導、承認自己並在被逐雨夜提供照顧的大人。",
+  "replacement": "願意教導、承認自己的大人。"
+ },
+ {
+  "name": "邁亞",
+  "character": "敦子",
+  "original": "共同面對危機的同伴，後以臨時學生會職務協助重建。",
+  "replacement": "共同面對困境的同伴。"
+ },
+ {
+  "name": "邁亞",
+  "character": "沙織",
+  "original": "回來承擔後果、參與救援的小隊前輩。",
+  "replacement": "小隊前輩。"
+ },
+ {
+  "name": "蘿婭",
+  "character": "琳",
+  "original": "自己視為多年舊友與重要同事，對方卻保持原會長的記憶而不承認她。",
+  "replacement": "自己視為多年舊友的重要同事，對方卻不承認她。"
+ },
+ {
+  "name": "蘿婭",
+  "character": "老師",
+  "original": "最初不記得任命、後依夏萊成果而接受合作的對象。",
+  "replacement": "接受合作的對象。"
+ },
+ {
+  "name": "蘿婭",
+  "character": "雪乃",
+  "original": "交付都市傳說調查、希望她重新獲得教育機會的學生。",
+  "replacement": "SRT的學生。"
+ },
+ {
+  "name": "蘿婭",
+  "character": "花耶",
+  "original": "接受審前訪談、明確拒絕她身分的前幹部。",
+  "replacement": "前防衛室長。"
+ },
+ {
+  "name": "未來",
+  "character": "笑面教授",
+  "original": "雇用她參與博覽會破壞，後在押送中救走她的人。",
+  "replacement": "雇用她的人。"
+ },
+ {
+  "name": "未來",
+  "character": "寧瑠",
+  "original": "事先防備而使奪取系統計畫失敗的對手。",
+  "replacement": "C&C的對手。"
+ },
+ {
+  "name": "未來",
+  "character": "桃井",
+  "original": "她報復研討會時破壞了對方用心製作的遊戲。",
+  "replacement": ""
+ },
+ {
+  "name": "灰音",
+  "character": "花耶",
+  "original": "曾支持、後因錄音揭穿欺瞞而拒絕的前盟友。",
+  "replacement": "聯邦學生會的前防衛室長。"
+ },
+ {
+  "name": "麻衣",
+  "character": "老師",
+  "original": "曾受訪且被她選取聳動報導角度的對象。",
+  "replacement": "曾受訪的對象。"
+ },
+ {
+  "name": "笑面教授",
+  "character": "明美",
+  "original": "曾從監禁中救出的合作首領。",
+  "replacement": "合作的首領。"
+ },
+ {
+  "name": "笑面教授",
+  "character": "未來",
+  "original": "雇用其參與博覽會破壞，失敗被押送後又依約救走的合作者。",
+  "replacement": "雇用過的合作者。"
+ },
+ {
+  "name": "笑面教授",
+  "character": "頭盔團",
+  "original": "曾有合作並救出部分人員的不良團體。",
+  "replacement": "合作過的不良團體。"
+ },
+ {
+  "name": "明美",
+  "character": "笑面教授",
+  "original": "曾協助她脫離矯正局、現在合作並聽其指揮的人。",
+  "replacement": "現在合作並聽其指揮的人。"
+ },
+ {
+  "name": "明美",
+  "character": "頭盔團",
+  "original": "因告密導致她被捕而結怨的另一不良團體。",
+  "replacement": "結怨的另一不良團體。"
+ },
+ {
+  "name": "凱薩私人軍事公司將軍",
+  "character": "花耶",
+  "original": "以政治庇護換取軍力與資源的共謀者，也有遭背叛與重新結盟的歷史。",
+  "replacement": "以利益往來的合作者。"
+ },
+ {
+  "name": "白芭蕾",
+  "character": "貝雅特里榭",
+  "original": "在此時期將其當作王牌兵器使用者。",
+  "replacement": "使用她作為兵器的人。"
+ },
+ {
+  "name": "笛卡爾",
+  "character": "詩音",
+  "original": "曾邀他評論，後因他亂講而中止訪談的記者。",
+  "replacement": "克洛諾斯新聞部的記者。"
+ },
+ {
+  "name": "貝雅特里榭",
+  "character": "敦子",
+  "original": "控制中的皇家血脈後裔與預定祭品。",
+  "replacement": "具有皇家血脈的奧利斯學生。"
+ },
+ {
+  "name": "貝雅特里榭",
+  "character": "沙織",
+  "original": "透過保住敦子的承諾支配的小隊領導者。",
+  "replacement": "奧利斯小隊的領導者。"
+ },
+ {
+  "name": "貝雅特里榭",
+  "character": "奧利斯小隊",
+  "original": "曾被當作可用戰力，失敗後遭棄置與追索的學生。",
+  "replacement": "奧利斯小隊，曾被她當作戰力。"
+ },
+ {
+  "name": "貝雅特里榭",
+  "character": "彌香",
+  "original": "和解接觸被她利用的三一學生，沒有據此成立親密或正常直接交往。",
+  "replacement": ""
+ },
+ {
+  "name": "貝雅特里榭",
+  "character": "聖亞",
+  "original": "計畫中需要排除的預言者，亦曾遭她在夢境中攻擊。",
+  "replacement": "三一的聖靈派領袖。"
+ },
+ {
+  "name": "貝雅特里榭",
+  "character": "老師",
+  "original": "與她剝削學生的立場衝突，並向沙織與小隊伸出援手的成年人。",
+  "replacement": "與她剝削學生的立場衝突的成年人。"
+ },
+ {
+  "name": "黑服",
+  "character": "星野",
+  "original": "接受她給的稱呼，卻企圖取得她作研究對象的成年人。",
+  "replacement": "給他稱呼、也是他研究對象的學生。"
+ },
+ {
+  "name": "瑪艾斯托洛",
+  "character": "敦子",
+  "original": "血脈被他用於複製聖徒會與研究的學生。",
+  "replacement": ""
+ },
+ {
+  "name": "瑪艾斯托洛",
+  "character": "優斯緹娜聖徒會",
+  "original": "他藉血脈與複製完成的戰力所對應的歷史組織。",
+  "replacement": "他研究與複製的歷史組織。"
+ },
+ {
+  "name": "地下生活者",
+  "character": "星野",
+  "original": "企圖藉痛苦與罪咎使其反轉的學生。",
+  "replacement": "企圖利用的學生。"
+ },
+ {
+  "name": "地下生活者",
+  "character": "夢",
+  "original": "其留下的筆記與星野對她的記憶被拿來利用。",
+  "replacement": ""
+ },
+ {
+  "name": "地下生活者",
+  "character": "周防",
+  "original": "在阿拜多斯危機中受到其干擾或情境推動的人。",
+  "replacement": ""
+ },
+ {
+  "name": "地下生活者",
+  "character": "老師",
+  "original": "阻礙其布局、用他視為作弊的力量援助學生的對手。",
+  "replacement": "阻礙其布局的對手。"
+ },
+ {
+  "name": "地下生活者",
+  "character": "星奈",
+  "original": "在他襲擊老師時提供保護、使悲劇沒有重演的管理者。",
+  "replacement": "保護老師的系統管理者。"
+ },
+ {
+  "name": "普雷納帕特斯",
+  "character": "白子＊TERROR",
+  "original": "原世界留下的學生、彼此失去中最後的重要聯繫。",
+  "replacement": "原世界留下的學生，最後的重要聯繫。"
+ },
+ {
+  "name": "普雷納帕特斯",
+  "character": "老師",
+  "original": "另一世界中可接住學生託付的對照者，同時是目前對峙的對手。",
+  "replacement": "另一世界中可接住學生託付的對照者。"
+ },
+ {
+  "name": "普雷納帕特斯",
+  "character": "星奈",
+  "original": "來自原世界、曾協助他行動並隨他來到方舟的希迪姆的箱子管理者；星奈是她後來得到的名字。",
+  "replacement": "來自原世界、曾協助他行動的希迪姆的箱子管理者。"
+ },
+ {
+  "name": "安普羅西斯",
+  "character": "貝雅特里榭",
+  "original": "後來在自治區使用其兵力的人。",
+  "replacement": "使用其兵力的人。"
+ }
+]

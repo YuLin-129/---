@@ -1,0 +1,3851 @@
+{
+ "roster": [
+  {
+   "name": "陽奈",
+   "group": "格黑娜學園",
+   "year": "三年級",
+   "org": "風紀委員會",
+   "position": "委員長",
+   "note": ""
+  },
+  {
+   "name": "優香",
+   "group": "千年科學學園",
+   "year": "二年級",
+   "org": "研討會",
+   "position": "會計",
+   "note": ""
+  },
+  {
+   "name": "白子＊TERROR",
+   "group": "其他世界",
+   "year": "",
+   "org": "（原世界）阿拜多斯對策委員會",
+   "position": "",
+   "note": "來自另一個世界的白子"
+  },
+  {
+   "name": "小空",
+   "group": "其他人物",
+   "year": "",
+   "org": "天使24夏萊分店",
+   "position": "店員",
+   "note": ""
+  },
+  {
+   "name": "星野",
+   "group": "阿拜多斯高中",
+   "year": "三年級",
+   "org": "對策委員會",
+   "position": "委員長",
+   "note": ""
+  },
+  {
+   "name": "野乃美",
+   "group": "阿拜多斯高中",
+   "year": "二年級",
+   "org": "對策委員會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "白子",
+   "group": "阿拜多斯高中",
+   "year": "二年級",
+   "org": "對策委員會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "茜香",
+   "group": "阿拜多斯高中",
+   "year": "一年級",
+   "org": "對策委員會",
+   "position": "會計",
+   "note": ""
+  },
+  {
+   "name": "綾音",
+   "group": "阿拜多斯高中",
+   "year": "一年級",
+   "org": "對策委員會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "夢",
+   "group": "阿拜多斯高中",
+   "year": "",
+   "org": "阿拜多斯學生會",
+   "position": "會長",
+   "note": ""
+  },
+  {
+   "name": "亞子",
+   "group": "格黑娜學園",
+   "year": "三年級",
+   "org": "風紀委員會",
+   "position": "行政官",
+   "note": ""
+  },
+  {
+   "name": "伊織",
+   "group": "格黑娜學園",
+   "year": "二年級",
+   "org": "風紀委員會",
+   "position": "突擊隊長",
+   "note": ""
+  },
+  {
+   "name": "千夏",
+   "group": "格黑娜學園",
+   "year": "一年級",
+   "org": "風紀委員會",
+   "position": "醫療負責人",
+   "note": ""
+  },
+  {
+   "name": "真琴",
+   "group": "格黑娜學園",
+   "year": "三年級",
+   "org": "萬魔殿",
+   "position": "議長",
+   "note": ""
+  },
+  {
+   "name": "伊吹",
+   "group": "格黑娜學園",
+   "year": "一年級",
+   "org": "萬魔殿",
+   "position": "成員",
+   "note": "跳級生"
+  },
+  {
+   "name": "皐月",
+   "group": "格黑娜學園",
+   "year": "三年級",
+   "org": "萬魔殿",
+   "position": "議員、情報部長",
+   "note": ""
+  },
+  {
+   "name": "伊呂波",
+   "group": "格黑娜學園",
+   "year": "二年級",
+   "org": "萬魔殿",
+   "position": "成員、虎丸戰車長",
+   "note": ""
+  },
+  {
+   "name": "千秋",
+   "group": "格黑娜學園",
+   "year": "二年級",
+   "org": "萬魔殿",
+   "position": "書記、《週刊萬魔殿》的編輯與發行人",
+   "note": ""
+  },
+  {
+   "name": "無月",
+   "group": "格黑娜學園",
+   "year": "二年級",
+   "org": "便利屋68",
+   "position": "室長、行動成員",
+   "note": ""
+  },
+  {
+   "name": "遙香",
+   "group": "格黑娜學園",
+   "year": "一年級",
+   "org": "便利屋68",
+   "position": "社員",
+   "note": ""
+  },
+  {
+   "name": "佳世子",
+   "group": "格黑娜學園",
+   "year": "三年級",
+   "org": "便利屋68",
+   "position": "課長",
+   "note": ""
+  },
+  {
+   "name": "亞瑠",
+   "group": "格黑娜學園",
+   "year": "二年級",
+   "org": "便利屋68",
+   "position": "社長",
+   "note": ""
+  },
+  {
+   "name": "亞伽里",
+   "group": "格黑娜學園",
+   "year": "三年級",
+   "org": "美食研究會",
+   "position": "社員",
+   "note": ""
+  },
+  {
+   "name": "羽留奈",
+   "group": "格黑娜學園",
+   "year": "三年級",
+   "org": "美食研究會",
+   "position": "會長",
+   "note": ""
+  },
+  {
+   "name": "泉",
+   "group": "格黑娜學園",
+   "year": "二年級",
+   "org": "美食研究會",
+   "position": "社員",
+   "note": ""
+  },
+  {
+   "name": "淳子",
+   "group": "格黑娜學園",
+   "year": "一年級",
+   "org": "美食研究會",
+   "position": "社員",
+   "note": ""
+  },
+  {
+   "name": "茱莉",
+   "group": "格黑娜學園",
+   "year": "一年級",
+   "org": "供給部",
+   "position": "社員",
+   "note": ""
+  },
+  {
+   "name": "風華",
+   "group": "格黑娜學園",
+   "year": "二年級",
+   "org": "供給部",
+   "position": "部長",
+   "note": ""
+  },
+  {
+   "name": "佳澄",
+   "group": "格黑娜學園",
+   "year": "二年級",
+   "org": "溫泉開發部",
+   "position": "部長",
+   "note": ""
+  },
+  {
+   "name": "惠",
+   "group": "格黑娜學園",
+   "year": "三年級",
+   "org": "溫泉開發部",
+   "position": "現場負責人",
+   "note": ""
+  },
+  {
+   "name": "瀬奈",
+   "group": "格黑娜學園",
+   "year": "三年級",
+   "org": "急救醫學部",
+   "position": "部長",
+   "note": ""
+  },
+  {
+   "name": "繪里香",
+   "group": "格黑娜學園",
+   "year": "二年級",
+   "org": "閃亮亮部",
+   "position": "創社成員",
+   "note": ""
+  },
+  {
+   "name": "綺羅羅",
+   "group": "格黑娜學園",
+   "year": "二年級",
+   "org": "閃亮亮部",
+   "position": "部長",
+   "note": ""
+  },
+  {
+   "name": "乃愛",
+   "group": "千年科學學園",
+   "year": "二年級",
+   "org": "研討會",
+   "position": "書記",
+   "note": ""
+  },
+  {
+   "name": "莉央",
+   "group": "千年科學學園",
+   "year": "三年級",
+   "org": "研討會",
+   "position": "前會長",
+   "note": ""
+  },
+  {
+   "name": "小雪",
+   "group": "千年科學學園",
+   "year": "一年級",
+   "org": "研討會",
+   "position": "成員",
+   "note": ""
+  },
+  {
+   "name": "彩奈",
+   "group": "夏萊",
+   "year": "",
+   "org": "希迪姆的箱子",
+   "position": "",
+   "note": "系統中的存在"
+  },
+  {
+   "name": "星奈",
+   "group": "夏萊",
+   "year": "",
+   "org": "希迪姆的箱子",
+   "position": "",
+   "note": "系統中的存在"
+  },
+  {
+   "name": "木乃香",
+   "group": "女武神警察學園",
+   "year": "",
+   "org": "公安局",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "愛麗絲",
+   "group": "千年科學學園",
+   "year": "一年級",
+   "org": "遊戲開發部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "沙織",
+   "group": "奧利斯分校",
+   "year": "二年級",
+   "org": "奧利斯小隊",
+   "position": "前隊長",
+   "note": "目前離開小隊生活"
+  },
+  {
+   "name": "桐乃",
+   "group": "女武神警察學園",
+   "year": "一年級",
+   "org": "生活安全局",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "美優",
+   "group": "SRT特殊學園",
+   "year": "一年級",
+   "org": "RABBIT小隊",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "小春",
+   "group": "三一綜合學園",
+   "year": "一年級",
+   "org": "補課部",
+   "position": "",
+   "note": "原屬實現正義部"
+  },
+  {
+   "name": "心菜",
+   "group": "山海經高級中學",
+   "year": "一年級",
+   "org": "梅花園",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "日向",
+   "group": "三一綜合學園",
+   "year": "三年級",
+   "org": "修女會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "敦子",
+   "group": "奧利斯分校",
+   "year": "一年級",
+   "org": "奧利斯小隊",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "翼",
+   "group": "千年科學學園",
+   "year": "",
+   "org": "原偽科學部",
+   "position": "",
+   "note": "以個人研究與實況活動延續興趣"
+  },
+  {
+   "name": "響",
+   "group": "千年科學學園",
+   "year": "一年級",
+   "org": "工程師部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "柚子",
+   "group": "千年科學學園",
+   "year": "一年級",
+   "org": "遊戲開發部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "知世",
+   "group": "百鬼夜行聯合學園",
+   "year": "二年級",
+   "org": "陰陽部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "吹雪",
+   "group": "女武神警察學園",
+   "year": "一年級",
+   "org": "生活安全局",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "妃姬",
+   "group": "山海經高級中學",
+   "year": "三年級",
+   "org": "玄龍門",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "芹奈",
+   "group": "三一綜合學園",
+   "year": "二年級",
+   "org": "救護騎士團",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "憂",
+   "group": "三一綜合學園",
+   "year": "三年級",
+   "org": "圖書委員會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "若藻",
+   "group": "百鬼夜行聯合學園",
+   "year": "",
+   "org": "",
+   "position": "",
+   "note": "停學中；七囚人之一"
+  },
+  {
+   "name": "環奈",
+   "group": "女武神警察學園",
+   "year": "三年級",
+   "org": "公安局",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "紫",
+   "group": "百鬼夜行聯合學園",
+   "year": "一年級",
+   "org": "百花繚亂紛爭調停委員會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "陽葵",
+   "group": "千年科學學園",
+   "year": "三年級",
+   "org": "特異現象搜查部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "夏",
+   "group": "三一綜合學園",
+   "year": "一年級",
+   "org": "放學後的甜點部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "愛莉",
+   "group": "三一綜合學園",
+   "year": "一年級",
+   "org": "放學後的甜點部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "喜美",
+   "group": "三一綜合學園",
+   "year": "一年級",
+   "org": "放學後的甜點部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "光",
+   "group": "高地人鐵道學園",
+   "year": "一年級",
+   "org": "中央管制中心",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "希望",
+   "group": "高地人鐵道學園",
+   "year": "一年級",
+   "org": "中央管制中心",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "青葉",
+   "group": "高地人鐵道學園",
+   "year": "二年級",
+   "org": "貨物輸送管理部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "詠葉",
+   "group": "千年科學學園",
+   "year": "三年級",
+   "org": "工程師部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "菖蒲",
+   "group": "百鬼夜行聯合學園",
+   "year": "",
+   "org": "百花繚亂紛爭調停委員會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "季",
+   "group": "千年科學學園",
+   "year": "一年級",
+   "org": "C&C",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "梓",
+   "group": "三一綜合學園",
+   "year": "二年級",
+   "org": "補課部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "花子",
+   "group": "三一綜合學園",
+   "year": "二年級",
+   "org": "補課部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "日步美",
+   "group": "三一綜合學園",
+   "year": "二年級",
+   "org": "補課部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "律",
+   "group": "狂獵藝術學院",
+   "year": "一年級",
+   "org": "特殊交易部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "冬",
+   "group": "狂獵藝術學院",
+   "year": "二年級",
+   "org": "特殊交易部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "美代",
+   "group": "狂獵藝術學院",
+   "year": "二年級",
+   "org": "特殊交易部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "鹿江",
+   "group": "狂獵藝術學院",
+   "year": "三年級",
+   "org": "神秘學研究會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "繪梨",
+   "group": "狂獵藝術學院",
+   "year": "二年級",
+   "org": "神秘學研究會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "玲奈",
+   "group": "狂獵藝術學院",
+   "year": "一年級",
+   "org": "神秘學研究會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "紡希",
+   "group": "狂獵藝術學院",
+   "year": "二年級",
+   "org": "神秘學研究會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "雛罌粟",
+   "group": "百鬼夜行相關勢力",
+   "year": "",
+   "org": "花鳥風月部",
+   "position": "部長",
+   "note": ""
+  },
+  {
+   "name": "綠",
+   "group": "千年科學學園",
+   "year": "一年級",
+   "org": "遊戲開發部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "桃井",
+   "group": "千年科學學園",
+   "year": "一年級",
+   "org": "遊戲開發部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "英美",
+   "group": "千年科學學園",
+   "year": "一年級",
+   "org": "特異現象搜查部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "朱音",
+   "group": "千年科學學園",
+   "year": "二年級",
+   "org": "C&C",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "寧瑠",
+   "group": "千年科學學園",
+   "year": "三年級",
+   "org": "C&C",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "明日奈",
+   "group": "千年科學學園",
+   "year": "三年級",
+   "org": "C&C",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "花凛",
+   "group": "千年科學學園",
+   "year": "二年級",
+   "org": "C&C",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "紅葉",
+   "group": "赤冬聯邦學園",
+   "year": "一年級",
+   "org": "知識解放戰線",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "愛瑠",
+   "group": "赤冬聯邦學園",
+   "year": "二年級",
+   "org": "知識解放戰線",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "貴音",
+   "group": "赤冬聯邦學園",
+   "year": "二年級",
+   "org": "出版部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "八雲",
+   "group": "赤冬聯邦學園",
+   "year": "三年級",
+   "org": "出版部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "桔梗",
+   "group": "百鬼夜行聯合學園",
+   "year": "二年級",
+   "org": "百花繚亂紛爭調停委員會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "名草",
+   "group": "百鬼夜行聯合學園",
+   "year": "三年級",
+   "org": "百花繚亂紛爭調停委員會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "楓",
+   "group": "百鬼夜行聯合學園",
+   "year": "一年級",
+   "org": "修行部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "三森",
+   "group": "百鬼夜行聯合學園",
+   "year": "二年級",
+   "org": "修行部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "椿",
+   "group": "百鬼夜行聯合學園",
+   "year": "二年級",
+   "org": "修行部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "海花",
+   "group": "百鬼夜行聯合學園",
+   "year": "一年級",
+   "org": "節慶營運管理部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "靜子",
+   "group": "百鬼夜行聯合學園",
+   "year": "二年級",
+   "org": "節慶營運管理部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "菲娜",
+   "group": "百鬼夜行聯合學園",
+   "year": "一年級",
+   "org": "節慶營運管理部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "伊樹菜",
+   "group": "百鬼夜行聯合學園",
+   "year": "一年級",
+   "org": "忍術研究部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "月夜",
+   "group": "百鬼夜行聯合學園",
+   "year": "一年級",
+   "org": "忍術研究部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "三千留",
+   "group": "百鬼夜行聯合學園",
+   "year": "三年級",
+   "org": "忍術研究部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "妮婭",
+   "group": "百鬼夜行聯合學園",
+   "year": "三年級",
+   "org": "陰陽部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "佳穗",
+   "group": "百鬼夜行聯合學園",
+   "year": "三年級",
+   "org": "陰陽部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "萌",
+   "group": "SRT特殊學園",
+   "year": "一年級",
+   "org": "RABBIT小隊",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "咲希",
+   "group": "SRT特殊學園",
+   "year": "一年級",
+   "org": "RABBIT小隊",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "都子",
+   "group": "SRT特殊學園",
+   "year": "一年級",
+   "org": "RABBIT小隊",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "亞都梨",
+   "group": "千年科學學園",
+   "year": "一年級",
+   "org": "工程師部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "鈴美",
+   "group": "三一綜合學園",
+   "year": "二年級",
+   "org": "三一自衛隊",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "花繪",
+   "group": "三一綜合學園",
+   "year": "一年級",
+   "org": "救護騎士團",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "美禰",
+   "group": "三一綜合學園",
+   "year": "三年級",
+   "org": "救護騎士團",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "瑪麗",
+   "group": "三一綜合學園",
+   "year": "一年級",
+   "org": "修女會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "櫻子",
+   "group": "三一綜合學園",
+   "year": "三年級",
+   "org": "修女會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "實現正義部一般學生",
+   "group": "三一綜合學園",
+   "year": "一年級",
+   "org": "實現正義部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "一花",
+   "group": "三一綜合學園",
+   "year": "二年級",
+   "org": "實現正義部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "蓮實",
+   "group": "三一綜合學園",
+   "year": "三年級",
+   "org": "實現正義部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "蓮華",
+   "group": "百鬼夜行聯合學園",
+   "year": "二年級",
+   "org": "百花繚亂紛爭調停委員會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "千尋",
+   "group": "千年科學學園",
+   "year": "三年級",
+   "org": "真理部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "小玉",
+   "group": "千年科學學園",
+   "year": "三年級",
+   "org": "真理部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "晴",
+   "group": "千年科學學園",
+   "year": "二年級",
+   "org": "真理部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "美咲",
+   "group": "奧利斯分校",
+   "year": "二年級",
+   "org": "奧利斯小隊",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "日和",
+   "group": "奧利斯分校",
+   "year": "二年級",
+   "org": "奧利斯小隊",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "棕櫚",
+   "group": "百鬼夜行相關勢力",
+   "year": "",
+   "org": "花鳥風月部",
+   "position": "",
+   "note": "正式學籍不明"
+  },
+  {
+   "name": "薊",
+   "group": "百鬼夜行相關勢力",
+   "year": "",
+   "org": "花鳥風月部",
+   "position": "",
+   "note": "正式學籍、年級不明"
+  },
+  {
+   "name": "澪紗",
+   "group": "三一綜合學園",
+   "year": "一年級",
+   "org": "三一自衛隊",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "千紗",
+   "group": "三一綜合學園",
+   "year": "一年級",
+   "org": "放學後的甜點部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "真紀",
+   "group": "千年科學學園",
+   "year": "一年級",
+   "org": "真理部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "弦生",
+   "group": "三一綜合學園",
+   "year": "三年級",
+   "org": "實現正義部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "麻白",
+   "group": "三一綜合學園",
+   "year": "一年級",
+   "org": "實現正義部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "潔莉諾",
+   "group": "赤冬聯邦學園",
+   "year": "三年級",
+   "org": "赤冬事務局",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "瑪麗娜",
+   "group": "赤冬聯邦學園",
+   "year": "二年級",
+   "org": "赤冬事務局",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "智惠",
+   "group": "赤冬聯邦學園",
+   "year": "三年級",
+   "org": "赤冬事務局",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "時雨",
+   "group": "赤冬聯邦學園",
+   "year": "二年級",
+   "org": "227號特別班",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "和香",
+   "group": "赤冬聯邦學園",
+   "year": "二年級",
+   "org": "227號特別班",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "令女",
+   "group": "山海經高級中學",
+   "year": "三年級",
+   "org": "玄武商會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "美奈",
+   "group": "山海經高級中學",
+   "year": "二年級",
+   "org": "玄龍門",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "瑠美",
+   "group": "山海經高級中學",
+   "year": "三年級",
+   "org": "玄武商會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "沙耶",
+   "group": "山海經高級中學",
+   "year": "二年級",
+   "org": "煉丹術研究會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "旬",
+   "group": "山海經高級中學",
+   "year": "三年級",
+   "org": "梅花園",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "Kei",
+   "group": "千年科學學園",
+   "year": "",
+   "org": "與遊戲開發部共同活動",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "妮可",
+   "group": "SRT特殊學園",
+   "year": "三年級",
+   "org": "FOX小隊",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "音葵",
+   "group": "SRT特殊學園",
+   "year": "三年級",
+   "org": "FOX小隊",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "雪乃",
+   "group": "SRT特殊學園",
+   "year": "三年級",
+   "org": "FOX小隊",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "胡桃",
+   "group": "SRT特殊學園",
+   "year": "三年級",
+   "org": "FOX小隊",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "琳",
+   "group": "聯邦學生會",
+   "year": "三年級",
+   "org": "聯邦學生會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "花耶",
+   "group": "聯邦學生會",
+   "year": "三年級",
+   "org": "聯邦學生會防衛室",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "碧",
+   "group": "聯邦學生會",
+   "year": "二年級",
+   "org": "聯邦學生會財務室",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "步夢",
+   "group": "聯邦學生會",
+   "year": "",
+   "org": "聯邦學生會調停室",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "桃香",
+   "group": "聯邦學生會",
+   "year": "一年級",
+   "org": "聯邦學生會交通室",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "莉",
+   "group": "千年科學學園",
+   "year": "一年級",
+   "org": "棒球部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "堇",
+   "group": "千年科學學園",
+   "year": "二年級",
+   "org": "訓練部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "實里",
+   "group": "赤冬聯邦學園",
+   "year": "三年級",
+   "org": "工務部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "志美子",
+   "group": "三一綜合學園",
+   "year": "一年級",
+   "org": "圖書委員會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "良舞",
+   "group": "無學籍・其他",
+   "year": "",
+   "org": "嘩啦嘩啦頭盔團",
+   "position": "",
+   "note": "原三一學生，已退學"
+  },
+  {
+   "name": "昴",
+   "group": "奧利斯分校",
+   "year": "三年級",
+   "org": "尼科米底亞部隊",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "渚",
+   "group": "三一綜合學園",
+   "year": "三年級",
+   "org": "茶會、聖子派",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "聖亞",
+   "group": "三一綜合學園",
+   "year": "三年級",
+   "org": "茶會、聖靈派",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "彌香",
+   "group": "三一綜合學園",
+   "year": "三年級",
+   "org": "茶會・聖父派",
+   "position": "名義上的暫任代表",
+   "note": ""
+  },
+  {
+   "name": "輝夜",
+   "group": "山海經高級中學",
+   "year": "",
+   "org": "京劇部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "誡",
+   "group": "無學籍・其他",
+   "year": "",
+   "org": "原煉丹部部長",
+   "position": "",
+   "note": "原山海經學生，已退學；七囚人之一"
+  },
+  {
+   "name": "晶",
+   "group": "狂獵藝術學院",
+   "year": "",
+   "org": "舍監隊",
+   "position": "幹部",
+   "note": "另以怪盜身分行動"
+  },
+  {
+   "name": "葛葉",
+   "group": "百鬼夜行相關勢力",
+   "year": "",
+   "org": "百花繚亂紛爭調停委員會",
+   "position": "初代委員長",
+   "note": "無已知現役學籍"
+  },
+  {
+   "name": "瑪爾庫特",
+   "group": "十字神名",
+   "year": "",
+   "org": "十字神名",
+   "position": "第十位預言者",
+   "note": "未確認現役學籍"
+  },
+  {
+   "name": "艾茵",
+   "group": "十字神名",
+   "year": "",
+   "org": "十字神名",
+   "position": "技師",
+   "note": "沒有確認的學籍"
+  },
+  {
+   "name": "奧爾",
+   "group": "十字神名",
+   "year": "",
+   "org": "十字神名",
+   "position": "技師",
+   "note": "沒有確認的學籍"
+  },
+  {
+   "name": "索芙",
+   "group": "十字神名",
+   "year": "",
+   "org": "十字神名",
+   "position": "技師",
+   "note": "沒有確認的學籍"
+  },
+  {
+   "name": "美鈴",
+   "group": "女武神警察學園",
+   "year": "",
+   "org": "聯邦矯正局",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "周防",
+   "group": "高地人鐵道學園",
+   "year": "",
+   "org": "董事會直屬監理室",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "邁亞",
+   "group": "奧利斯分校",
+   "year": "一年級",
+   "org": "尼科米底亞部隊",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "聯邦學生會會長",
+   "group": "聯邦學生會",
+   "year": "",
+   "org": "聯邦學生會",
+   "position": "會長",
+   "note": "失蹤中"
+  },
+  {
+   "name": "蘿婭",
+   "group": "聯邦學生會",
+   "year": "",
+   "org": "聯邦學生會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "未來",
+   "group": "千年科學學園",
+   "year": "",
+   "org": "原偽科學部",
+   "position": "前部長",
+   "note": ""
+  },
+  {
+   "name": "廣美",
+   "group": "狂獵藝術學院",
+   "year": "",
+   "org": "舍監隊",
+   "position": "副隊長",
+   "note": "文學系"
+  },
+  {
+   "name": "李",
+   "group": "聯邦學生會",
+   "year": "",
+   "org": "聯邦學生會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "灰音",
+   "group": "聯邦學生會",
+   "year": "",
+   "org": "聯邦學生會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "麻衣",
+   "group": "克洛諾斯學園",
+   "year": "",
+   "org": "克洛諾斯新聞部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "詩音",
+   "group": "克洛諾斯學園",
+   "year": "一年級",
+   "org": "克洛諾斯新聞部",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "笑面教授",
+   "group": "其他人物",
+   "year": "",
+   "org": "",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "明美",
+   "group": "無學籍・其他",
+   "year": "",
+   "org": "",
+   "position": "混混學生首領",
+   "note": "七囚人之一；原學籍不明"
+  },
+  {
+   "name": "凱薩集團董事",
+   "group": "凱薩集團",
+   "year": "",
+   "org": "凱薩集團",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "凱薩集團總裁",
+   "group": "凱薩集團",
+   "year": "",
+   "org": "凱薩集團",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "凱薩私人軍事公司將軍",
+   "group": "凱薩集團",
+   "year": "",
+   "org": "凱薩集團所屬私人軍事公司",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "凱薩自動機器人",
+   "group": "凱薩集團",
+   "year": "",
+   "org": "凱薩集團",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "凱薩特種部隊機器人",
+   "group": "凱薩集團",
+   "year": "",
+   "org": "凱薩集團",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "凱薩私人軍事公司機器人",
+   "group": "凱薩集團",
+   "year": "",
+   "org": "凱薩集團",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "白芭蕾",
+   "group": "其他勢力",
+   "year": "",
+   "org": "優斯緹娜聖徒會",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "頭盔團一般成員",
+   "group": "其他勢力",
+   "year": "",
+   "org": "頭盔團",
+   "position": "一般成員",
+   "note": ""
+  },
+  {
+   "name": "笛卡爾",
+   "group": "其他人物",
+   "year": "",
+   "org": "",
+   "position": "",
+   "note": ""
+  },
+  {
+   "name": "貝雅特里榭",
+   "group": "數秘術",
+   "year": "",
+   "org": "數秘術",
+   "position": "成員",
+   "note": "自稱夫人"
+  },
+  {
+   "name": "戈爾孔特與轉印",
+   "group": "數秘術",
+   "year": "",
+   "org": "數秘術",
+   "position": "成員",
+   "note": "雙人組外觀"
+  },
+  {
+   "name": "法蘭西斯",
+   "group": "數秘術",
+   "year": "",
+   "org": "數秘術",
+   "position": "",
+   "note": "與戈爾孔特相關的新人格"
+  },
+  {
+   "name": "黑服",
+   "group": "數秘術",
+   "year": "",
+   "org": "數秘術",
+   "position": "研究者",
+   "note": ""
+  },
+  {
+   "name": "瑪艾斯托洛",
+   "group": "數秘術",
+   "year": "",
+   "org": "數秘術",
+   "position": "成員",
+   "note": "自居藝術家"
+  },
+  {
+   "name": "地下生活者",
+   "group": "數秘術",
+   "year": "",
+   "org": "數秘術",
+   "position": "前成員",
+   "note": "遭驅逐"
+  },
+  {
+   "name": "普雷納帕特斯",
+   "group": "其他世界",
+   "year": "",
+   "org": "",
+   "position": "",
+   "note": "另一個世界的老師"
+  },
+  {
+   "name": "安普羅西斯",
+   "group": "其他勢力",
+   "year": "",
+   "org": "",
+   "position": "",
+   "note": "異常造物"
+  }
+ ],
+ "cards": [
+  {
+   "name": "陽奈",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "優香",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "白子＊TERROR",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "小空",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 1,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "星野",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "野乃美",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "白子",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "茜香",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "綾音",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "夢",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 1,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "亞子",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "伊織",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "千夏",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "真琴",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "伊吹",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "皐月",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "伊呂波",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "千秋",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "無月",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "遙香",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "佳世子",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "亞瑠",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "亞伽里",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "羽留奈",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "泉",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "淳子",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "茱莉",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "風華",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "佳澄",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "惠",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "瀬奈",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "繪里香",
+   "made": [
+    "人物",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "綺羅羅",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "乃愛",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "莉央",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 0,
+   "rewritten": 4
+  },
+  {
+   "name": "小雪",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "彩奈",
+   "made": [
+    "人物",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "星奈",
+   "made": [
+    "人物",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "木乃香",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "愛麗絲",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 9,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "沙織",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "桐乃",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "美優",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "小春",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "心菜",
+   "made": [
+    "人物",
+    "外觀與衣裝"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "日向",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "敦子",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 2,
+   "rewritten": 2
+  },
+  {
+   "name": "翼",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "響",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "柚子",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "知世",
+   "made": [
+    "人物",
+    "外觀與衣裝"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 3,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "吹雪",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "妃姬",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "芹奈",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "憂",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "若藻",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "環奈",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "紫",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "陽葵",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "夏",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "愛莉",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "喜美",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "光",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "希望",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "青葉",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "詠葉",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "菖蒲",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 2,
+   "rewritten": 1
+  },
+  {
+   "name": "季",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 4,
+   "rewritten": 3
+  },
+  {
+   "name": "梓",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "花子",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 9,
+   "deleted": 1,
+   "rewritten": 0
+  },
+  {
+   "name": "日步美",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "律",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "冬",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 2,
+   "rewritten": 0
+  },
+  {
+   "name": "美代",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "鹿江",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "繪梨",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "玲奈",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 2,
+   "rewritten": 0
+  },
+  {
+   "name": "紡希",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "雛罌粟",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 2,
+   "rewritten": 2
+  },
+  {
+   "name": "綠",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "桃井",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 9,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "英美",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "朱音",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "寧瑠",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 11,
+   "deleted": 1,
+   "rewritten": 0
+  },
+  {
+   "name": "明日奈",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 9,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "花凛",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 1,
+   "rewritten": 0
+  },
+  {
+   "name": "紅葉",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "愛瑠",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "貴音",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "八雲",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "桔梗",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 2,
+   "rewritten": 3
+  },
+  {
+   "name": "名草",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 6,
+   "rewritten": 5
+  },
+  {
+   "name": "楓",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "三森",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "椿",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "海花",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "靜子",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 1,
+   "rewritten": 0
+  },
+  {
+   "name": "菲娜",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "伊樹菜",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "月夜",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 2,
+   "rewritten": 0
+  },
+  {
+   "name": "三千留",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 6,
+   "rewritten": 2
+  },
+  {
+   "name": "妮婭",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 1,
+   "rewritten": 1
+  },
+  {
+   "name": "佳穗",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 1,
+   "rewritten": 2
+  },
+  {
+   "name": "萌",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "咲希",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 4
+  },
+  {
+   "name": "都子",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 5,
+   "rewritten": 3
+  },
+  {
+   "name": "亞都梨",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "鈴美",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 3
+  },
+  {
+   "name": "花繪",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "美禰",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "瑪麗",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "櫻子",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "實現正義部一般學生",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 4,
+   "rewritten": 3
+  },
+  {
+   "name": "一花",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 9,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "蓮實",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 11,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "蓮華",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 1,
+   "rewritten": 0
+  },
+  {
+   "name": "千尋",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "小玉",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "晴",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 1,
+   "rewritten": 1
+  },
+  {
+   "name": "美咲",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "日和",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "棕櫚",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 5,
+   "rewritten": 3
+  },
+  {
+   "name": "薊",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 2,
+   "rewritten": 1
+  },
+  {
+   "name": "澪紗",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 1,
+   "rewritten": 2
+  },
+  {
+   "name": "千紗",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "真紀",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "弦生",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "麻白",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 1,
+   "rewritten": 2
+  },
+  {
+   "name": "潔莉諾",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "瑪麗娜",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "智惠",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "時雨",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 4
+  },
+  {
+   "name": "和香",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 3,
+   "rewritten": 3
+  },
+  {
+   "name": "令女",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 1,
+   "rewritten": 3
+  },
+  {
+   "name": "美奈",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 1,
+   "rewritten": 0
+  },
+  {
+   "name": "瑠美",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "沙耶",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "旬",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 2,
+   "rewritten": 1
+  },
+  {
+   "name": "Kei",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 9,
+   "deleted": 3,
+   "rewritten": 6
+  },
+  {
+   "name": "妮可",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 4,
+   "rewritten": 3
+  },
+  {
+   "name": "音葵",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 9,
+   "deleted": 6,
+   "rewritten": 2
+  },
+  {
+   "name": "雪乃",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 7,
+   "rewritten": 8
+  },
+  {
+   "name": "胡桃",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 2,
+   "rewritten": 0
+  },
+  {
+   "name": "琳",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 1,
+   "rewritten": 3
+  },
+  {
+   "name": "花耶",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 10,
+   "deleted": 2,
+   "rewritten": 2
+  },
+  {
+   "name": "碧",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "步夢",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "桃香",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 2,
+   "rewritten": 3
+  },
+  {
+   "name": "莉",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "堇",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "實里",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "志美子",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 0,
+   "rewritten": 1
+  },
+  {
+   "name": "良舞",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 1,
+   "rewritten": 1
+  },
+  {
+   "name": "昴",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 5,
+   "rewritten": 6
+  },
+  {
+   "name": "渚",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 11,
+   "deleted": 4,
+   "rewritten": 2
+  },
+  {
+   "name": "聖亞",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 11,
+   "deleted": 0,
+   "rewritten": 5
+  },
+  {
+   "name": "彌香",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 10,
+   "deleted": 5,
+   "rewritten": 5
+  },
+  {
+   "name": "輝夜",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 6,
+   "rewritten": 2
+  },
+  {
+   "name": "誡",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 4,
+   "rewritten": 2
+  },
+  {
+   "name": "晶",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 11,
+   "deleted": 3,
+   "rewritten": 6
+  },
+  {
+   "name": "葛葉",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 9,
+   "deleted": 5,
+   "rewritten": 2
+  },
+  {
+   "name": "瑪爾庫特",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 5,
+   "rewritten": 4
+  },
+  {
+   "name": "艾茵",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 2,
+   "rewritten": 0
+  },
+  {
+   "name": "奧爾",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 3,
+   "rewritten": 7
+  },
+  {
+   "name": "索芙",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 8,
+   "rewritten": 4
+  },
+  {
+   "name": "美鈴",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "周防",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 9,
+   "rewritten": 7
+  },
+  {
+   "name": "邁亞",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 6,
+   "deleted": 4,
+   "rewritten": 3
+  },
+  {
+   "name": "聯邦學生會會長",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 3,
+   "deleted": 2,
+   "rewritten": 0
+  },
+  {
+   "name": "蘿婭",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 7,
+   "deleted": 2,
+   "rewritten": 0
+  },
+  {
+   "name": "未來",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 3,
+   "deleted": 6,
+   "rewritten": 2
+  },
+  {
+   "name": "廣美",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 2,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "李",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 1,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "灰音",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 2,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "麻衣",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 3,
+   "deleted": 1,
+   "rewritten": 1
+  },
+  {
+   "name": "詩音",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 3,
+   "deleted": 2,
+   "rewritten": 0
+  },
+  {
+   "name": "笑面教授",
+   "made": [
+    "人物",
+    "外觀與衣裝",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 2
+  },
+  {
+   "name": "明美",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 3,
+   "deleted": 1,
+   "rewritten": 1
+  },
+  {
+   "name": "凱薩集團董事",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 2,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "凱薩集團總裁",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 2,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "凱薩私人軍事公司將軍",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 2,
+   "deleted": 2,
+   "rewritten": 0
+  },
+  {
+   "name": "凱薩自動機器人",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 1,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "凱薩特種部隊機器人",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 1,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "凱薩私人軍事公司機器人",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 1,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "白芭蕾",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 2,
+   "deleted": 1,
+   "rewritten": 1
+  },
+  {
+   "name": "頭盔團一般成員",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 2,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "笛卡爾",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 3,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "貝雅特里榭",
+   "made": [
+    "人物",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 8,
+   "deleted": 7,
+   "rewritten": 2
+  },
+  {
+   "name": "戈爾孔特與轉印",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "法蘭西斯",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 4,
+   "deleted": 0,
+   "rewritten": 0
+  },
+  {
+   "name": "黑服",
+   "made": [
+    "人物",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 2,
+   "rewritten": 0
+  },
+  {
+   "name": "瑪艾斯托洛",
+   "made": [
+    "人物",
+    "專長與行動"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 4,
+   "deleted": 1,
+   "rewritten": 0
+  },
+  {
+   "name": "地下生活者",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 4,
+   "deleted": 2,
+   "rewritten": 2
+  },
+  {
+   "name": "普雷納帕特斯",
+   "made": [
+    "人物",
+    "專長與行動"
+   ],
+   "excluded_history_entry": true,
+   "relationships": 5,
+   "deleted": 4,
+   "rewritten": 3
+  },
+  {
+   "name": "安普羅西斯",
+   "made": [
+    "人物"
+   ],
+   "excluded_history_entry": false,
+   "relationships": 3,
+   "deleted": 0,
+   "rewritten": 3
+  }
+ ]
+}

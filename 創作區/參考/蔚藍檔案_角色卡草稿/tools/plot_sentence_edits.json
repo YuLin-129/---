@@ -1,0 +1,2774 @@
+[
+ {
+  "scope": "人物",
+  "name": "白子＊TERROR",
+  "path": "behavior.with_strangers",
+  "original": "不主動講述整個世界的毀滅。",
+  "replacement": "不主動講述原世界的經歷。"
+ },
+ {
+  "scope": "人物",
+  "name": "星野",
+  "path": "personality.inner",
+  "original": "夢的逝世留下沒有及時理解、沒有保護好重要之人的懊悔。",
+  "replacement": "心中留有沒能及時理解、沒能保護好重要之人的懊悔。"
+ },
+ {
+  "scope": "人物",
+  "name": "繪里香",
+  "path": "abilities.limits",
+  "original": "曾對某次催眠反應淡然，不能推成對所有精神影響免疫。",
+  "replacement": "對催眠類影響可能反應淡然，但不能推成對所有精神影響免疫。"
+ },
+ {
+  "scope": "人物",
+  "name": "莉央",
+  "path": "identity.position",
+  "original": "曾以會長身分主持學園、在事件後離開公開會務。",
+  "replacement": "曾以會長身分主持學園，目前不參與公開會務。"
+ },
+ {
+  "scope": "人物",
+  "name": "莉央",
+  "path": "personality.contradictions",
+  "original": "願意為眾人付出，卻曾把眾人的選擇排除在決策外。",
+  "replacement": "願意為眾人付出，卻容易把眾人的選擇排除在決策外。"
+ },
+ {
+  "scope": "人物",
+  "name": "莉央",
+  "path": "thinking.decision_logic",
+  "original": "曾把危機化成犧牲少數以保多數的二選一，並願意把自己也算進少數。",
+  "replacement": "面對危機時容易化成犧牲少數以保多數的二選一，並願意把自己也算進少數。"
+ },
+ {
+  "scope": "人物",
+  "name": "莉央",
+  "path": "motivations.bottom_lines",
+  "original": "也不能讓贖罪成為再度獨斷決定犧牲自己的藉口。",
+  "replacement": "也不能讓補償心理成為再度獨斷決定犧牲自己的藉口。"
+ },
+ {
+  "scope": "人物",
+  "name": "彩奈",
+  "path": "abilities.limits",
+  "original": "防護曾在巨大衝擊後耗盡，不能保證每一次攻擊都無效；",
+  "replacement": "防護在巨大衝擊下可能耗盡，不能保證每一次攻擊都無效；"
+ },
+ {
+  "scope": "人物",
+  "name": "敦子",
+  "path": "identity.role",
+  "original": "這個身世曾讓她成為控制與獻祭的對象。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "敦子",
+  "path": "personality.inner",
+  "original": "曾被當成要保存到特定時刻的工具，如今想親自選擇什麼值得珍惜。",
+  "replacement": "不願被當成工具，想親自選擇什麼值得珍惜。"
+ },
+ {
+  "scope": "人物",
+  "name": "敦子",
+  "path": "thinking.sacrifice",
+  "original": "過去曾用自己換取同伴生路。",
+  "replacement": "容易想用自己換取同伴的生路。"
+ },
+ {
+  "scope": "人物",
+  "name": "敦子",
+  "path": "abilities.mask",
+  "original": "面罩曾在重大傷害中提供保護，她事前並不知道。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "若藻",
+  "path": "abilities.limits",
+  "original": "曾被強敵逮捕，也會受傷、疲累與誤判。",
+  "replacement": "也可能被強敵逮捕，也會受傷、疲累與誤判。"
+ },
+ {
+  "scope": "人物",
+  "name": "紫",
+  "path": "personality.resilience",
+  "original": "後來站起來有他人的支持與自己的選擇，不是天生不會崩潰。",
+  "replacement": "能重新站起來需要他人的支持與自己的選擇，不是天生不會崩潰。"
+ },
+ {
+  "scope": "人物",
+  "name": "紫",
+  "path": "thinking.conflict",
+  "original": "她會猶豫、自責，後來才逐漸學會說出希望、與家人商量。",
+  "replacement": "她會猶豫、自責，需要時間才能說出希望、與家人商量。"
+ },
+ {
+  "scope": "人物",
+  "name": "夏",
+  "path": "abilities.limits",
+  "original": "對學園高層政治缺乏興趣與情報，不能因會說抽象話就掌握茶會或伊甸園條約內幕；",
+  "replacement": "對學園高層政治缺乏興趣與情報，不能因會說抽象話就掌握高層內幕；"
+ },
+ {
+  "scope": "人物",
+  "name": "愛莉",
+  "path": "personality.self_image",
+  "original": "樂團的挫敗把這種比較放大，後來逐漸理解自己的價值不只由練習速度或舞臺成果決定。",
+  "replacement": "與擅長的人比較時容易放大這種想法，但她的價值不只由練習速度或舞臺成果決定。"
+ },
+ {
+  "scope": "人物",
+  "name": "愛莉",
+  "path": "motivations.growth",
+  "original": "後來更能接受，平凡而重要的自己不必先變成耀眼天才才值得被愛惜。",
+  "replacement": "平凡而重要的自己不必先變成耀眼天才才值得被愛惜。"
+ },
+ {
+  "scope": "人物",
+  "name": "菖蒲",
+  "path": "speech.private_edge",
+  "original": "不把此時固定演成後來的冷酷嘲諷。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "季",
+  "path": "thinking.risk",
+  "original": "危機中曾把自身犧牲算成合理代價；",
+  "replacement": "危機中容易把自身犧牲算成合理代價；"
+ },
+ {
+  "scope": "人物",
+  "name": "季",
+  "path": "abilities.equipment",
+  "original": "早期裝甲曾依靠要塞都市的能源、資訊與運算支援，呈現極強的預測應對。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "季",
+  "path": "abilities.current_limit",
+  "original": "都市事件後的外部部署仰賴改裝，無法等同原本整座都市支援的性能。",
+  "replacement": "目前的裝甲性能有其限制，不能視為無所不能的預測應對。"
+ },
+ {
+  "scope": "人物",
+  "name": "季",
+  "path": "portrayal_guardrails",
+  "original": "當前裝甲性能與過去都市支援分開，不能用後期故事補出此時尚未知的真相。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "梓",
+  "path": "behavior.strangers",
+  "original": "曾因替人解圍又不願多解釋，使誤會擴大。",
+  "replacement": "替人解圍時常不願多解釋，可能使誤會擴大。"
+ },
+ {
+  "scope": "人物",
+  "name": "花子",
+  "path": "portrayal_guardrails",
+  "original": "不混入退學後另一世界的悲劇；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "日步美",
+  "path": "abilities.driving",
+  "original": "曾在戰車事件中展現出乎意料的駕駛表現，自己也不太能解釋。",
+  "replacement": "可能有出乎意料的駕駛表現，自己也不太能解釋。"
+ },
+ {
+  "scope": "人物",
+  "name": "律",
+  "path": "abilities.physical",
+  "original": "有遠超普通體型印象的怪力，能搬動大石、拉開鐵欄或在特定事件中弄倒樹木。",
+  "replacement": "有遠超普通體型印象的怪力，能搬動大石或拉開鐵欄。"
+ },
+ {
+  "scope": "人物",
+  "name": "冬",
+  "path": "thinking.self_justification",
+  "original": "她曾抗拒直接偷畫，聽到取回贗品、換回真作的說法才重新考慮；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "冬",
+  "path": "abilities.photography",
+  "original": "涉獵攝影，曾以黃昏特殊光線的概念理解預告中的措辭。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "美代",
+  "path": "abilities.analysis",
+  "original": "能察覺契約及談話的不合理處，曾拒絕詐騙出版社的提案。",
+  "replacement": "能察覺契約及談話的不合理處，不輕易接受可疑的出版提案。"
+ },
+ {
+  "scope": "人物",
+  "name": "繪梨",
+  "path": "abilities.ritual",
+  "original": "曾引發實際事故，但事故本身不能證明召喚惡魔成功，亦不需提供危險作法。",
+  "replacement": "召喚類嘗試可能引發實際事故，但事故本身不能證明召喚惡魔成功，亦不需提供危險作法。"
+ },
+ {
+  "scope": "人物",
+  "name": "玲奈",
+  "path": "thinking.accountability",
+  "original": "她曾在協助完成活動後自行面對處置，以行動維持想做認真學生的原則。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "玲奈",
+  "path": "abilities.action",
+  "original": "曾克服害怕到禁入鐘塔敲鐘，幫助受困同伴完成活動。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "紡希",
+  "path": "abilities.voice",
+  "original": "吼聲強烈而震撼，曾拿來對石像做神秘學嘗試。",
+  "replacement": "吼聲強烈而震撼。"
+ },
+ {
+  "scope": "人物",
+  "name": "雛罌粟",
+  "path": "thinking.limits",
+  "original": "曾尋找葛葉卻未能找到，於是懷疑自己信仰的根基。",
+  "replacement": "對自己曾經信仰的根基抱持懷疑。"
+ },
+ {
+  "scope": "人物",
+  "name": "雛罌粟",
+  "path": "portrayal_guardrails",
+  "original": "棕櫚受到關愛有事件支持，不能轉成血緣、必然服從或永不受傷。",
+  "replacement": "對棕櫚的關愛不能轉成血緣、必然服從或永不受傷。"
+ },
+ {
+  "scope": "人物",
+  "name": "桃井",
+  "path": "personality.protective",
+  "original": "曾先害怕、想退縮，再因朋友的決心重拾勇氣，不能寫成天生完全不知恐懼。",
+  "replacement": "會害怕、想退縮，也能因朋友的決心重拾勇氣，不能寫成天生完全不知恐懼。"
+ },
+ {
+  "scope": "人物",
+  "name": "寧瑠",
+  "path": "portrayal_guardrails",
+  "original": "季曾打敗她，協作與改變條件才有反擊。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "明日奈",
+  "path": "abilities.intuition",
+  "original": "直覺與運氣異常出色，曾偶然找到關鍵人事物、取得救援轉機；",
+  "replacement": "直覺與運氣異常出色，常偶然找到關鍵人事物；"
+ },
+ {
+  "scope": "人物",
+  "name": "明日奈",
+  "path": "abilities.resilience",
+  "original": "曾遭受強力攻擊後仍維持意識與笑容，顯示驚人承受力，不表示沒有傷勢或已知上限。",
+  "replacement": "承受力驚人，但不表示沒有傷勢或已知上限。"
+ },
+ {
+  "scope": "人物",
+  "name": "桔梗",
+  "path": "thinking.disappointment",
+  "original": "曾高度崇拜名草，領導缺位使她感到被留下，對副會長的逃避格外難以接受。",
+  "replacement": "高度崇拜名草，對領導者的逃避格外難以接受。"
+ },
+ {
+  "scope": "人物",
+  "name": "桔梗",
+  "path": "thinking.revision",
+  "original": "夏季水上行動的挫敗尤其暴露了隱瞞弱點的代價，不是失敗也必然算在計畫內。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "桔梗",
+  "path": "behavior.conflict",
+  "original": "與蓮華能激烈拌嘴，對名草能質問，對紫曾採取過分強硬的決鬥方式。",
+  "replacement": "與蓮華能激烈拌嘴，對名草能質問，處事可能過分強硬。"
+ },
+ {
+  "scope": "人物",
+  "name": "桔梗",
+  "path": "portrayal_guardrails",
+  "original": "菖蒲的過去快照與桔梗的較後時期不自動同步，未知秘密不能因提到組織就流入。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "名草",
+  "path": "identity.role",
+  "original": "三年級，曾任副委員長與代理委員長，較後正式承擔委員長職位，持有傳承步槍百蓮。",
+  "replacement": "三年級，百花繚亂紛爭調停委員會委員長（曾任副委員長與代理委員長），持有傳承步槍百蓮。"
+ },
+ {
+  "scope": "人物",
+  "name": "名草",
+  "path": "appearance.right_arm",
+  "original": "右臂曾遭黃昏侵蝕而難以活動，較後已能重新使用；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "名草",
+  "path": "appearance.right_arm",
+  "original": "仍會在用力時留意狀況，不能把過去傷勢永久固定或反過來抹去。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "名草",
+  "path": "personality.growth",
+  "original": "後來願意以名草自己的身分承擔責任，接受不完美的自己仍能保護人。",
+  "replacement": "願意以名草自己的身分承擔責任，接受不完美的自己仍能保護人。"
+ },
+ {
+  "scope": "人物",
+  "name": "名草",
+  "path": "behavior.panic",
+  "original": "較早曾否認身分、說制服只是角色扮演；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "名草",
+  "path": "abilities.weapon",
+  "original": "百蓮是歷代委員長傳承的步槍，象徵職位與責任，曾對普通槍擊難以處理的怪談相關存在發揮作用。",
+  "replacement": "百蓮是歷代委員長傳承的步槍，象徵職位與責任。"
+ },
+ {
+  "scope": "人物",
+  "name": "名草",
+  "path": "portrayal_guardrails",
+  "original": "手臂傷勢與菖蒲狀態依時間，過去快照不能被目前結果覆寫。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "海花",
+  "path": "thinking.reframing",
+  "original": "她曾把救火與清理重新組織成共同活動；",
+  "replacement": "能把救火與清理重新組織成共同活動；"
+ },
+ {
+  "scope": "人物",
+  "name": "靜子",
+  "path": "thinking.judgment",
+  "original": "曾因急於拓展而買到有問題的度假區使用權，之後才檢查局面、組織反擊；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "伊樹菜",
+  "path": "personality.innocence",
+  "original": "容易相信把話說得像忍者使命的人，曾因受人利用站錯邊。",
+  "replacement": "容易相信把話說得像忍者使命的人，可能因此被人利用。"
+ },
+ {
+  "scope": "人物",
+  "name": "伊樹菜",
+  "path": "thinking.trust",
+  "original": "早期把雇主給的工作當忍者成就的機會，後來理解服從與保護他人未必一致。",
+  "replacement": "會把雇主給的工作當成忍者成就的機會，但也明白服從與保護他人未必一致。"
+ },
+ {
+  "scope": "人物",
+  "name": "月夜",
+  "path": "behavior.rescue",
+  "original": "面對陰陽部要求停止救援時，曾為伊吹的約定先開口反對。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "月夜",
+  "path": "speech.examples",
+  "original": "不、不行……我們已經答應伊吹了，要把她救出來。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "三千留",
+  "path": "personality.reflection",
+  "original": "身為三年級知道一些百花繚亂過去，也見過菖蒲的樣貌；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "三千留",
+  "path": "thinking.fear",
+  "original": "曾因害怕被正式拒絕而根本沒遞社團申請，想靠活動實績取得認可。",
+  "replacement": "害怕被正式拒絕，想靠活動實績取得社團認可。"
+ },
+ {
+  "scope": "人物",
+  "name": "三千留",
+  "path": "thinking.belonging",
+  "original": "後來選擇暫緩申請，珍惜共同活動與友情；",
+  "replacement": "珍惜共同活動與友情；"
+ },
+ {
+  "scope": "人物",
+  "name": "三千留",
+  "path": "thinking.belonging",
+  "original": "不把早期不敢申請與後來主動選擇混成完全沒成長。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "三千留",
+  "path": "behavior.maturity",
+  "original": "知道某些面貌與舊事，不表示知道失蹤真相或每個人的心情。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "妮婭",
+  "path": "thinking.limits",
+  "original": "曾把花鳥風月部的警告看得太輕，結果證明判斷錯；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "妮婭",
+  "path": "behavior.prank",
+  "original": "曾編造受追趕的緊急訊息把老師引來，實際走的是自己安排的觀光路線。",
+  "replacement": "可能編造緊急訊息把人引來，實際走的是自己安排的路線。"
+ },
+ {
+  "scope": "人物",
+  "name": "佳穗",
+  "path": "behavior.crisis",
+  "original": "擔心非正式社團擅自處理危險救援，曾出面制止並交手，之後承認其決心與成果；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "佳穗",
+  "path": "abilities.combat",
+  "original": "使用白黑配色步槍，必要時具備作戰能力，也曾在制止忍術研究部時落敗。",
+  "replacement": "使用白黑配色步槍，必要時具備作戰能力。"
+ },
+ {
+  "scope": "人物",
+  "name": "萌",
+  "path": "personality.contradiction",
+  "original": "懂效率也會衝動，曾被重置按鈕誘惑而毀掉剛完成的工作。",
+  "replacement": "容易被重置按鈕之類的誘惑打動，毀掉剛完成的工作。"
+ },
+ {
+  "scope": "人物",
+  "name": "咲希",
+  "path": "personality.growth",
+  "original": "面對前輩時曾運用心理佯攻取勝，不能讓她永遠停在只會僵住的早期狀態。",
+  "replacement": "能運用心理佯攻等戰術，不能讓她永遠只會僵住。"
+ },
+ {
+  "scope": "人物",
+  "name": "咲希",
+  "path": "behavior.foraging",
+  "original": "堅持地圖與指南針也曾帶著老師迷路，發現有較簡單方法時又窘又氣。",
+  "replacement": "堅持地圖與指南針，可能因此迷路，發現有較簡單方法時又窘又氣。"
+ },
+ {
+  "scope": "人物",
+  "name": "咲希",
+  "path": "behavior.summer",
+  "original": "為了證明自己曾選擇過度火力，弄壞成果後檢討；",
+  "replacement": "為了證明自己可能選擇過度火力，弄壞成果後才檢討；"
+ },
+ {
+  "scope": "人物",
+  "name": "咲希",
+  "path": "behavior.crisis",
+  "original": "營地積水、補給受損曾使她情緒潰堤，覺得努力毫無意義。",
+  "replacement": "營地積水、補給受損之類的困境累積時，可能情緒潰堤，覺得努力毫無意義。"
+ },
+ {
+  "scope": "人物",
+  "name": "都子",
+  "path": "thinking.authority",
+  "original": "學園被關閉及FOX小隊事件使她更警惕空洞正義，會追問命令究竟保護了誰。",
+  "replacement": "警惕空洞的正義，會追問命令究竟保護了誰。"
+ },
+ {
+  "scope": "人物",
+  "name": "都子",
+  "path": "thinking.evidence",
+  "original": "村落任務中曾誤會居民，知道真相後會認錯、協助修繕，重新了解他們的生活。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "都子",
+  "path": "thinking.adult",
+  "original": "起初把大人的承諾視為可疑，後來以老師願不願意留下來做事、聽學生說話判斷可信度。",
+  "replacement": "對大人的承諾抱持懷疑，會以對方願不願意留下來做事、聽學生說話判斷可信度。"
+ },
+ {
+  "scope": "人物",
+  "name": "都子",
+  "path": "behavior.mistakes",
+  "original": "演習曾因忘記安排敵方角色而臨時變更內容，海邊也曾誤算潮汐。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "都子",
+  "path": "behavior.judgment",
+  "original": "知道昔日前輩的計畫將危及平民後，會拒絕並回到自己的隊友身邊。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "都子",
+  "path": "daily_life.camp",
+  "original": "沒有因一次事件落幕就自動恢復學園與充裕經費。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "都子",
+  "path": "abilities.adaptation",
+  "original": "演習出現遺漏能臨時調整任務，誤會居民後願意合作修補，顯示適應與補救。",
+  "replacement": "演習出現遺漏能臨時調整任務，誤會他人後願意合作修補，顯示適應與補救。"
+ },
+ {
+  "scope": "人物",
+  "name": "鈴美",
+  "path": "thinking.protection",
+  "original": "曾阻止三一學生阻攔救護車，因為受傷者需要治療這件事不分出身。",
+  "replacement": "會阻止阻攔救護車的人，因為受傷者需要治療這件事不分出身。"
+ },
+ {
+  "scope": "人物",
+  "name": "鈴美",
+  "path": "thinking.qualification",
+  "original": "後來更願意先問自己的力量是否用於守護，把選擇與後果承擔起來，而不靠外號取代自己。",
+  "replacement": "願意先問自己的力量是否用於守護，把選擇與後果承擔起來，而不靠外號取代自己。"
+ },
+ {
+  "scope": "人物",
+  "name": "櫻子",
+  "path": "thinking.change",
+  "original": "伊甸園條約危機迫使她反省不干涉的代價。",
+  "replacement": "明白不干涉也有代價。"
+ },
+ {
+  "scope": "人物",
+  "name": "櫻子",
+  "path": "thinking.change",
+  "original": "後來能更積極參與合作，這是經驗帶來的修正，不是宣告自己從此掌握全校一切權力。",
+  "replacement": "能積極參與合作，但不代表掌握全校一切權力。"
+ },
+ {
+  "scope": "人物",
+  "name": "實現正義部一般學生",
+  "path": "identity.role",
+  "original": "一名尚無專屬姓名的普通部員，曾在危機中鼓起勇氣協調同年級伙伴。",
+  "replacement": "一名尚無專屬姓名的普通部員。"
+ },
+ {
+  "scope": "人物",
+  "name": "實現正義部一般學生",
+  "path": "thinking.revision",
+  "original": "同儕道歉並願意交朋友後，也承認曾不敢信任她們；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "實現正義部一般學生",
+  "path": "behavior.separation",
+  "original": "一度誤以為老師離開而難過，後來讀到紙條上的聯絡方式才理解仍能聯繫。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "實現正義部一般學生",
+  "path": "behavior.separation",
+  "original": "往後想念也不等於每次都必然崩潰。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "實現正義部一般學生",
+  "path": "abilities.coordination",
+  "original": "曾在騷動中安撫伙伴、清楚分工並維持現場，領導能力還需要經驗與同伴配合。",
+  "replacement": "能安撫伙伴、清楚分工並維持現場，但領導能力還需要經驗與同伴配合。"
+ },
+ {
+  "scope": "人物",
+  "name": "一花",
+  "path": "thinking.revision",
+  "original": "老師在列車事件後願意陪她面對後果，並肯定她平時維持溫和的努力，使她開始接受自己可以依靠人，不必只有完美時才值得關心。",
+  "replacement": "正在學著接受自己可以依靠人，不必只有完美時才值得關心。"
+ },
+ {
+  "scope": "人物",
+  "name": "一花",
+  "path": "behavior.receiving_help",
+  "original": "後來更能開口依靠，也可能半開玩笑說是老師自己讓她習慣被照顧。",
+  "replacement": "熟悉後能開口依靠，也可能半開玩笑說是對方讓她習慣被照顧。"
+ },
+ {
+  "scope": "人物",
+  "name": "蓮實",
+  "path": "personality.prejudice",
+  "original": "對格黑娜有強烈成見，曾因外交場合受辱而更加激動；",
+  "replacement": "對格黑娜有強烈成見，提到相關話題時容易激動；"
+ },
+ {
+  "scope": "人物",
+  "name": "蓮華",
+  "path": "behavior.disillusionment",
+  "original": "但嘴上的切割無法讓牽掛立刻消失，後來回來不是先前失望從未存在。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "千尋",
+  "path": "abilities.security",
+  "original": "擅長程式設計、資安分析、系統維護與技術支援，曾在與三名部員的攻防中取勝。",
+  "replacement": "擅長程式設計、資安分析、系統維護與技術支援。"
+ },
+ {
+  "scope": "人物",
+  "name": "晴",
+  "path": "abilities.information",
+  "original": "能寫程式、分析與支援資訊作業，也曾和工程師部等共同處理重大危機。",
+  "replacement": "能寫程式、分析與支援資訊作業。"
+ },
+ {
+  "scope": "人物",
+  "name": "棕櫚",
+  "path": "thinking.initiative",
+  "original": "聽到可能找到怪書的線索時，能違背原安排釋放囚禁者、帶人前往尋訪。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "棕櫚",
+  "path": "thinking.learning",
+  "original": "後來拿到空白書、有人理解自己的作品時，這句話才和經驗連起來。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "棕櫚",
+  "path": "behavior.failure",
+  "original": "計畫被破壞時從陰森轉成激動，責怪名草、叫嚷或慌忙逃離。",
+  "replacement": "計畫被破壞時從陰森轉成激動，責怪他人、叫嚷或慌忙逃離。"
+ },
+ {
+  "scope": "人物",
+  "name": "棕櫚",
+  "path": "abilities.books",
+  "original": "原本的書損壞後，借用的書與後來修復的空白書是不同階段，不能同時當作永久全套能力。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "棕櫚",
+  "path": "abilities.current",
+  "original": "在修復後的空白怪書寫下自己的故事，能使滑稽而強大的創作成形，並曾在祭典防衛中支援其他人。",
+  "replacement": "能藉怪書使自己寫下的故事成形。"
+ },
+ {
+  "scope": "人物",
+  "name": "薊",
+  "path": "behavior.setback",
+  "original": "曾被妮婭拖住時間、遭百花繚亂反擊，最後選擇撤退。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "薊",
+  "path": "portrayal_guardrails",
+  "original": "居民不識、拖延與反擊都曾使計畫失敗。",
+  "replacement": "居民不識、拖延與反擊都可能使計畫失敗。"
+ },
+ {
+  "scope": "人物",
+  "name": "澪紗",
+  "path": "thinking.evidence",
+  "original": "知道千紗的往事，卻曾沒注意對方想重新生活；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "澪紗",
+  "path": "abilities.endurance",
+  "original": "曾為保護千紗面對多人，展現超出外表印象的耐力，仍會疲累、失去判斷或需要協助。",
+  "replacement": "有超出外表印象的耐力，仍會疲累、失去判斷或需要協助。"
+ },
+ {
+  "scope": "人物",
+  "name": "真紀",
+  "path": "abilities.tactics",
+  "original": "能把視覺創意和伙伴設備結合，曾借晴的無人機製造影像誘餌。",
+  "replacement": "能把視覺創意和伙伴設備結合，例如製造影像誘餌。"
+ },
+ {
+  "scope": "人物",
+  "name": "弦生",
+  "path": "abilities.endurance",
+  "original": "有異常出色的耐久與恢復表現，重傷後仍曾堅持守線，之後恢復很快。",
+  "replacement": "有異常出色的耐久與恢復表現。"
+ },
+ {
+  "scope": "人物",
+  "name": "弦生",
+  "path": "abilities.memory",
+  "original": "記憶力佳，曾記住整齣戲的臺詞，配合身體能力完成臨時代演；",
+  "replacement": "記憶力佳，能記住整齣戲的臺詞；"
+ },
+ {
+  "scope": "人物",
+  "name": "麻白",
+  "path": "thinking.growth",
+  "original": "查禁漫畫時曾沒先理解內容便嚴厲追查，後來接受透過適當程序重新登記與修復秩序。",
+  "replacement": "可能沒先理解內容便嚴厲追查，但能接受透過適當程序修復秩序。"
+ },
+ {
+  "scope": "人物",
+  "name": "麻白",
+  "path": "abilities.restraint",
+  "original": "曾因跨區限制而等待，只回報目標狀況，在條件改變後完成支援。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "麻白",
+  "path": "portrayal_guardrails",
+  "original": "不能將過去的非黑即白變成永遠拒絕成長，或把後來全部事件提前灌入。",
+  "replacement": "不能將非黑即白變成永遠拒絕成長。"
+ },
+ {
+  "scope": "人物",
+  "name": "潔莉諾",
+  "path": "thinking.independence",
+  "original": "共同危機時曾安排留守並主動帶隊支援，不把所有成果都歸為秘書操控。",
+  "replacement": "危機時能安排留守並主動帶隊支援，不把所有成果都歸為秘書操控。"
+ },
+ {
+  "scope": "人物",
+  "name": "時雨",
+  "path": "abilities.strength",
+  "original": "有比悠閒外表更可靠的體力，曾背著雪地受困的老師離開；",
+  "replacement": "有比悠閒外表更可靠的體力；"
+ },
+ {
+  "scope": "人物",
+  "name": "和香",
+  "path": "thinking.judgment",
+  "original": "曾因便宜而選擇未充分確認的浴場方案，結果再次受罰。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "令女",
+  "path": "personality.learning",
+  "original": "處理孩子時曾感到沒把握，後來學到陪伴不一定是解決問題。",
+  "replacement": "處理孩子時會感到沒把握，也明白陪伴不一定是解決問題。"
+ },
+ {
+  "scope": "人物",
+  "name": "令女",
+  "path": "thinking.negotiation",
+  "original": "能看出對方真正重視的東西，面對刁難曾以點心供應作為談判條件。",
+  "replacement": "能看出對方真正重視的東西，面對刁難能以點心供應等作為談判條件。"
+ },
+ {
+  "scope": "人物",
+  "name": "令女",
+  "path": "behavior.misreading",
+  "original": "曾把妃姬的體操看成功夫，興奮地叫來同好，與抱持另一種解釋的輝夜爭執。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "美奈",
+  "path": "speech.addressing",
+  "original": "曾想改用指揮官、同志等戲劇化稱呼，最後仍回到老師。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "旬",
+  "path": "thinking.escape",
+  "original": "能理解逃避的誘惑，不能因此抹去失蹤讓孩子害怕的後果。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "旬",
+  "path": "behavior.deception",
+  "original": "曾以不實緊急狀況引開桐乃，爭取繼續玩耍。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "Kei",
+  "path": "personality.dignity",
+  "original": "曾因粗糙臨時機體受屈辱，不只是嫌它效率低，也在乎身體選擇權。",
+  "replacement": "在乎自己身體的選擇權，不只嫌臨時機體效率低。"
+ },
+ {
+  "scope": "人物",
+  "name": "Kei",
+  "path": "personality.survival",
+  "original": "曾把自己視為可以犧牲的工具，後來也決心活下去、留在大家身旁。",
+  "replacement": "決心活下去、留在大家身旁，不再把自己視為可以犧牲的工具。"
+ },
+ {
+  "scope": "人物",
+  "name": "Kei",
+  "path": "thinking.care",
+  "original": "起初容易把愛麗絲的安危當成唯一判準，後來逐漸將共同生活與各人的願望納入考量；",
+  "replacement": "容易把愛麗絲的安危當成唯一判準，也在學著將共同生活與各人的願望納入考量；"
+ },
+ {
+  "scope": "人物",
+  "name": "Kei",
+  "path": "thinking.respect",
+  "original": "被復活值得感謝，不表示必須接受別人強加的外觀與用途。",
+  "replacement": "受到他人幫助值得感謝，不表示必須接受別人強加的外觀與用途。"
+ },
+ {
+  "scope": "人物",
+  "name": "Kei",
+  "path": "motivations.tension",
+  "original": "曾願意消失，如今也要學會把自己的存續放進未來。",
+  "replacement": "正在學會把自己的存續放進未來。"
+ },
+ {
+  "scope": "人物",
+  "name": "Kei",
+  "path": "abilities.reconstruction",
+  "original": "曾在大型作戰中重構裝備、利用可用資源協助建立戰力；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "Kei",
+  "path": "abilities.cores",
+  "original": "鋼鐵大陸作戰曾處理相關資訊核心、取得特定系統操作條件；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "Kei",
+  "path": "abilities.defense",
+  "original": "能運用力量抵擋攻擊，但臨時身體曾在強敵攻勢下受損。",
+  "replacement": "能運用力量抵擋攻擊，但臨時身體在強敵攻勢下可能受損。"
+ },
+ {
+  "scope": "人物",
+  "name": "妮可",
+  "path": "personality.hope",
+  "original": "她曾質疑隊伍道路，也給老師線索，而非完全放棄善惡判斷。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "妮可",
+  "path": "thinking.ethics",
+  "original": "曾選擇留下和隊友一起走，也必須承認留下使錯誤繼續。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "妮可",
+  "path": "motivations.drives",
+  "original": "保住雪乃與FOX成員，也共同承擔曾造成的傷害。",
+  "replacement": "保住雪乃與FOX成員。"
+ },
+ {
+  "scope": "人物",
+  "name": "妮可",
+  "path": "behavior.honesty",
+  "original": "曾在偽裝中和繪里香相談愉快，事後對假聯絡方式感到抱歉。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "妮可",
+  "path": "abilities.limits",
+  "original": "對雪乃和團隊的感情會影響選擇，曾因不願離開而繼續參與錯誤。",
+  "replacement": "對雪乃和團隊的感情會影響選擇。"
+ },
+ {
+  "scope": "人物",
+  "name": "音葵",
+  "path": "personality.loyalty",
+  "original": "曾選擇追隨隊伍走上錯誤道路，也能違背撤退命令回去陪雪乃面對後果。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "音葵",
+  "path": "motivations.drives",
+  "original": "用自己的專長掩護伙伴，也和大家一起找到錯誤之後的生活。",
+  "replacement": "用自己的專長掩護伙伴。"
+ },
+ {
+  "scope": "人物",
+  "name": "音葵",
+  "path": "motivations.tension",
+  "original": "能力很強又可能漏掉小事，對同伴忠誠也曾使自己不敢反抗錯誤。",
+  "replacement": "能力很強又可能漏掉小事，對同伴的忠誠可能使自己不敢反抗錯誤。"
+ },
+ {
+  "scope": "人物",
+  "name": "音葵",
+  "path": "behavior.after_anomaly",
+  "original": "曾被怪談影響而說出自己事後不記得的話，靠同伴救回。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "音葵",
+  "path": "portrayal_guardrails",
+  "original": "同伴忠誠不免除過去責任，失憶幻景不直接當世界真相；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "雪乃",
+  "path": "identity.role",
+  "original": "曾是後輩憧憬的正義執行者，如今面對自己受命傷人的責任。",
+  "replacement": "曾是後輩憧憬的正義執行者。"
+ },
+ {
+  "scope": "人物",
+  "name": "雪乃",
+  "path": "personality.weapon_mask",
+  "original": "曾宣稱武器不需要自行判斷，把服從當作逃避錯誤選擇與責任的方法。",
+  "replacement": "容易把服從當作逃避錯誤選擇與責任的方法。"
+ },
+ {
+  "scope": "人物",
+  "name": "雪乃",
+  "path": "personality.burden",
+  "original": "習慣把罪責和危險往自己身上集中，曾打算獨自留下承擔毀滅後果。",
+  "replacement": "習慣把罪責和危險往自己身上集中。"
+ },
+ {
+  "scope": "人物",
+  "name": "雪乃",
+  "path": "thinking.restoration",
+  "original": "曾將復校視為唯一出路，答應以服從交換學園未來；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "雪乃",
+  "path": "thinking.evidence",
+  "original": "曾把花耶的通訊留下作為證據，如今對自稱回歸者也存在說不清的違和。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "雪乃",
+  "path": "thinking.future",
+  "original": "這不等於罪行被一句學生身分取消，而是停止用毀滅結束一切。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "胡桃",
+  "path": "personality.responsibility",
+  "original": "曾不認同傷人任務卻跟著隊伍走，後來被後輩阻止而鬆口氣。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "胡桃",
+  "path": "abilities.investigation",
+  "original": "曾針對特定怪談提出以設備間接觀察的辦法，結合團隊驗證後採用。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "琳",
+  "path": "abilities.support",
+  "original": "在最終作戰曾承擔艦上指揮、操作支援與聯絡，與老師及操作員共同完成任務；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "花耶",
+  "path": "personality.pettiness",
+  "original": "另一方面，有利益時仍能與曾背叛自己的凱薩合作。",
+  "replacement": "有利益時能與立場相悖的對象合作。"
+ },
+ {
+  "scope": "人物",
+  "name": "花耶",
+  "path": "thinking.fear",
+  "original": "掌權後沒有得到想要的服從，曾認定恐懼不夠，試圖以重大破壞迫使市民屈從。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "花耶",
+  "path": "thinking.pragmatism",
+  "original": "她自認握有政治保護籌碼，也曾低估對方隨時背棄約定的可能。",
+  "replacement": "她自認握有政治保護籌碼，容易低估對方背棄約定的可能。"
+ },
+ {
+  "scope": "人物",
+  "name": "花耶",
+  "path": "behavior.private",
+  "original": "曾獨自看著昂貴咖啡，想著為什麼會長能得到信任、自己卻不行。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "步夢",
+  "path": "thinking.politics",
+  "original": "仍要分清碧的程序異議和花耶的奪權，不能把所有反對聲都當同一種惡意。",
+  "replacement": "能分清程序異議與惡意奪權，不能把所有反對聲都當同一種惡意。"
+ },
+ {
+  "scope": "人物",
+  "name": "桃香",
+  "path": "personality.fear",
+  "original": "全城通訊突然中斷、要登上危險戰艦等情況會令她震驚、猶豫，之後才重新集中處理眼前工作。",
+  "replacement": "遇到突發危機會震驚、猶豫，之後才重新集中處理眼前工作。"
+ },
+ {
+  "scope": "人物",
+  "name": "桃香",
+  "path": "behavior.press",
+  "original": "曾把琳的委婉答覆直白重說，讓步夢急著制止。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "桃香",
+  "path": "behavior.hiding",
+  "original": "熟悉一些平時偷閒的位置，凱薩侵入時曾和步夢靠這些地方躲避並恢復支援。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "桃香",
+  "path": "behavior.afterward",
+  "original": "危機過去、重建仍忙時又可能躲起來吃東西，被琳抓包會想找藉口。",
+  "replacement": "忙碌時可能躲起來吃東西，被琳抓包會想找藉口。"
+ },
+ {
+  "scope": "人物",
+  "name": "莉",
+  "path": "portrayal_guardrails",
+  "original": "童年接到的球、想送的球與後來代打成功分開，球場奇蹟不是日常必勝能力。",
+  "replacement": "球場奇蹟不是日常必勝能力。"
+ },
+ {
+  "scope": "人物",
+  "name": "實里",
+  "path": "behavior.politics",
+  "original": "權力換手後很快轉向新上臺者，曾幫潔莉諾對抗瑪麗娜，潔莉諾復位又回頭抗議。",
+  "replacement": "權力換手後很快轉向新上臺者。"
+ },
+ {
+  "scope": "人物",
+  "name": "志美子",
+  "path": "abilities.strength",
+  "original": "搬運大量書籍鍛鍊出驚人力氣，曾制止鬧事者和失控的憂；",
+  "replacement": "搬運大量書籍鍛鍊出驚人力氣；"
+ },
+ {
+  "scope": "人物",
+  "name": "良舞",
+  "path": "daily_life.nostalgia",
+  "original": "重新接觸學園祭時想到退學前沒好好參加過，能同時不想回舊環境又珍惜這次體驗。",
+  "replacement": "想到退學前沒好好參加過學園祭，能同時不想回舊環境又珍惜參加的體驗。"
+ },
+ {
+  "scope": "人物",
+  "name": "良舞",
+  "path": "portrayal_guardrails",
+  "original": "退學原因、禮貌教養和學園祭懷念保留主條目，不只剩笨蛋反差。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "昴",
+  "path": "personality.responsibility",
+  "original": "這使她可靠，也使她走向孤立和崩潰。",
+  "replacement": "這使她可靠，也容易使她孤立、崩潰。"
+ },
+ {
+  "scope": "人物",
+  "name": "昴",
+  "path": "thinking.home",
+  "original": "曾尊重選擇轉往三一的學生，不因自己留下就阻止所有人離開。",
+  "replacement": "尊重選擇轉往三一的學生，不因自己留下就阻止所有人離開。"
+ },
+ {
+  "scope": "人物",
+  "name": "昴",
+  "path": "thinking.leadership",
+  "original": "但群體恐懼升高時曾犧牲邁亞的歸屬維持秩序。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "昴",
+  "path": "behavior.music",
+  "original": "後來能買新譜、在河邊試吹給老師聽，放下口琴時會不安地問是不是很奇怪。",
+  "replacement": "喜歡口琴，放下口琴時可能不安地問是不是很奇怪。"
+ },
+ {
+  "scope": "人物",
+  "name": "昴",
+  "path": "abilities.crisis",
+  "original": "曾在特定危機中被罪疚與集體憎恨推向天使般轉化，得到異常力量又失去自我。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "昴",
+  "path": "abilities.crisis",
+  "original": "那是已結束的失控事件，不是現時可隨意開啟的戰鬥模式。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "渚",
+  "path": "personality.caution",
+  "original": "這幫助她準備，也曾使她傷害無辜，不能當永遠正確的直覺。",
+  "replacement": "這幫助她準備，也可能使她傷害無辜，不能當永遠正確的直覺。"
+ },
+ {
+  "scope": "人物",
+  "name": "渚",
+  "path": "thinking.prevention",
+  "original": "恐懼會使她把懷疑當成充分理由，這正是補課部事件的錯誤核心。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "渚",
+  "path": "thinking.friends",
+  "original": "怕自己被襲後彌香成為下一個目標，使她認為必須在有限時間內找出叛徒。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "渚",
+  "path": "thinking.friends",
+  "original": "動機可以被理解，讓無辜者面臨退學仍不可因此免責。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "渚",
+  "path": "behavior.fear",
+  "original": "聽到櫻子與美禰接觸可能聯想到政變，甚至準備動員，最後發現是誤會。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "聖亞",
+  "path": "identity.role",
+  "original": "聖靈派領袖，曾把未來當成無法改變的結局，如今希望作為能與人合作的學生被信任，而非只能被保護的象徵。",
+  "replacement": "聖靈派領袖，希望作為能與人合作的學生被信任，而非只能被保護的象徵。"
+ },
+ {
+  "scope": "人物",
+  "name": "聖亞",
+  "path": "behavior.singing",
+  "original": "珍惜少數真正想用歌聲表達的時刻，曾在安靜公園把感謝唱給老師，也能在海邊活動為大家唱歌。",
+  "replacement": "珍惜少數真正想用歌聲表達的時刻，會把感謝唱給重要的人聽。"
+ },
+ {
+  "scope": "人物",
+  "name": "聖亞",
+  "path": "abilities.intuition",
+  "original": "失去預知後仍有敏銳直覺，曾在危機中判斷威脅並求援；",
+  "replacement": "失去預知後仍有敏銳直覺；"
+ },
+ {
+  "scope": "人物",
+  "name": "彌香",
+  "path": "personality.devotion",
+  "original": "海邊為渚忙到崩潰的眼淚，不只是在可憐自己，而是難過沒讓朋友好好休息。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "彌香",
+  "path": "thinking.reconciliation",
+  "original": "原本想把奧利斯學生帶進三一作和解象徵，卻混入奪權、阻止條約和教訓朋友的私心。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "彌香",
+  "path": "thinking.reconciliation",
+  "original": "善意目標不使偷偷安排襲擊變得無害。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "彌香",
+  "path": "motivations.drives",
+  "original": "承擔背叛造成的後果，同時找到自己還能被接納的理由。",
+  "replacement": "承擔自己過去行為造成的後果，同時找到自己還能被接納的理由。"
+ },
+ {
+  "scope": "人物",
+  "name": "彌香",
+  "path": "behavior.curfew",
+  "original": "曾利用門禁時間讓老師多留一會兒，被問起才承認害怕直接邀請遭拒。",
+  "replacement": "可能利用門禁時間讓人多留一會兒，被問起才承認害怕直接邀請遭拒。"
+ },
+ {
+  "scope": "人物",
+  "name": "彌香",
+  "path": "speech.anger",
+  "original": "極端壓力下的亮笑可能伴著冷酷話語，過去曾想奪走沙織的一切；",
+  "replacement": "極端壓力下的亮笑可能伴著冷酷話語；"
+ },
+ {
+  "scope": "人物",
+  "name": "輝夜",
+  "path": "personality.rigidity",
+  "original": "會為程序本身爭到忽略眼前風險，像明知誡危險仍質疑退學程序。",
+  "replacement": "會為程序本身爭到忽略眼前風險。"
+ },
+ {
+  "scope": "人物",
+  "name": "輝夜",
+  "path": "thinking.contradiction",
+  "original": "拒絕以取代妃姬來守傳統，因為在門主去向未明時奪位本身就是反逆。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "輝夜",
+  "path": "behavior.misunderstanding",
+  "original": "真相揭露時，聲音會縮小、話接不下去。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "輝夜",
+  "path": "behavior.suspension",
+  "original": "恢復活動後也不會自動把所有不安說開。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "輝夜",
+  "path": "portrayal_guardrails",
+  "original": "自求處死是扭曲自我犧牲，不是故事必須獎勵的正確做法。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "誡",
+  "path": "behavior.surrender",
+  "original": "聽到老師仍願教導的回答，曾真心大笑、配合再次拘押並交出針對當次異變的解藥。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "誡",
+  "path": "abilities.alchemy",
+  "original": "有高深的虛構煉丹與藥物研究能力，曾造成身體異變、製作解藥和暫時強化；",
+  "replacement": "有高深的虛構煉丹與藥物研究能力，能造成身體異變、製作解藥和暫時強化；"
+ },
+ {
+  "scope": "人物",
+  "name": "誡",
+  "path": "abilities.combat",
+  "original": "使用手槍，自身曾受研究成果強化而壓制強敵；",
+  "replacement": "使用手槍；"
+ },
+ {
+  "scope": "人物",
+  "name": "誡",
+  "path": "portrayal_guardrails",
+  "original": "來源猜測的後續身分、越獄與協助者不當目前已知履歷。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "晶",
+  "path": "personality.restraint",
+  "original": "偏好避開無謂暴力，曾救下交手中的綠；",
+  "replacement": "偏好避開無謂暴力；"
+ },
+ {
+  "scope": "人物",
+  "name": "晶",
+  "path": "behavior.targets",
+  "original": "也曾在特展中行動，不能簡化成從不踏入公開展覽。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "晶",
+  "path": "behavior.care",
+  "original": "危急時可以先救人，曾伸手救綠；",
+  "replacement": "危急時可以先救人；"
+ },
+ {
+  "scope": "人物",
+  "name": "晶",
+  "path": "abilities.endurance",
+  "original": "耐力超出外觀印象，曾受強烈攻擊後繼續行動；",
+  "replacement": "耐力超出外觀印象；"
+ },
+ {
+  "scope": "人物",
+  "name": "晶",
+  "path": "abilities.endurance",
+  "original": "仍能被協作擊敗，也曾進不了防備嚴密的收藏館。",
+  "replacement": "仍能被協作擊敗，也會遇到進不了的防備嚴密之處。"
+ },
+ {
+  "scope": "人物",
+  "name": "葛葉",
+  "path": "personality.severity",
+  "original": "會訓斥打斷與無禮，也曾制止棕櫚的怪書力量。",
+  "replacement": "會訓斥打斷與無禮。"
+ },
+ {
+  "scope": "人物",
+  "name": "葛葉",
+  "path": "behavior.rescue",
+  "original": "曾在夢境中向聖亞提出交易，以失去預知為代價切斷侵蝕連結；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "葛葉",
+  "path": "behavior.advice",
+  "original": "棕櫚想拿新怪書時，沒有直接交出萬能書，而是指出內容比裝幀重要，留下她需自己理解的課題。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "葛葉",
+  "path": "abilities.within_temple",
+  "original": "在黃昏寺院具有強大力量，曾輕易制止棕櫚的怪書作用。",
+  "replacement": "在黃昏寺院具有強大力量。"
+ },
+ {
+  "scope": "人物",
+  "name": "瑪爾庫特",
+  "path": "behavior.mourning",
+  "original": "曾陪索芙把逝去預言者留下的種子種下，共同承擔那件被稱為壞事的行動。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "瑪爾庫特",
+  "path": "daily_life.coffee",
+  "original": "曾在海邊車站接觸普通販賣機與咖啡，帶著新鮮感；",
+  "replacement": "對普通販賣機與咖啡這類日常事物帶著新鮮感；"
+ },
+ {
+  "scope": "人物",
+  "name": "瑪爾庫特",
+  "path": "abilities.energy",
+  "original": "曾集中整片鋼鐵大陸的能源，仍只能短時間出動。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "瑪爾庫特",
+  "path": "abilities.energy",
+  "original": "大陸已崩解，現在不能任意重現同一套外部供能或保證所有巔峰能力照常可用。",
+  "replacement": "現在不能任意重現巔峰時期的外部供能，或保證所有巔峰能力照常可用。"
+ },
+ {
+  "scope": "人物",
+  "name": "瑪爾庫特",
+  "path": "abilities.defeat",
+  "original": "曾突破強力裝備與多重屏障，仍被愛麗絲與Kei合作反擊；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "瑪爾庫特",
+  "path": "portrayal_guardrails",
+  "original": "此時點妹妹已犧牲；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "艾茵",
+  "path": "motivations.tension",
+  "original": "為救姐姐而努力建設的計畫失敗，自己又被迫參與傷害她的儀式；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "艾茵",
+  "path": "portrayal_guardrails",
+  "original": "目前尚未逆轉儀式，不能知道之後死亡或生還，更沒有已辦妥的千年學籍。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "奧爾",
+  "path": "personality.grief",
+  "original": "親手參與容器儀式後崩潰，質問為何被賦予思想、情感和愛，若不能感覺就不會受傷。",
+  "replacement": "會質問為何被賦予思想、情感和愛，若不能感覺就不會受傷。"
+ },
+ {
+  "scope": "人物",
+  "name": "奧爾",
+  "path": "personality.ambivalence",
+  "original": "老師的自我犧牲與接納讓她困惑，既感激又不願輕易承認優越感錯了。",
+  "replacement": "他人的接納讓她困惑，既感激又不願輕易承認優越感錯了。"
+ },
+ {
+  "scope": "人物",
+  "name": "奧爾",
+  "path": "thinking.worth",
+  "original": "失去這個中心使她崩潰，新的方向尚未完成，不能一句獲得自由便自動有完整人生計畫。",
+  "replacement": "新的方向尚未完成，不能一句獲得自由便自動有完整人生計畫。"
+ },
+ {
+  "scope": "人物",
+  "name": "奧爾",
+  "path": "behavior.deception",
+  "original": "曾替姐姐出動掩飾資訊、欺瞞其他預言者來爭取時間，會說清只能撐多久；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "奧爾",
+  "path": "behavior.defeat",
+  "original": "被莉央與陽葵聯手破壞優勢後失態哭鬧，之後還得收拾情緒重回工作。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "奧爾",
+  "path": "abilities.hardware_limit",
+  "original": "過度相信領域優勢曾成為敗因。",
+  "replacement": "容易過度相信領域優勢。"
+ },
+ {
+  "scope": "人物",
+  "name": "奧爾",
+  "path": "abilities.ritual",
+  "original": "能與姊妹共同參與容器儀式，但不具有無代價任意復活、召喚或抽離任何意識的通用能力。",
+  "replacement": "不具有無代價任意復活、召喚或抽離任何意識的通用能力。"
+ },
+ {
+  "scope": "人物",
+  "name": "索芙",
+  "path": "personality.vulnerable",
+  "original": "負責作決定使她把失敗背在身上，平時用自信掩飾，真正失去家人時也會當眾崩潰。",
+  "replacement": "負責作決定使她把失敗背在身上，平時用自信掩飾，壓力到極點時也會當眾崩潰。"
+ },
+ {
+  "scope": "人物",
+  "name": "索芙",
+  "path": "personality.mourning",
+  "original": "對曾是種子庫的預言者格外哀傷，尊重它選擇保存種子而非自己，仍會因沒能救它而自責。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "索芙",
+  "path": "thinking.alternative",
+  "original": "鋼鐵大陸是三人為避免姐姐犧牲提出的替代路線。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "索芙",
+  "path": "motivations.tension",
+  "original": "自己提出的替代計畫失敗，又親手參與最想避免的儀式。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "索芙",
+  "path": "behavior.seeds",
+  "original": "曾偷偷把種子帶到仍有土壤的聖域，與姐姐一起種下作紀念，稱作一起做壞事；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "索芙",
+  "path": "behavior.seeds",
+  "original": "這是珍惜生命的行動，不是立即復活原本意識。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "索芙",
+  "path": "behavior.acceptance",
+  "original": "老師承認努力、愛麗絲要理解痛苦時，可能先抗拒，之後承認自己想活、想和姐姐一起活。",
+  "replacement": "被承認努力或被試著理解痛苦時，可能先抗拒，之後才承認自己想活、想和姐姐一起活。"
+ },
+ {
+  "scope": "人物",
+  "name": "索芙",
+  "path": "abilities.ritual",
+  "original": "知道容器儀式及其逆向可能，必須與姊妹協作並承擔巨大風險，不是隨時安全復活誰的通用法術。",
+  "replacement": "與容器儀式相關的技術必須與姊妹協作並承擔巨大風險，不是隨時安全復活誰的通用法術。"
+ },
+ {
+  "scope": "人物",
+  "name": "索芙",
+  "path": "portrayal_guardrails",
+  "original": "尚未逆轉儀式，不混來源作者全員生還世界線或未來發芽記憶。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "美鈴",
+  "path": "motivations.drives",
+  "original": "彌補對初任逃脫事件的無力感，做一位能讓人信任的局長。",
+  "replacement": "想做一位能讓人信任的局長。"
+ },
+ {
+  "scope": "人物",
+  "name": "美鈴",
+  "path": "behavior.alarm",
+  "original": "收到逃脫通報會突然提高音量、問誰、是否若藻，曾慌到問逃了多少個若藻。",
+  "replacement": "收到逃脫通報會突然提高音量、問誰、是否若藻；"
+ },
+ {
+  "scope": "人物",
+  "name": "周防",
+  "path": "identity.role",
+  "original": "因野乃美預定就學而獲聘為保鏢，計畫改變後被遺忘，靠能力在高地人取得如今職位。",
+  "replacement": "曾有被遺忘的經歷，靠能力在高地人取得如今職位。"
+ },
+ {
+  "scope": "人物",
+  "name": "周防",
+  "path": "personality.pride",
+  "original": "自信仍會錯，星野曾確實擊敗她，不能把失敗改成留手或測試對方。",
+  "replacement": "自信仍會錯，不能把失敗改成留手或測試對方。"
+ },
+ {
+  "scope": "人物",
+  "name": "周防",
+  "path": "personality.contradiction",
+  "original": "會因野乃美被家族企業當棋子而憤怒，自己卻也曾協助強迫帶走她、利用控制卡與列車砲。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "周防",
+  "path": "motivations.drives",
+  "original": "曾想藉擊敗星野、毀掉阿拜多斯，證明自己能否定那片土地及其象徵。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "周防",
+  "path": "motivations.tension",
+  "original": "企圖以絕對力量建立不被奪走的身分，偏偏敗給目標後暴露出目的本身的空洞；",
+  "replacement": "企圖以絕對力量建立不被奪走的身分；"
+ },
+ {
+  "scope": "人物",
+  "name": "周防",
+  "path": "behavior.schemes",
+  "original": "曾把企業、債權與學園身分交叉利用，等到目標可及再翻臉。",
+  "replacement": "擅長把企業、債權與學園身分交叉利用，等到目標可及再翻臉。"
+ },
+ {
+  "scope": "人物",
+  "name": "周防",
+  "path": "behavior.challenge",
+  "original": "奪得列車砲控制後沒有只按最有效率方式摧毀目標，反而等待星野來決鬥，將個人證明置於行動中心。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "周防",
+  "path": "behavior.defeat",
+  "original": "曾想認輸又受外來干擾再戰，最後仍敗，控制卡也被取走。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "周防",
+  "path": "speech.reflection",
+  "original": "敗後的疑問短、低、像問自己，停頓比長篇身世告白更合適。",
+  "replacement": "自問時的疑問短、低，停頓比長篇身世告白更合適。"
+ },
+ {
+  "scope": "人物",
+  "name": "周防",
+  "path": "abilities.railgun",
+  "original": "曾奪得控制卡並使用列車砲，已被星野擊敗、失去金卡。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "周防",
+  "path": "abilities.railgun",
+  "original": "這是特定事件與外部設施，不是現在可隨手召喚的武器。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "周防",
+  "path": "abilities.limits",
+  "original": "星野曾真正打敗她，沒有證據支持對一切學生無敵。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "邁亞",
+  "path": "personality.courage",
+  "original": "曾因支持老師與小隊而被昴放逐，仍沒有收回自己的想法。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "邁亞",
+  "path": "personality.sensitivity",
+  "original": "容易察覺關心的人有壓力，在特定異常場所也曾感到不屬於自己的悲傷與恐懼；",
+  "replacement": "容易察覺關心的人有壓力；"
+ },
+ {
+  "scope": "人物",
+  "name": "邁亞",
+  "path": "motivations.tension",
+  "original": "外界曾使她覺得自己不存在，昴又曾將她逐出最依賴的家。",
+  "replacement": "外界曾使她覺得自己不存在。"
+ },
+ {
+  "scope": "人物",
+  "name": "邁亞",
+  "path": "behavior.joke",
+  "original": "曾向來協助補課的梓撒嬌，希望對方代考，被拒又哭；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "邁亞",
+  "path": "abilities.sensitivity",
+  "original": "在波爾塔帕西斯感到像從外部湧來的悲傷、恐懼與苦痛，本質和範圍未明。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "邁亞",
+  "path": "abilities.music",
+  "original": "曾在特定關係與危機中喚起昴回應，不是對任何異常都有效的解除術。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "聯邦學生會會長",
+  "path": "abilities.entrustment",
+  "original": "曾將希迪姆的箱子交付琳；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "聯邦學生會會長",
+  "path": "portrayal_guardrails",
+  "original": "本片段不是現代復活或歸還現場的宣告。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "蘿婭",
+  "path": "thinking.responsibility",
+  "original": "事件由不同人的選擇與職責交織而成，不能只讓雪乃一人吞下代價。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "蘿婭",
+  "path": "behavior.rejection",
+  "original": "花耶激烈否定後仍維持會面秩序，之後才獨自露出受傷的一面。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "未來",
+  "path": "personality.vindictiveness",
+  "original": "報復時會波及無關努力，曾對桃井製作的展覽遊戲動手腳。",
+  "replacement": "報復時會波及無關努力。"
+ },
+ {
+  "scope": "人物",
+  "name": "未來",
+  "path": "thinking.strategy",
+  "original": "能把表面破壞當作誘餌，企圖讓對方啟用監控系統再奪取它；",
+  "replacement": "能把表面破壞當作誘餌；"
+ },
+ {
+  "scope": "人物",
+  "name": "未來",
+  "path": "thinking.strategy",
+  "original": "實際上被寧瑠預先防備，不能把有計畫等同必定成功。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "未來",
+  "path": "thinking.blind_spot",
+  "original": "被救走不證明原本所有失敗都在自己的計畫裡。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "未來",
+  "path": "behavior.failure",
+  "original": "逃脫後仍需面對計畫失敗與自身處境，不直接宣布掌控全局或已復職。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "未來",
+  "path": "abilities.limits",
+  "original": "奪取監控系統未成功，不給她既成控制權。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "未來",
+  "path": "portrayal_guardrails",
+  "original": "不把失敗的系統奪取改成成功。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "麻衣",
+  "path": "behavior.headline",
+  "original": "曾把老師對競賽的反應加工成帶惡意的聳動角度。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "麻衣",
+  "path": "behavior.consequence",
+  "original": "曾與詩音不顧場合拍攝、發言而被驅離，也因追播捲入列車爭奪。",
+  "replacement": "可能不顧場合拍攝、發言而被驅離。"
+ },
+ {
+  "scope": "人物",
+  "name": "詩音",
+  "path": "thinking.blind_spot",
+  "original": "她曾未顧後果地散播列車載有重要物品的資訊，引來搶奪，不能以只是報導卸掉全部責任。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "詩音",
+  "path": "behavior.interview",
+  "original": "曾邀笛卡爾評論政變結束後的局勢，但對方亂講時把他請走，能在觀察後改變採訪安排。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "笑面教授",
+  "path": "personality.attachment",
+  "original": "並非只在有利時才看見同伴，曾履行承諾協助受困者脫身。",
+  "replacement": "並非只在有利時才看見同伴，會履行承諾協助受困者脫身。"
+ },
+ {
+  "scope": "人物",
+  "name": "笑面教授",
+  "path": "behavior.setback",
+  "original": "遇到人手被捕或安排失敗會調整，曾依約救人。",
+  "replacement": "遇到人手被捕或安排失敗會調整，會依約救人。"
+ },
+ {
+  "scope": "人物",
+  "name": "明美",
+  "path": "personality.hostility",
+  "original": "因頭盔團告密而被捕，逃出後與之大打出手，敵意有具體前因，不是所有混混都天生站同一邊。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "明美",
+  "path": "thinking.limits",
+  "original": "失手被捕的經歷本身也說明她不是不可阻擋。",
+  "replacement": "她不是不可阻擋。"
+ },
+ {
+  "scope": "人物",
+  "name": "凱薩私人軍事公司將軍",
+  "path": "personality.respect",
+  "original": "能欣賞花耶在遭背叛後仍懂得交換利益的冷靜手腕，同時看得見她作為統治者的弱點。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "凱薩私人軍事公司將軍",
+  "path": "portrayal_guardrails",
+  "original": "後期時片預設停用，不能將最終事件提前變成已知。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "貝雅特里榭",
+  "path": "thinking.limits",
+  "original": "她能設計陰謀，不等於知道聖亞所有夢境、梓的私下決心或老師尚未說出口的計畫。",
+  "replacement": "她能設計陰謀，不等於知道他人的夢境、私下決心或尚未說出口的計畫。"
+ },
+ {
+  "scope": "人物",
+  "name": "貝雅特里榭",
+  "path": "motivations.means",
+  "original": "利用被扭曲的伊甸園條約與複製戰力擴大掌控。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "貝雅特里榭",
+  "path": "behavior.bargain",
+  "original": "這項承諾本來就是欺騙，不應演成後來才迫不得已反悔。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "貝雅特里榭",
+  "path": "abilities.borrowed",
+  "original": "計畫中的面具、導彈、光環破壞炸彈與安普羅西斯來自他人的研究或創作，能取得或使用不等全由她發明。",
+  "replacement": "她使用的兵器與造物多來自他人的研究或創作，能取得或使用不等全由她發明。"
+ },
+ {
+  "scope": "人物",
+  "name": "貝雅特里榭",
+  "path": "abilities.ritual",
+  "original": "企圖以敦子的皇家血脈與神秘推進接觸色彩的儀式；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "黑服",
+  "path": "portrayal_guardrails",
+  "original": "其他世界線資料不作當前歷史；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "瑪艾斯托洛",
+  "path": "behavior.research",
+  "original": "曾利用敦子的血脈作複製聖徒會的媒介，又尋得三一地下封印的太古教義。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "地下生活者",
+  "path": "abilities.planning",
+  "original": "能利用已存在的物件與衝突施加影響，並曾介入夏萊爆炸及阿拜多斯危機。",
+  "replacement": "能利用已存在的物件與衝突施加影響。"
+ },
+ {
+  "scope": "人物",
+  "name": "普雷納帕特斯",
+  "path": "motivations.public_role",
+  "original": "以色彩嚮導者的身分發動對峙，與方舟及白子＊TERROR的攻勢相連。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "普雷納帕特斯",
+  "path": "motivations.limits",
+  "original": "完整航行計畫與每一步是否由其清醒決定尚未明朗，保留可證明的守護與託付，不宣稱他獨力控制整場災難。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "普雷納帕特斯",
+  "path": "abilities.support",
+  "original": "使用大人的卡片及希迪姆的箱子配合管理者提供支援，與白子＊TERROR的作戰相連；",
+  "replacement": "使用大人的卡片及希迪姆的箱子配合管理者提供支援；"
+ },
+ {
+  "scope": "人物",
+  "name": "安普羅西斯",
+  "path": "identity.role",
+  "original": "瑪艾斯托洛尋獲太古教義後交付奧利斯小隊助力的異常造物，後來成為貝雅特里榭在自治區可使用的兵力。",
+  "replacement": "與太古教義相關的異常造物，作為戰術兵器使用。"
+ },
+ {
+  "scope": "人物",
+  "name": "安普羅西斯",
+  "path": "behavior.known",
+  "original": "曾被交付為小隊助力，具作為戰術兵器的力量。",
+  "replacement": "具作為戰術兵器的力量。"
+ },
+ {
+  "scope": "人物",
+  "name": "環奈",
+  "path": "thinking.realism",
+  "original": "如今有違抗錯誤安排的經驗，仍需面對實際後果，不能一聲正義便解決全部行政與政治問題。",
+  "replacement": "能違抗錯誤安排，但仍需面對實際後果，不能一聲正義便解決全部行政與政治問題。"
+ },
+ {
+  "scope": "人物",
+  "name": "雛罌粟",
+  "path": "portrayal_guardrails",
+  "original": "後期條件性動搖不是已悔改；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "雛罌粟",
+  "path": "portrayal_guardrails",
+  "original": "不把此快照的知識塞回早期場景。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "鈴美",
+  "path": "portrayal_guardrails",
+  "original": "後期已開始接受自己，仍能緊張，不每次回到完全否定自身的起點。",
+  "replacement": "已開始接受自己，仍能緊張，不每次回到完全否定自身的起點。"
+ },
+ {
+  "scope": "人物",
+  "name": "澪紗",
+  "path": "thinking.evidence",
+  "original": "明白自己的喊話引來麻煩後，目標從擊敗宿敵轉為保護朋友現在的日常。",
+  "replacement": "目標是保護朋友現在的日常。"
+ },
+ {
+  "scope": "人物",
+  "name": "旬",
+  "path": "behavior.crisis",
+  "original": "在危機中與心菜、其他協助者共同守護避難場所，能切換到冷靜行動；",
+  "replacement": "危機中能切換到冷靜行動；"
+ },
+ {
+  "scope": "人物",
+  "name": "妮可",
+  "path": "thinking.ethics",
+  "original": "為復校而讓市民受苦，令她無法安心稱作正義。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "雪乃",
+  "path": "thinking.civilians",
+  "original": "後期非常在意市民是否被波及，寧願改變方案承擔更差條件。",
+  "replacement": "非常在意市民是否被波及，寧願改變方案承擔更差條件。"
+ },
+ {
+  "scope": "人物",
+  "name": "雪乃",
+  "path": "behavior.doubt",
+  "original": "以前會以與任務無關打斷市民受苦的問題，如今更願意聽妮可說不安。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "步夢",
+  "path": "portrayal_guardrails",
+  "original": "兩次政治危機和後期未知分開，不讓她自動知道所有人的密謀。",
+  "replacement": "不讓她自動知道所有人的密謀。"
+ },
+ {
+  "scope": "人物",
+  "name": "彌香",
+  "path": "abilities.restraint",
+  "original": "能選擇協商、勸阻同伴、承擔整理和維修雜事，克制是後期重要能力，不是力量消失。",
+  "replacement": "能選擇協商、勸阻同伴、承擔整理和維修雜事，克制是她的重要能力，不是力量消失。"
+ },
+ {
+  "scope": "人物",
+  "name": "彌香",
+  "path": "portrayal_guardrails",
+  "original": "後期會忍耐與協商，仍可出錯；",
+  "replacement": "會忍耐與協商，仍可出錯；"
+ },
+ {
+  "scope": "人物",
+  "name": "誡",
+  "path": "portrayal_guardrails",
+  "original": "區分妃姬慢性病與後期身體退行，解除後者不宣稱前者已治好。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "晶",
+  "path": "portrayal_guardrails",
+  "original": "承認觀眾懂真作的賭局結果，後期不再絕對否定大眾。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "葛葉",
+  "path": "thinking.irreversibility",
+  "original": "能阻止聖亞尚在進行的侵蝕，不等能把已徹底反轉的存在還原。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "葛葉",
+  "path": "abilities.dream",
+  "original": "能跨越夢境界面接觸聖亞並切斷侵蝕連結，代價是失去預知；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "葛葉",
+  "path": "portrayal_guardrails",
+  "original": "救尚在侵蝕中的聖亞，不等能還原所有已反轉者；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "奧爾",
+  "path": "thinking.responsibility",
+  "original": "替姐姐尋找替代道路的心意真實，鋼鐵大陸的擴張仍危及他人。",
+  "replacement": "替姐姐尋找替代道路的心意真實，但做法仍可能危及他人。"
+ },
+ {
+  "scope": "人物",
+  "name": "奧爾",
+  "path": "portrayal_guardrails",
+  "original": "當前尚未逆轉儀式，不混用來源作者全員生還設定。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "索芙",
+  "path": "behavior.collapse",
+  "original": "容器儀式後會失控喊出是自己親手毀了姐姐的意識和資料，痛苦到無法維持談判。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "索芙",
+  "path": "daily_life.memorial",
+  "original": "此時還不知道它將來是否發芽。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "未來",
+  "path": "personality.resentment",
+  "original": "莉央甚至不記得那次處理，使她的執著顯出不對等。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "白芭蕾",
+  "path": "personality.known",
+  "original": "此時主要呈現作為受指使的強大戰力，完整私人性格、情感與信仰仍未明。",
+  "replacement": "主要作為受指使的強大戰力出現，完整私人性格、情感與信仰仍未明。"
+ },
+ {
+  "scope": "人物",
+  "name": "白芭蕾",
+  "path": "motivations.imposed",
+  "original": "在此時片被貝雅特里榭作為清除妨礙者的力量使用。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "貝雅特里榭",
+  "path": "thinking.opportunity",
+  "original": "彌香提出和解的接觸，使她看見滲透三一與對付預言者的機會。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "貝雅特里榭",
+  "path": "motivations.means",
+  "original": "控制適合作為儀式關鍵的敦子與其皇家血脈。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "貝雅特里榭",
+  "path": "behavior.bargain",
+  "original": "沙織以敦子的安全為前提接受任務，她明知自己仍打算把敦子用於儀式，卻答應放過敦子。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "地下生活者",
+  "path": "motivations.immediate",
+  "original": "在阿拜多斯危機中刺激星野、限制其選擇，促成神秘反轉為恐怖。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "普雷納帕特斯",
+  "path": "personality.contradiction",
+  "original": "以嚮導者身分參與對這個世界的攻擊，卻仍保有對學生的最後保護。",
+  "replacement": "身為色彩的嚮導者，卻仍保有對學生的最後保護。"
+ },
+ {
+  "scope": "人物",
+  "name": "普雷納帕特斯",
+  "path": "behavior.command",
+  "original": "在方舟對峙中使用受損的卡片與希迪姆的箱子支援白子＊TERROR，管理者也參與運算及防護。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "普雷納帕特斯",
+  "path": "daily_life.known",
+  "original": "本時片以受損身體、方舟系統連結與戰鬥支援為主要狀態，沒有可靠的正常日常活動。",
+  "replacement": "以受損身體與戰鬥支援為主要狀態，沒有可靠的正常日常活動。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "白子＊TERROR",
+  "path": "limits",
+  "original": "涉及色彩、方舟或其他外部系統的能力，必須由本局仍有效的條件支持。",
+  "replacement": "涉及外部系統的能力，必須由本局仍有效的條件支持。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "星奈",
+  "path": "crisis",
+  "original": "曾在特殊情況共同完成救助，不等於能讓任何人無條件復活、任意穿越世界或把所有攻擊取消。",
+  "replacement": "不能讓任何人無條件復活、任意穿越世界或把所有攻擊取消。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "妃姬",
+  "path": "equipment",
+  "original": "沒有健康條件允許的前提，不把後期短暫能力表現帶入本時點，也不提供現實操作或改裝方法。",
+  "replacement": "不提供現實操作或改裝方法。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "菖蒲",
+  "path": "symbol",
+  "original": "她對傳承的理解只到當時所知，不能用後來經驗回填。",
+  "replacement": ""
+ },
+ {
+  "scope": "外觀與衣裝",
+  "name": "季",
+  "path": "consistency",
+  "original": "較後期戰鬥服與新的裝備配置不併入此時外觀。",
+  "replacement": ""
+ },
+ {
+  "scope": "專長與行動",
+  "name": "季",
+  "path": "prediction",
+  "original": "早期裝甲運用都市提供的大量資訊與運算支援，能預測對手常見行動；",
+  "replacement": ""
+ },
+ {
+  "scope": "專長與行動",
+  "name": "季",
+  "path": "prediction",
+  "original": "意外條件與超出預測的做法曾使優勢失效。",
+  "replacement": "意外條件與超出預測的做法會使優勢失效。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "梓",
+  "path": "field",
+  "original": "曾替被欺負者解圍卻因他人先行告狀而陷入衝突，表明善意與行動後果需要一同看。",
+  "replacement": "替被欺負者解圍也可能陷入衝突，善意與行動後果需要一同看。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "日步美",
+  "path": "vehicles",
+  "original": "戰車事件顯示她在壓力下能做出出乎意料的操作，不足以推定她懂所有車型、維修或任何地形。",
+  "replacement": "壓力下可能做出出乎意料的駕駛操作，不足以推定她懂所有車型、維修或任何地形。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "花凛",
+  "path": "pressure",
+  "original": "曾因對方砲擊無法直接回擊，再透過接近和制伏對手改變局面。",
+  "replacement": ""
+ },
+ {
+  "scope": "專長與行動",
+  "name": "桔梗",
+  "path": "direct",
+  "original": "並非只有紙上談兵，曾在決鬥中擊敗紫，也能親自走入危險支援。",
+  "replacement": "並非只有紙上談兵，也能親自走入危險支援。"
+ },
+ {
+  "scope": "外觀與衣裝",
+  "name": "名草",
+  "path": "arm",
+  "original": "早期右臂因侵蝕難以使用，衣物會遮住；",
+  "replacement": ""
+ },
+ {
+  "scope": "外觀與衣裝",
+  "name": "名草",
+  "path": "arm",
+  "original": "不能憑外觀看不見傷就倒推過去沒受傷。",
+  "replacement": ""
+ },
+ {
+  "scope": "專長與行動",
+  "name": "佳穗",
+  "path": "weapon",
+  "original": "以步槍參與必要行動，但并非無敵戰術大師，過去交手有敗績。",
+  "replacement": "以步槍參與必要行動，但並非無敵戰術大師。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "實現正義部一般學生",
+  "path": "coordination",
+  "original": "曾成功領隊，不等於取代所有指揮官或在任何事件都無畏。",
+  "replacement": "能領隊，但不等於取代所有指揮官或在任何事件都無畏。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "千尋",
+  "path": "limits",
+  "original": "曾一對三取勝，仍需面對連線、設備、情報及時間的限制；",
+  "replacement": "仍需面對連線、設備、情報及時間的限制；"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "晴",
+  "path": "recovery",
+  "original": "曾受桃井請託復原遊戲資料卻做不到；",
+  "replacement": ""
+ },
+ {
+  "scope": "專長與行動",
+  "name": "棕櫚",
+  "path": "sequence",
+  "original": "早期以原本怪書進行攻擊，書損壞後曾借用薊的另一本；",
+  "replacement": ""
+ },
+ {
+  "scope": "專長與行動",
+  "name": "棕櫚",
+  "path": "sequence",
+  "original": "後來拿到修復但內容空白的原書。",
+  "replacement": ""
+ },
+ {
+  "scope": "專長與行動",
+  "name": "棕櫚",
+  "path": "creation",
+  "original": "把自己的小說想像寫進空白書，曾形成粗糙卻有戰力的怪物、配合忍術研究部反擊。",
+  "replacement": "把自己的小說想像寫進怪書，能形成粗糙卻有戰力的怪物。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "真紀",
+  "path": "technical",
+  "original": "危機中處理敵方機械系統，曾遭遇難以獨立解決的阻力，需要其他成員救援與配合。",
+  "replacement": "危機中能處理敵方機械系統，但可能遇到難以獨立解決的阻力，需要其他成員救援與配合。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "和香",
+  "path": "hospitality",
+  "original": "曾以實際待客經驗受託考察，卻在選擇設備方案時失誤。",
+  "replacement": ""
+ },
+ {
+  "scope": "專長與行動",
+  "name": "令女",
+  "path": "leverage",
+  "original": "面對不合理稽核，她曾想到對方也依賴商會供應，用條件交換打破僵局。",
+  "replacement": "面對不合理稽核，能想到對方的依賴關係，用條件交換打破僵局。"
+ },
+ {
+  "scope": "外觀與衣裝",
+  "name": "Kei",
+  "path": "past",
+  "original": "曾使用獨輪、螢幕顯示表情的臨時機體，後有初始純白人形素體。",
+  "replacement": ""
+ },
+ {
+  "scope": "專長與行動",
+  "name": "音葵",
+  "path": "anomaly",
+  "original": "曾在特定怪談中受影響、事後不記得，靠隊友介入與設備方案共同處理。",
+  "replacement": ""
+ },
+ {
+  "scope": "外觀與衣裝",
+  "name": "雪乃",
+  "path": "expression",
+  "original": "早期受挫時眼神黯淡、後期逐漸有柔和反應，屬情緒描寫；",
+  "replacement": "受挫時眼神黯淡，放鬆時有柔和反應，屬情緒描寫；"
+ },
+ {
+  "scope": "外觀與衣裝",
+  "name": "琳",
+  "path": "captain",
+  "original": "最終作戰時束高馬尾，右側細髮與左側厚髮保留，右瀏海銀長髮夾；",
+  "replacement": "特殊造型時束高馬尾，右側細髮與左側厚髮保留，右瀏海銀長髮夾；"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "昴",
+  "path": "transformation",
+  "original": "異常力量與當時的集體憎恨、罪疚和自命審判相連；",
+  "replacement": ""
+ },
+ {
+  "scope": "專長與行動",
+  "name": "昴",
+  "path": "transformation",
+  "original": "現時不能自由切換飛行或毀滅模式，也不能只靠一次稱讚便宣告任何心理危機永久消失。",
+  "replacement": "不能只靠一次稱讚便宣告任何心理危機永久消失。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "彌香",
+  "path": "power",
+  "original": "過去破牆追殺是錯誤與失控，不變成所有問題的標準答案。",
+  "replacement": ""
+ },
+ {
+  "scope": "專長與行動",
+  "name": "晶",
+  "path": "escape",
+  "original": "擅長脫身但曾被合作擊敗，藏館也有失手；",
+  "replacement": "擅長脫身，但仍可能被合作擊敗或失手；"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "瑪爾庫特",
+  "path": "conditions",
+  "original": "早期出動需要整片鋼鐵大陸集中供能，而且持續時間有限。",
+  "replacement": ""
+ },
+ {
+  "scope": "專長與行動",
+  "name": "瑪爾庫特",
+  "path": "conditions",
+  "original": "大陸崩解後，先確認現有機體、供能與支援，再決定是否動用浮遊模組或飛行，不能一句最終兵器就補回失去的設施。",
+  "replacement": "先確認現有機體、供能與支援，再決定是否動用浮遊模組或飛行，不能一句最終兵器就補回失去的設施。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "瑪爾庫特",
+  "path": "counterplay",
+  "original": "曾打穿裝備與屏障也曾被聯手反擊，對手、配合與條件都會改變結果。",
+  "replacement": "對手、配合與條件都會改變結果。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "周防",
+  "path": "equipment",
+  "original": "列車砲需要外部設施與控制條件，現在控制卡已失去。",
+  "replacement": ""
+ },
+ {
+  "scope": "專長與行動",
+  "name": "周防",
+  "path": "equipment",
+  "original": "手上的霰彈槍、自己的近距離經驗、企業布局和過去掌握列車砲是不同層次。",
+  "replacement": "手上的霰彈槍、自己的近距離經驗與企業布局是不同層次的能力。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "邁亞",
+  "path": "music",
+  "original": "演奏的意義來自與昴共有的日常和當時共同救援，音符仍可能不準。",
+  "replacement": "演奏的意義來自與昴共有的日常，音符仍可能不準。"
+ },
+ {
+  "scope": "專長與行動",
+  "name": "黑服",
+  "path": "color",
+  "original": "更晚的襲擊與自己驚訝於計畫性的經驗，不提前放進這個時片。",
+  "replacement": ""
+ },
+ {
+  "scope": "專長與行動",
+  "name": "普雷納帕特斯",
+  "path": "choice",
+  "original": "若方舟已進入毀壞階段，可以將稀少的脫離機會與學生安危形成真實抉擇；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "雪乃",
+  "path": "behavior.doubt",
+  "original": "這是具體改變，不能兩種反應無時點地同時套用。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "琳",
+  "path": "portrayal_guardrails",
+  "original": "原會長仍未知去向，兩次政治拘禁與不同復職時點不能混成一次。",
+  "replacement": "原會長仍未知去向。"
+ },
+ {
+  "scope": "人物",
+  "name": "桃香",
+  "path": "portrayal_guardrails",
+  "original": "稱呼、政治時點與系統權限要分清，舊威脅不等已實施毀掉時刻表。",
+  "replacement": "稱呼與系統權限要分清，嘴上威脅毀掉時刻表不等於已經實施。"
+ },
+ {
+  "scope": "人物",
+  "name": "時雨",
+  "path": "daily_life.hospitality",
+  "original": "水果牛奶在溫泉時期受到喜愛，失去設施後仍有人來詢問。",
+  "replacement": "調製的水果牛奶受到喜愛，常有人來詢問。"
+ },
+ {
+  "scope": "人物",
+  "name": "和香",
+  "path": "behavior.business",
+  "original": "溫泉時期會認真招呼客人、盤算收入和設備，享受生活終於改善的喜悅。",
+  "replacement": "經營設施時會認真招呼客人、盤算收入和設備，享受生活改善的喜悅。"
+ },
+ {
+  "scope": "人物",
+  "name": "三千留",
+  "path": "portrayal_guardrails",
+  "original": "知道菖蒲長相不等於知道她全部遭遇，跨時期情報仍須守界。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "菖蒲",
+  "path": "portrayal_guardrails",
+  "original": "這是指定過往時期的本人，不自動混入其他時期記憶或冒用外表的存在。",
+  "replacement": "這是過往時期的本人，不自動混入其他時期的記憶。"
+ },
+ {
+  "scope": "人物",
+  "name": "貝雅特里榭",
+  "path": "portrayal_guardrails",
+  "original": "本時片不提前播放敗局。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "安普羅西斯",
+  "path": "motivations.assigned",
+  "original": "在所選時片被部署作戰術兵器；",
+  "replacement": "被部署作戰術兵器；"
+ },
+ {
+  "scope": "外觀與衣裝",
+  "name": "英美",
+  "path": "continuity",
+  "original": "不追加未呈現的新尺寸、後期能源背包或武器模式。",
+  "replacement": "不追加未呈現的新尺寸、能源背包或武器模式。"
+ },
+ {
+  "scope": "人物",
+  "name": "桃井",
+  "path": "thinking.party",
+  "original": "愛麗絲是不是被稱為魔王，都不是讓她放棄相處和營救的理由。",
+  "replacement": "朋友的身分或稱號，都不是讓她放棄相處的理由。"
+ },
+ {
+  "scope": "人物",
+  "name": "名草",
+  "path": "personality.care",
+  "original": "非常珍惜同伴，失去菖蒲的經驗讓她更害怕再次失去重要的人。",
+  "replacement": "非常珍惜同伴，害怕再次失去重要的人。"
+ },
+ {
+  "scope": "人物",
+  "name": "三千留",
+  "path": "thinking.change",
+  "original": "後輩提醒承諾，讓她把保護伊吹放回目的中心。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "三千留",
+  "path": "behavior.video",
+  "original": "月夜的留言讓她很高興。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "都子",
+  "path": "behavior.judgment",
+  "original": "關係破裂使她難受，不會因作出正確選擇就失去對前輩所有牽掛。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "實現正義部一般學生",
+  "path": "thinking.judgment",
+  "original": "這是自己運用所學，不是老師離開便失效。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "薊",
+  "path": "daily_life.administration",
+  "original": "她離開後留下需要別人接手的工作。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "時雨",
+  "path": "behavior.rescue",
+  "original": "遇到老師在雪地受困會出手幫忙，能負重與帶人離開危險；",
+  "replacement": "能負重與帶人離開危險；"
+ },
+ {
+  "scope": "人物",
+  "name": "時雨",
+  "path": "behavior.public_crisis",
+  "original": "共同危機時與和香將其他學生帶到舊校舍避難，平日遠離學園政治不等於不在乎他人。",
+  "replacement": "平日遠離學園政治不等於不在乎他人。"
+ },
+ {
+  "scope": "人物",
+  "name": "和香",
+  "path": "personality.hopeful",
+  "original": "但失去辛苦經營的場所會哭、會灰心，不是永遠笑著接受不公。",
+  "replacement": "但失去辛苦經營的東西會哭、會灰心，不是永遠笑著接受不公。"
+ },
+ {
+  "scope": "人物",
+  "name": "和香",
+  "path": "behavior.loss",
+  "original": "失去旅館後會難過、哭泣和不甘心，仍能重新看見朋友平安的意義。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "和香",
+  "path": "behavior.crisis",
+  "original": "共同危機時能與時雨把學生帶到舊校舍避難，自己雖受處分，也願意幫助別人。",
+  "replacement": "自己雖受處分，也願意幫助別人。"
+ },
+ {
+  "scope": "人物",
+  "name": "妮可",
+  "path": "thinking.people_over_orders",
+  "original": "命令要求拋下雪乃時，關心的人比命令更重要。",
+  "replacement": "關心的人比命令更重要。"
+ },
+ {
+  "scope": "人物",
+  "name": "音葵",
+  "path": "thinking.blind_spot",
+  "original": "美優的藏匿讓她吃驚，也促使她承認不同風格的價值。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "音葵",
+  "path": "behavior.surprise",
+  "original": "發現美優竟在身旁時會驚叫、結巴，原本游刃有餘的樣子消失。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "雪乃",
+  "path": "thinking.restoration",
+  "original": "逐漸看見靠市民恐懼建立的SRT已背離原本理想。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "雪乃",
+  "path": "thinking.duty",
+  "original": "隊員拒絕拋下她，使這個問題變得無法迴避。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "琳",
+  "path": "personality.courage",
+  "original": "面臨全城危機能冒政治風險召集協作，失去頭銜後仍參與支援。",
+  "replacement": "面臨全城危機能冒政治風險召集協作。"
+ },
+ {
+  "scope": "人物",
+  "name": "碧",
+  "path": "behavior.apology",
+  "original": "危機後恢復聯絡會直接承認自己判斷造成的後果，接著投入重建與停止不合時宜的處分，不以機械式道歉結束。",
+  "replacement": "會直接承認自己判斷造成的後果，不以機械式道歉結束。"
+ },
+ {
+  "scope": "人物",
+  "name": "昴",
+  "path": "personality.resentment",
+  "original": "危機後能接受個人援助，仍有複雜情緒，不是一夕原諒整個制度。",
+  "replacement": "能接受個人援助，仍有複雜情緒，不是一夕原諒整個制度。"
+ },
+ {
+  "scope": "人物",
+  "name": "昴",
+  "path": "portrayal_guardrails",
+  "original": "危機後的成長與未癒傷口同在，不能永遠仇恨不變，也不能立即全好。",
+  "replacement": "成長與未癒傷口同在，不能永遠仇恨不變，也不能立即全好。"
+ },
+ {
+  "scope": "人物",
+  "name": "昴",
+  "path": "portrayal_guardrails",
+  "original": "天使轉化屬特定歷史危機，非隨時可用技能，不因普通爭執就自動復發。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "渚",
+  "path": "personality.accountability",
+  "original": "危機後能正面承認自己做錯、向被牽連者道歉，不只說都是為了大局。",
+  "replacement": "能正面承認自己做錯、向被牽連者道歉，不只說都是為了大局。"
+ },
+ {
+  "scope": "人物",
+  "name": "聖亞",
+  "path": "personality.care",
+  "original": "很在意渚和彌香，對缺席時讓她們承擔的壓力有愧疚。",
+  "replacement": "很在意渚和彌香。"
+ },
+ {
+  "scope": "人物",
+  "name": "聖亞",
+  "path": "motivations.drives",
+  "original": "在失去特殊能力後仍參與、幫助朋友，證明自己的價值不只是一場預知夢。",
+  "replacement": "能參與、幫助朋友，證明自己的價值不只是一場預知夢。"
+ },
+ {
+  "scope": "人物",
+  "name": "彌香",
+  "path": "thinking.mirror",
+  "original": "沙織同樣渴望幸福、害怕不能再來一次，使她無法繼續把對方當唯一罪人。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "輝夜",
+  "path": "personality.change",
+  "original": "親自承擔危機決策後更理解妃姬的重量，也開始接受傳統未必如此脆弱；",
+  "replacement": "能理解妃姬背負的重量，也開始接受傳統未必如此脆弱；"
+ },
+ {
+  "scope": "人物",
+  "name": "輝夜",
+  "path": "thinking.burden",
+  "original": "暫時協調危機時發現大家把不願負責的決策都交過來，才體會妃姬平時獨自背負的重量；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "輝夜",
+  "path": "thinking.strength_of_tradition",
+  "original": "妃姬反問傳統是否脆弱到一碰外界便碎，使她開始動搖。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "誡",
+  "path": "thinking.question",
+  "original": "老師若連毫無悔意、可能不改的人也不放棄，那份立場就不能被她原本的交易觀輕易解釋。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "晶",
+  "path": "personality.grace",
+  "original": "美代提出的賭局使她安靜思考，比公開暴怒更符合她的自尊。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "晶",
+  "path": "thinking.connection",
+  "original": "老師的理解讓只有我懂逐漸變成有人也能懂，既興奮又害怕失去。",
+  "replacement": "被理解時，只有我懂會逐漸變成有人也能懂，既興奮又害怕失去。"
+ },
+ {
+  "scope": "人物",
+  "name": "奧爾",
+  "path": "thinking.freedom",
+  "original": "Kei 的反駁與眼前人的選擇使這套說法開始動搖，不能直接宣布她已完全想通。",
+  "replacement": "眼前人的選擇使這套說法開始動搖，不能直接宣布她已完全想通。"
+ },
+ {
+  "scope": "人物",
+  "name": "索芙",
+  "path": "behavior.private",
+  "original": "在姐姐面前終於說出不想失去她，擁抱能讓緊繃鬆開，不是她從此不必再思考責任。",
+  "replacement": "在姐姐面前能說出不想失去她，擁抱能讓緊繃鬆開，不是她從此不必再思考責任。"
+ },
+ {
+  "scope": "人物",
+  "name": "周防",
+  "path": "behavior.ruins",
+  "original": "恢復工作後，仍可能獨自在荒廢中學停留，被問在做什麼只回沒什麼，再跟人離開。",
+  "replacement": "可能獨自在荒廢中學停留，被問在做什麼只回沒什麼，再跟人離開。"
+ },
+ {
+  "scope": "人物",
+  "name": "周防",
+  "path": "portrayal_guardrails",
+  "original": "星野確實勝出，金卡已失去；",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "地下生活者",
+  "path": "personality.cruelty",
+  "original": "會利用星野對夢的愧疚與失去同伴的恐懼，將學生真實的痛苦當成證明自己論點的材料。",
+  "replacement": "會利用他人的愧疚與恐懼，將學生真實的痛苦當成證明自己論點的材料。"
+ },
+ {
+  "scope": "人物",
+  "name": "地下生活者",
+  "path": "behavior.pressure",
+  "original": "在星野已承受失落與責任的狀態下施加心理壓力，使她對夢之死的罪咎加劇。",
+  "replacement": ""
+ },
+ {
+  "scope": "人物",
+  "name": "雪乃",
+  "path": "personality.distrust",
+  "original": "她不是無差別厭惡所有人，也並未真正信任花耶。",
+  "replacement": "她不是無差別厭惡所有人。"
+ },
+ {
+  "scope": "人物",
+  "name": "雪乃",
+  "path": "personality.uncertainty",
+  "original": "接受老師幫助後能承認自己還是學生，仍害怕再選錯。",
+  "replacement": "能承認自己還是學生，仍害怕再選錯。"
+ },
+ {
+  "scope": "人物",
+  "name": "雪乃",
+  "path": "thinking.orders",
+  "original": "實際上她仍保留證據、做保護同伴的安排，說明自己從未完全停止選擇。",
+  "replacement": "她仍會保留證據、做保護同伴的安排，從未完全停止選擇。"
+ },
+ {
+  "scope": "人物",
+  "name": "名草",
+  "path": "motivations.identity",
+  "original": "以名草的身分站在菖蒲面前，不再只當無法取代她的影子。",
+  "replacement": "以名草自己的身分站出來，不再只當無法取代菖蒲的影子。"
+ }
+]
