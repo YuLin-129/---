@@ -390,7 +390,7 @@ MD_HEADER = """# 角色卡總表
 ## 重新產生
 
 ```bash
-python3 tools/build_cards.py <原世界書.json> .
+python3 tools/build_cards.py ../blue_archive_kivotos_worldbook_zhTW.json .
 ```
 
 新增或調整刪改規則時編輯 `tools/plot_sentence_edits.json` 或 `tools/basic_relationship_edits.json`；若有規則沒有套用到任何內容，或關係原文已和紀錄不同，產生器會報錯停止。
