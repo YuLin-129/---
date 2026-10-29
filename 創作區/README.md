@@ -27,4 +27,4 @@
 
 - 新角色：`角色總表_角色全名.json`
 - 新世界觀：`世界觀總表_世界或地區名.json`
-- 圖片素材仍放在根目錄（`cg*.png`）、`half/`、`BG/`；推測身高三圍時在 `appearance.measurements_source` 寫明看了哪些圖。
+- 圖片素材仍放在根目錄（`cg*.png`）、`half/`、`BG/`；每份角色總表都要有身高與三圍（規則見 `角色卡/角色總表_寫作說明.md` §2.3）；推測時在 `appearance.measurements_source` 寫明看了哪些圖。

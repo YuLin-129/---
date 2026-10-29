@@ -320,8 +320,11 @@ def export_character(book, d):
         if ap.get("height_cm"):
             size.append(f"身高 {ap['height_cm']} 公分")
         mc = ap.get("measurements_cm")
-        if mc:
-            size.append(f"三圍 B{mc['bust']}／W{mc['waist']}／H{mc['hips']}（胸圍以外為依立繪推測）")
+        if mc and all(mc.get(k) for k in ("bust", "waist", "hips")):
+            basis = ap.get("measurements_basis", "胸圍以外為依立繪推測")
+            size.append(f"三圍 B{mc['bust']}／W{mc['waist']}／H{mc['hips']}（{basis}）")
+        elif mc:
+            size.append(f"三圍{mc.get('status', '官方未公開')}")
         if size:
             body.append("、".join(size) + "。")
         for k, label in (("body", "體型"), ("hair", "頭髮"), ("eyes", "眼睛"), ("expression", "表情"), ("posture", "姿態")):
